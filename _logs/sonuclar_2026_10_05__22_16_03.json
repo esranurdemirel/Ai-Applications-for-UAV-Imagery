@@ -1,0 +1,5772 @@
+{
+  "timestamp": "2026-10-05T22:19:59.365873",
+  "dataset_directory": "veriseti",
+  "total_frames_processed": 247,
+  "total_elapsed_seconds": 182.29,
+  "average_fps": 1.36,
+  "reference_intervals": {
+    "Referans_Nesne_01.JPG": [
+      200,
+      300
+    ],
+    "Referans_Nesne_02.JPG": [
+      0,
+      0
+    ],
+    "Referans_Nesne_03.JPG": [
+      0,
+      0
+    ],
+    "Referans_Nesne_04.JPG": [
+      0,
+      0
+    ],
+    "Referans_Nesne_05.jpg": [
+      0,
+      0
+    ],
+    "Referans_Nesne_06.jpg": [
+      0,
+      0
+    ]
+  },
+  "summary": {
+    "total_detections": 189,
+    "class_counts": {
+      "Tasit": 133,
+      "UAI": 3,
+      "Insan": 53
+    },
+    "total_reference_matches": 1
+  },
+  "frames": [
+    {
+      "frame_index": 0,
+      "frame_name": "frame_000000.jpg",
+      "elapsed_seconds": 17.0348,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1814,
+            5,
+            1886,
+            94
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0444,
+        "y": 0.0031,
+        "z": -0.0002,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": [
+        {
+          "reference_name": "Referans_Nesne_04.JPG",
+          "bbox": [
+            84,
+            588,
+            488,
+            904
+          ]
+        }
+      ]
+    },
+    {
+      "frame_index": 1,
+      "frame_name": "frame_000001.jpg",
+      "elapsed_seconds": 0.1677,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1814,
+            5,
+            1886,
+            94
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0266,
+        "y": 0.0049,
+        "z": -0.0051,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 2,
+      "frame_name": "frame_000002.jpg",
+      "elapsed_seconds": 0.1437,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1814,
+            5,
+            1885,
+            93
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0114,
+        "y": 0.0056,
+        "z": -0.0098,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 3,
+      "frame_name": "frame_000003.jpg",
+      "elapsed_seconds": 0.1379,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            93
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.0013,
+        "y": 0.0054,
+        "z": -0.0144,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 4,
+      "frame_name": "frame_000004.jpg",
+      "elapsed_seconds": 0.1429,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            93
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.0112,
+        "y": 0.004,
+        "z": -0.0187,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 5,
+      "frame_name": "frame_000005.jpg",
+      "elapsed_seconds": 0.1486,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1812,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.0185,
+        "y": 0.0016,
+        "z": -0.0228,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 6,
+      "frame_name": "frame_000006.jpg",
+      "elapsed_seconds": 0.1449,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.023,
+        "y": -0.002,
+        "z": -0.0268,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 7,
+      "frame_name": "frame_000007.jpg",
+      "elapsed_seconds": 0.1456,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.0248,
+        "y": -0.0067,
+        "z": -0.0306,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 8,
+      "frame_name": "frame_000008.jpg",
+      "elapsed_seconds": 0.1374,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.0238,
+        "y": -0.0125,
+        "z": -0.0342,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 9,
+      "frame_name": "frame_000009.jpg",
+      "elapsed_seconds": 0.1532,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.02,
+        "y": -0.0195,
+        "z": -0.0376,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 10,
+      "frame_name": "frame_000010.jpg",
+      "elapsed_seconds": 0.1399,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.0133,
+        "y": -0.0277,
+        "z": -0.0409,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 11,
+      "frame_name": "frame_000011.jpg",
+      "elapsed_seconds": 0.1387,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": -0.0037,
+        "y": -0.0372,
+        "z": -0.044,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 12,
+      "frame_name": "frame_000012.jpg",
+      "elapsed_seconds": 0.1347,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0087,
+        "y": -0.0478,
+        "z": -0.047,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 13,
+      "frame_name": "frame_000013.jpg",
+      "elapsed_seconds": 0.1312,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1885,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0241,
+        "y": -0.0597,
+        "z": -0.0499,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 14,
+      "frame_name": "frame_000014.jpg",
+      "elapsed_seconds": 0.1403,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            4,
+            1884,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0425,
+        "y": -0.0729,
+        "z": -0.0526,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 15,
+      "frame_name": "frame_000015.jpg",
+      "elapsed_seconds": 0.1419,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1812,
+            4,
+            1884,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0638,
+        "y": -0.0874,
+        "z": -0.0552,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 16,
+      "frame_name": "frame_000016.jpg",
+      "elapsed_seconds": 0.1389,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1812,
+            5,
+            1883,
+            92
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.0883,
+        "y": -0.1032,
+        "z": -0.0576,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 17,
+      "frame_name": "frame_000017.jpg",
+      "elapsed_seconds": 0.1333,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1812,
+            5,
+            1884,
+            93
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.1157,
+        "y": -0.1203,
+        "z": -0.0599,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 18,
+      "frame_name": "frame_000018.jpg",
+      "elapsed_seconds": 0.1516,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1811,
+            6,
+            1884,
+            94
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.1463,
+        "y": -0.1388,
+        "z": -0.0622,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 19,
+      "frame_name": "frame_000019.jpg",
+      "elapsed_seconds": 0.1512,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1811,
+            6,
+            1884,
+            95
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.18,
+        "y": -0.1586,
+        "z": -0.0643,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 20,
+      "frame_name": "frame_000020.jpg",
+      "elapsed_seconds": 0.1459,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1811,
+            7,
+            1883,
+            96
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.2169,
+        "y": -0.1799,
+        "z": -0.0663,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 21,
+      "frame_name": "frame_000021.jpg",
+      "elapsed_seconds": 0.1459,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1810,
+            8,
+            1883,
+            97
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.2569,
+        "y": -0.2026,
+        "z": -0.0682,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 22,
+      "frame_name": "frame_000022.jpg",
+      "elapsed_seconds": 0.2029,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1810,
+            8,
+            1883,
+            98
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.3002,
+        "y": -0.2267,
+        "z": -0.07,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 23,
+      "frame_name": "frame_000023.jpg",
+      "elapsed_seconds": 0.152,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1811,
+            11,
+            1882,
+            100
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.3467,
+        "y": -0.2523,
+        "z": -0.0717,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 24,
+      "frame_name": "frame_000024.jpg",
+      "elapsed_seconds": 0.1505,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1811,
+            13,
+            1883,
+            101
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.3965,
+        "y": -0.2793,
+        "z": -0.0733,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 25,
+      "frame_name": "frame_000025.jpg",
+      "elapsed_seconds": 0.1746,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1812,
+            15,
+            1883,
+            103
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.4496,
+        "y": -0.3079,
+        "z": -0.0749,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 26,
+      "frame_name": "frame_000026.jpg",
+      "elapsed_seconds": 0.1598,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            18,
+            1883,
+            104
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.505,
+        "y": -0.3384,
+        "z": -0.0763,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 27,
+      "frame_name": "frame_000027.jpg",
+      "elapsed_seconds": 0.1528,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            19,
+            1884,
+            106
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.5645,
+        "y": -0.3706,
+        "z": -0.0777,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 28,
+      "frame_name": "frame_000028.jpg",
+      "elapsed_seconds": 0.1523,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1813,
+            21,
+            1883,
+            107
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.6279,
+        "y": -0.4044,
+        "z": -0.079,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 29,
+      "frame_name": "frame_000029.jpg",
+      "elapsed_seconds": 0.1519,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1814,
+            23,
+            1884,
+            109
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.6955,
+        "y": -0.4399,
+        "z": -0.0803,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 30,
+      "frame_name": "frame_000030.jpg",
+      "elapsed_seconds": 0.1699,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1814,
+            24,
+            1884,
+            110
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.7673,
+        "y": -0.4771,
+        "z": -0.0816,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 31,
+      "frame_name": "frame_000031.jpg",
+      "elapsed_seconds": 0.1641,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1815,
+            26,
+            1885,
+            113
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.8431,
+        "y": -0.516,
+        "z": -0.0828,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 32,
+      "frame_name": "frame_000032.jpg",
+      "elapsed_seconds": 0.1533,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1815,
+            29,
+            1885,
+            115
+          ]
+        }
+      ],
+      "translation": {
+        "x": 0.9222,
+        "y": -0.5565,
+        "z": -0.0841,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 33,
+      "frame_name": "frame_000033.jpg",
+      "elapsed_seconds": 0.1506,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1814,
+            30,
+            1886,
+            117
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.0048,
+        "y": -0.5986,
+        "z": -0.0852,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 34,
+      "frame_name": "frame_000034.jpg",
+      "elapsed_seconds": 0.1538,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1815,
+            33,
+            1885,
+            119
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.0908,
+        "y": -0.6423,
+        "z": -0.0864,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 35,
+      "frame_name": "frame_000035.jpg",
+      "elapsed_seconds": 0.1448,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1815,
+            36,
+            1886,
+            122
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.1802,
+        "y": -0.6864,
+        "z": -0.0875,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 36,
+      "frame_name": "frame_000036.jpg",
+      "elapsed_seconds": 0.1405,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1816,
+            40,
+            1886,
+            125
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.2729,
+        "y": -0.7312,
+        "z": -0.0885,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 37,
+      "frame_name": "frame_000037.jpg",
+      "elapsed_seconds": 0.1384,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1816,
+            43,
+            1887,
+            129
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.3691,
+        "y": -0.7766,
+        "z": -0.0895,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 38,
+      "frame_name": "frame_000038.jpg",
+      "elapsed_seconds": 0.1402,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1817,
+            45,
+            1887,
+            131
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.4693,
+        "y": -0.825,
+        "z": -0.0905,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 39,
+      "frame_name": "frame_000039.jpg",
+      "elapsed_seconds": 0.1488,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1818,
+            47,
+            1888,
+            134
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.5736,
+        "y": -0.8764,
+        "z": -0.0916,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 40,
+      "frame_name": "frame_000040.jpg",
+      "elapsed_seconds": 0.1458,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1818,
+            50,
+            1888,
+            137
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.6821,
+        "y": -0.9308,
+        "z": -0.0927,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 41,
+      "frame_name": "frame_000041.jpg",
+      "elapsed_seconds": 0.1438,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1819,
+            53,
+            1889,
+            140
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.7929,
+        "y": -0.9871,
+        "z": -0.0938,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 42,
+      "frame_name": "frame_000042.jpg",
+      "elapsed_seconds": 0.1425,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1820,
+            57,
+            1889,
+            143
+          ]
+        }
+      ],
+      "translation": {
+        "x": 1.9061,
+        "y": -1.045,
+        "z": -0.095,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 43,
+      "frame_name": "frame_000043.jpg",
+      "elapsed_seconds": 0.1442,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1821,
+            60,
+            1890,
+            147
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.0215,
+        "y": -1.1045,
+        "z": -0.0962,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 44,
+      "frame_name": "frame_000044.jpg",
+      "elapsed_seconds": 0.148,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1821,
+            64,
+            1891,
+            152
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.1397,
+        "y": -1.1654,
+        "z": -0.0974,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 45,
+      "frame_name": "frame_000045.jpg",
+      "elapsed_seconds": 0.1516,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1821,
+            68,
+            1891,
+            155
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.2609,
+        "y": -1.228,
+        "z": -0.0987,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 46,
+      "frame_name": "frame_000046.jpg",
+      "elapsed_seconds": 0.1439,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1823,
+            72,
+            1891,
+            159
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.3847,
+        "y": -1.2923,
+        "z": -0.1,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 47,
+      "frame_name": "frame_000047.jpg",
+      "elapsed_seconds": 0.1433,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1823,
+            76,
+            1892,
+            163
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.5121,
+        "y": -1.3584,
+        "z": -0.1013,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 48,
+      "frame_name": "frame_000048.jpg",
+      "elapsed_seconds": 0.149,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1824,
+            79,
+            1894,
+            167
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.6431,
+        "y": -1.426,
+        "z": -0.1027,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 49,
+      "frame_name": "frame_000049.jpg",
+      "elapsed_seconds": 0.1434,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1825,
+            85,
+            1894,
+            171
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.7775,
+        "y": -1.4947,
+        "z": -0.1041,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 50,
+      "frame_name": "frame_000050.jpg",
+      "elapsed_seconds": 0.138,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1825,
+            88,
+            1895,
+            177
+          ]
+        }
+      ],
+      "translation": {
+        "x": 2.9146,
+        "y": -1.5645,
+        "z": -0.1056,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 51,
+      "frame_name": "frame_000051.jpg",
+      "elapsed_seconds": 0.1455,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1826,
+            92,
+            1896,
+            180
+          ]
+        }
+      ],
+      "translation": {
+        "x": 3.0544,
+        "y": -1.6354,
+        "z": -0.1071,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 52,
+      "frame_name": "frame_000052.jpg",
+      "elapsed_seconds": 0.1421,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1827,
+            97,
+            1897,
+            186
+          ]
+        }
+      ],
+      "translation": {
+        "x": 3.197,
+        "y": -1.7074,
+        "z": -0.1085,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 53,
+      "frame_name": "frame_000053.jpg",
+      "elapsed_seconds": 0.1389,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1827,
+            102,
+            1897,
+            190
+          ]
+        }
+      ],
+      "translation": {
+        "x": 3.3423,
+        "y": -1.7817,
+        "z": -0.11,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 54,
+      "frame_name": "frame_000054.jpg",
+      "elapsed_seconds": 0.1417,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1829,
+            107,
+            1897,
+            195
+          ]
+        }
+      ],
+      "translation": {
+        "x": 3.4903,
+        "y": -1.8581,
+        "z": -0.1114,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 55,
+      "frame_name": "frame_000055.jpg",
+      "elapsed_seconds": 0.1464,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1830,
+            112,
+            1899,
+            201
+          ]
+        }
+      ],
+      "translation": {
+        "x": 3.6409,
+        "y": -1.9363,
+        "z": -0.1128,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 56,
+      "frame_name": "frame_000056.jpg",
+      "elapsed_seconds": 0.1356,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1830,
+            117,
+            1901,
+            206
+          ]
+        }
+      ],
+      "translation": {
+        "x": 3.7949,
+        "y": -2.0161,
+        "z": -0.1142,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 57,
+      "frame_name": "frame_000057.jpg",
+      "elapsed_seconds": 0.1498,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1832,
+            123,
+            1902,
+            212
+          ]
+        }
+      ],
+      "translation": {
+        "x": 3.9522,
+        "y": -2.0975,
+        "z": -0.1156,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 58,
+      "frame_name": "frame_000058.jpg",
+      "elapsed_seconds": 0.1523,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1833,
+            129,
+            1903,
+            217
+          ]
+        }
+      ],
+      "translation": {
+        "x": 4.1128,
+        "y": -2.1801,
+        "z": -0.117,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 59,
+      "frame_name": "frame_000059.jpg",
+      "elapsed_seconds": 0.1668,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1835,
+            135,
+            1904,
+            223
+          ]
+        }
+      ],
+      "translation": {
+        "x": 4.2767,
+        "y": -2.2629,
+        "z": -0.1183,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 60,
+      "frame_name": "frame_000060.jpg",
+      "elapsed_seconds": 0.1473,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1836,
+            141,
+            1905,
+            229
+          ]
+        }
+      ],
+      "translation": {
+        "x": 4.4437,
+        "y": -2.3456,
+        "z": -0.1196,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 61,
+      "frame_name": "frame_000061.jpg",
+      "elapsed_seconds": 0.1645,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1837,
+            147,
+            1907,
+            235
+          ]
+        }
+      ],
+      "translation": {
+        "x": 4.6138,
+        "y": -2.4285,
+        "z": -0.1208,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 62,
+      "frame_name": "frame_000062.jpg",
+      "elapsed_seconds": 0.1445,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1839,
+            154,
+            1907,
+            241
+          ]
+        }
+      ],
+      "translation": {
+        "x": 4.7869,
+        "y": -2.5122,
+        "z": -0.1219,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 63,
+      "frame_name": "frame_000063.jpg",
+      "elapsed_seconds": 0.1398,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1840,
+            161,
+            1909,
+            249
+          ]
+        }
+      ],
+      "translation": {
+        "x": 4.9631,
+        "y": -2.5967,
+        "z": -0.123,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 64,
+      "frame_name": "frame_000064.jpg",
+      "elapsed_seconds": 0.1564,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1842,
+            168,
+            1911,
+            256
+          ]
+        }
+      ],
+      "translation": {
+        "x": 5.1426,
+        "y": -2.6816,
+        "z": -0.124,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 65,
+      "frame_name": "frame_000065.jpg",
+      "elapsed_seconds": 0.1638,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1843,
+            175,
+            1913,
+            264
+          ]
+        }
+      ],
+      "translation": {
+        "x": 5.3245,
+        "y": -2.7678,
+        "z": -0.1249,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 66,
+      "frame_name": "frame_000066.jpg",
+      "elapsed_seconds": 0.1678,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1845,
+            183,
+            1913,
+            271
+          ]
+        }
+      ],
+      "translation": {
+        "x": 5.5087,
+        "y": -2.8552,
+        "z": -0.1258,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 67,
+      "frame_name": "frame_000067.jpg",
+      "elapsed_seconds": 0.1559,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1846,
+            190,
+            1915,
+            278
+          ]
+        }
+      ],
+      "translation": {
+        "x": 5.695,
+        "y": -2.9438,
+        "z": -0.1265,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 68,
+      "frame_name": "frame_000068.jpg",
+      "elapsed_seconds": 0.1466,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1848,
+            198,
+            1915,
+            286
+          ]
+        }
+      ],
+      "translation": {
+        "x": 5.8841,
+        "y": -3.0335,
+        "z": -0.1272,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 69,
+      "frame_name": "frame_000069.jpg",
+      "elapsed_seconds": 0.1454,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1849,
+            207,
+            1917,
+            296
+          ]
+        }
+      ],
+      "translation": {
+        "x": 6.0759,
+        "y": -3.1242,
+        "z": -0.1277,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 70,
+      "frame_name": "frame_000070.jpg",
+      "elapsed_seconds": 0.14,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1851,
+            214,
+            1918,
+            304
+          ]
+        }
+      ],
+      "translation": {
+        "x": 6.2703,
+        "y": -3.2159,
+        "z": -0.1282,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 71,
+      "frame_name": "frame_000071.jpg",
+      "elapsed_seconds": 0.1407,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1853,
+            223,
+            1918,
+            313
+          ]
+        }
+      ],
+      "translation": {
+        "x": 6.4681,
+        "y": -3.3072,
+        "z": -0.1285,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 72,
+      "frame_name": "frame_000072.jpg",
+      "elapsed_seconds": 0.1421,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1854,
+            232,
+            1919,
+            321
+          ]
+        }
+      ],
+      "translation": {
+        "x": 6.6693,
+        "y": -3.3979,
+        "z": -0.1287,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 73,
+      "frame_name": "frame_000073.jpg",
+      "elapsed_seconds": 0.1331,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1856,
+            241,
+            1920,
+            330
+          ]
+        }
+      ],
+      "translation": {
+        "x": 6.8739,
+        "y": -3.4877,
+        "z": -0.1287,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 74,
+      "frame_name": "frame_000074.jpg",
+      "elapsed_seconds": 0.1373,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1857,
+            250,
+            1920,
+            339
+          ]
+        }
+      ],
+      "translation": {
+        "x": 7.0817,
+        "y": -3.5774,
+        "z": -0.1287,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 75,
+      "frame_name": "frame_000075.jpg",
+      "elapsed_seconds": 0.1385,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1859,
+            259,
+            1920,
+            348
+          ]
+        }
+      ],
+      "translation": {
+        "x": 7.2927,
+        "y": -3.667,
+        "z": -0.1286,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 76,
+      "frame_name": "frame_000076.jpg",
+      "elapsed_seconds": 0.1409,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1861,
+            268,
+            1920,
+            357
+          ]
+        }
+      ],
+      "translation": {
+        "x": 7.5069,
+        "y": -3.7563,
+        "z": -0.1283,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 77,
+      "frame_name": "frame_000077.jpg",
+      "elapsed_seconds": 0.1406,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1863,
+            276,
+            1920,
+            367
+          ]
+        }
+      ],
+      "translation": {
+        "x": 7.7232,
+        "y": -3.8453,
+        "z": -0.1279,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 78,
+      "frame_name": "frame_000078.jpg",
+      "elapsed_seconds": 0.1374,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1864,
+            285,
+            1920,
+            378
+          ]
+        }
+      ],
+      "translation": {
+        "x": 7.9418,
+        "y": -3.9338,
+        "z": -0.1274,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 79,
+      "frame_name": "frame_000079.jpg",
+      "elapsed_seconds": 0.1393,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1866,
+            295,
+            1920,
+            387
+          ]
+        }
+      ],
+      "translation": {
+        "x": 8.1625,
+        "y": -4.0217,
+        "z": -0.1267,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 80,
+      "frame_name": "frame_000080.jpg",
+      "elapsed_seconds": 0.1401,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1868,
+            304,
+            1920,
+            395
+          ]
+        }
+      ],
+      "translation": {
+        "x": 8.3861,
+        "y": -4.109,
+        "z": -0.126,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 81,
+      "frame_name": "frame_000081.jpg",
+      "elapsed_seconds": 0.1396,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1870,
+            314,
+            1920,
+            404
+          ]
+        }
+      ],
+      "translation": {
+        "x": 8.6123,
+        "y": -4.1956,
+        "z": -0.1251,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 82,
+      "frame_name": "frame_000082.jpg",
+      "elapsed_seconds": 0.1394,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1872,
+            323,
+            1920,
+            414
+          ]
+        }
+      ],
+      "translation": {
+        "x": 8.8408,
+        "y": -4.2813,
+        "z": -0.1241,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 83,
+      "frame_name": "frame_000083.jpg",
+      "elapsed_seconds": 0.1354,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1872,
+            332,
+            1920,
+            423
+          ]
+        }
+      ],
+      "translation": {
+        "x": 9.0715,
+        "y": -4.366,
+        "z": -0.123,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 84,
+      "frame_name": "frame_000084.jpg",
+      "elapsed_seconds": 0.1412,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1875,
+            342,
+            1920,
+            434
+          ]
+        }
+      ],
+      "translation": {
+        "x": 9.3044,
+        "y": -4.4497,
+        "z": -0.1218,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 85,
+      "frame_name": "frame_000085.jpg",
+      "elapsed_seconds": 0.1397,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1876,
+            352,
+            1920,
+            442
+          ]
+        }
+      ],
+      "translation": {
+        "x": 9.5394,
+        "y": -4.5322,
+        "z": -0.1205,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 86,
+      "frame_name": "frame_000086.jpg",
+      "elapsed_seconds": 0.1366,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1878,
+            361,
+            1920,
+            452
+          ]
+        }
+      ],
+      "translation": {
+        "x": 9.7758,
+        "y": -4.6157,
+        "z": -0.1191,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 87,
+      "frame_name": "frame_000087.jpg",
+      "elapsed_seconds": 0.1376,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1879,
+            370,
+            1919,
+            463
+          ]
+        }
+      ],
+      "translation": {
+        "x": 10.0135,
+        "y": -4.7,
+        "z": -0.1176,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 88,
+      "frame_name": "frame_000088.jpg",
+      "elapsed_seconds": 0.1399,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1881,
+            380,
+            1920,
+            472
+          ]
+        }
+      ],
+      "translation": {
+        "x": 10.2528,
+        "y": -4.785,
+        "z": -0.116,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 89,
+      "frame_name": "frame_000089.jpg",
+      "elapsed_seconds": 0.1423,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1883,
+            390,
+            1919,
+            482
+          ]
+        }
+      ],
+      "translation": {
+        "x": 10.4942,
+        "y": -4.8687,
+        "z": -0.1143,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 90,
+      "frame_name": "frame_000090.jpg",
+      "elapsed_seconds": 0.1405,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1883,
+            401,
+            1919,
+            492
+          ]
+        }
+      ],
+      "translation": {
+        "x": 10.7377,
+        "y": -4.9508,
+        "z": -0.1126,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 91,
+      "frame_name": "frame_000091.jpg",
+      "elapsed_seconds": 0.1389,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1884,
+            411,
+            1919,
+            504
+          ]
+        }
+      ],
+      "translation": {
+        "x": 10.983,
+        "y": -5.0313,
+        "z": -0.1107,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 92,
+      "frame_name": "frame_000092.jpg",
+      "elapsed_seconds": 0.1331,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1885,
+            421,
+            1919,
+            516
+          ]
+        }
+      ],
+      "translation": {
+        "x": 11.2301,
+        "y": -5.1112,
+        "z": -0.1088,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 93,
+      "frame_name": "frame_000093.jpg",
+      "elapsed_seconds": 0.1373,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1887,
+            430,
+            1919,
+            524
+          ]
+        }
+      ],
+      "translation": {
+        "x": 11.479,
+        "y": -5.1903,
+        "z": -0.1069,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 94,
+      "frame_name": "frame_000094.jpg",
+      "elapsed_seconds": 0.1473,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1887,
+            439,
+            1919,
+            534
+          ]
+        }
+      ],
+      "translation": {
+        "x": 11.7298,
+        "y": -5.2682,
+        "z": -0.1048,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 95,
+      "frame_name": "frame_000095.jpg",
+      "elapsed_seconds": 0.1632,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1889,
+            450,
+            1919,
+            544
+          ]
+        }
+      ],
+      "translation": {
+        "x": 11.9832,
+        "y": -5.3449,
+        "z": -0.1027,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 96,
+      "frame_name": "frame_000096.jpg",
+      "elapsed_seconds": 0.1613,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1890,
+            462,
+            1919,
+            560
+          ]
+        }
+      ],
+      "translation": {
+        "x": 12.2391,
+        "y": -5.4207,
+        "z": -0.1006,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 97,
+      "frame_name": "frame_000097.jpg",
+      "elapsed_seconds": 0.1594,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1892,
+            472,
+            1919,
+            573
+          ]
+        }
+      ],
+      "translation": {
+        "x": 12.4973,
+        "y": -5.4958,
+        "z": -0.0983,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 98,
+      "frame_name": "frame_000098.jpg",
+      "elapsed_seconds": 0.1813,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1893,
+            483,
+            1919,
+            590
+          ]
+        }
+      ],
+      "translation": {
+        "x": 12.7569,
+        "y": -5.5701,
+        "z": -0.0961,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 99,
+      "frame_name": "frame_000099.jpg",
+      "elapsed_seconds": 0.1613,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1894,
+            495,
+            1919,
+            597
+          ]
+        }
+      ],
+      "translation": {
+        "x": 13.0177,
+        "y": -5.6435,
+        "z": -0.0937,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 100,
+      "frame_name": "frame_000100.jpg",
+      "elapsed_seconds": 0.1442,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1895,
+            505,
+            1919,
+            619
+          ]
+        }
+      ],
+      "translation": {
+        "x": 13.2798,
+        "y": -5.7157,
+        "z": -0.0912,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 101,
+      "frame_name": "frame_000101.jpg",
+      "elapsed_seconds": 0.1441,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1896,
+            515,
+            1919,
+            632
+          ]
+        }
+      ],
+      "translation": {
+        "x": 13.5438,
+        "y": -5.7877,
+        "z": -0.0887,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 102,
+      "frame_name": "frame_000102.jpg",
+      "elapsed_seconds": 0.1414,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1896,
+            525,
+            1919,
+            637
+          ]
+        }
+      ],
+      "translation": {
+        "x": 13.8099,
+        "y": -5.8597,
+        "z": -0.0862,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 103,
+      "frame_name": "frame_000103.jpg",
+      "elapsed_seconds": 0.1351,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1898,
+            536,
+            1919,
+            645
+          ]
+        }
+      ],
+      "translation": {
+        "x": 14.078,
+        "y": -5.9316,
+        "z": -0.0835,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 104,
+      "frame_name": "frame_000104.jpg",
+      "elapsed_seconds": 0.136,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1899,
+            546,
+            1919,
+            649
+          ]
+        }
+      ],
+      "translation": {
+        "x": 14.3482,
+        "y": -6.0024,
+        "z": -0.0808,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 105,
+      "frame_name": "frame_000105.jpg",
+      "elapsed_seconds": 0.1394,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1899,
+            558,
+            1919,
+            663
+          ]
+        }
+      ],
+      "translation": {
+        "x": 14.6203,
+        "y": -6.0718,
+        "z": -0.0781,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 106,
+      "frame_name": "frame_000106.jpg",
+      "elapsed_seconds": 0.1365,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1900,
+            567,
+            1919,
+            681
+          ]
+        }
+      ],
+      "translation": {
+        "x": 14.8944,
+        "y": -6.1399,
+        "z": -0.0753,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 107,
+      "frame_name": "frame_000107.jpg",
+      "elapsed_seconds": 0.1412,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1901,
+            576,
+            1919,
+            699
+          ]
+        }
+      ],
+      "translation": {
+        "x": 15.1703,
+        "y": -6.2064,
+        "z": -0.0724,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 108,
+      "frame_name": "frame_000108.jpg",
+      "elapsed_seconds": 0.1455,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1902,
+            589,
+            1919,
+            711
+          ]
+        }
+      ],
+      "translation": {
+        "x": 15.4481,
+        "y": -6.2713,
+        "z": -0.0694,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 109,
+      "frame_name": "frame_000109.jpg",
+      "elapsed_seconds": 0.1447,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1902,
+            600,
+            1919,
+            736
+          ]
+        }
+      ],
+      "translation": {
+        "x": 15.7275,
+        "y": -6.3344,
+        "z": -0.0664,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 110,
+      "frame_name": "frame_000110.jpg",
+      "elapsed_seconds": 0.14,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1902,
+            608,
+            1919,
+            747
+          ]
+        }
+      ],
+      "translation": {
+        "x": 16.0086,
+        "y": -6.3969,
+        "z": -0.0633,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 111,
+      "frame_name": "frame_000111.jpg",
+      "elapsed_seconds": 0.1411,
+      "detections": [],
+      "translation": {
+        "x": 16.291,
+        "y": -6.459,
+        "z": -0.0603,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 112,
+      "frame_name": "frame_000112.jpg",
+      "elapsed_seconds": 0.1392,
+      "detections": [],
+      "translation": {
+        "x": 16.5747,
+        "y": -6.5207,
+        "z": -0.0572,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 113,
+      "frame_name": "frame_000113.jpg",
+      "elapsed_seconds": 0.1371,
+      "detections": [],
+      "translation": {
+        "x": 16.8604,
+        "y": -6.5821,
+        "z": -0.0542,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 114,
+      "frame_name": "frame_000114.jpg",
+      "elapsed_seconds": 0.1352,
+      "detections": [],
+      "translation": {
+        "x": 17.1481,
+        "y": -6.6429,
+        "z": -0.0511,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 115,
+      "frame_name": "frame_000115.jpg",
+      "elapsed_seconds": 0.1324,
+      "detections": [],
+      "translation": {
+        "x": 17.4376,
+        "y": -6.7029,
+        "z": -0.048,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 116,
+      "frame_name": "frame_000116.jpg",
+      "elapsed_seconds": 0.134,
+      "detections": [],
+      "translation": {
+        "x": 17.7283,
+        "y": -6.7609,
+        "z": -0.0449,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 117,
+      "frame_name": "frame_000117.jpg",
+      "elapsed_seconds": 0.1364,
+      "detections": [],
+      "translation": {
+        "x": 18.0202,
+        "y": -6.8169,
+        "z": -0.0418,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 118,
+      "frame_name": "frame_000118.jpg",
+      "elapsed_seconds": 0.1404,
+      "detections": [],
+      "translation": {
+        "x": 18.3133,
+        "y": -6.871,
+        "z": -0.0386,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 119,
+      "frame_name": "frame_000119.jpg",
+      "elapsed_seconds": 0.137,
+      "detections": [],
+      "translation": {
+        "x": 18.6085,
+        "y": -6.9241,
+        "z": -0.0355,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 120,
+      "frame_name": "frame_000120.jpg",
+      "elapsed_seconds": 0.1347,
+      "detections": [],
+      "translation": {
+        "x": 18.9056,
+        "y": -6.9762,
+        "z": -0.0323,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 121,
+      "frame_name": "frame_000121.jpg",
+      "elapsed_seconds": 0.1383,
+      "detections": [],
+      "translation": {
+        "x": 19.2046,
+        "y": -7.0271,
+        "z": -0.0292,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 122,
+      "frame_name": "frame_000122.jpg",
+      "elapsed_seconds": 0.1404,
+      "detections": [],
+      "translation": {
+        "x": 19.5044,
+        "y": -7.0756,
+        "z": -0.0261,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 123,
+      "frame_name": "frame_000123.jpg",
+      "elapsed_seconds": 0.1373,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            229,
+            760,
+            295,
+            792
+          ]
+        }
+      ],
+      "translation": {
+        "x": 19.8051,
+        "y": -7.1219,
+        "z": -0.023,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 124,
+      "frame_name": "frame_000124.jpg",
+      "elapsed_seconds": 0.1409,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            229,
+            765,
+            295,
+            797
+          ]
+        }
+      ],
+      "translation": {
+        "x": 20.1066,
+        "y": -7.166,
+        "z": -0.0199,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 125,
+      "frame_name": "frame_000125.jpg",
+      "elapsed_seconds": 0.1371,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            229,
+            769,
+            298,
+            802
+          ]
+        }
+      ],
+      "translation": {
+        "x": 20.4097,
+        "y": -7.2091,
+        "z": -0.0168,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 126,
+      "frame_name": "frame_000126.jpg",
+      "elapsed_seconds": 0.149,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            230,
+            776,
+            300,
+            807
+          ]
+        }
+      ],
+      "translation": {
+        "x": 20.7141,
+        "y": -7.2511,
+        "z": -0.0137,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 127,
+      "frame_name": "frame_000127.jpg",
+      "elapsed_seconds": 0.1537,
+      "detections": [],
+      "translation": {
+        "x": 21.0197,
+        "y": -7.2919,
+        "z": -0.0106,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 128,
+      "frame_name": "frame_000128.jpg",
+      "elapsed_seconds": 0.1592,
+      "detections": [],
+      "translation": {
+        "x": 21.3262,
+        "y": -7.3315,
+        "z": -0.0076,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 129,
+      "frame_name": "frame_000129.jpg",
+      "elapsed_seconds": 0.1384,
+      "detections": [],
+      "translation": {
+        "x": 21.6338,
+        "y": -7.3698,
+        "z": -0.0047,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 130,
+      "frame_name": "frame_000130.jpg",
+      "elapsed_seconds": 0.138,
+      "detections": [],
+      "translation": {
+        "x": 21.9425,
+        "y": -7.4068,
+        "z": -0.0018,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 131,
+      "frame_name": "frame_000131.jpg",
+      "elapsed_seconds": 0.1376,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Hareketli",
+          "bbox": [
+            231,
+            801,
+            298,
+            832
+          ]
+        }
+      ],
+      "translation": {
+        "x": 22.2515,
+        "y": -7.4425,
+        "z": 0.001,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 132,
+      "frame_name": "frame_000132.jpg",
+      "elapsed_seconds": 0.1448,
+      "detections": [],
+      "translation": {
+        "x": 22.5606,
+        "y": -7.477,
+        "z": 0.0039,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 133,
+      "frame_name": "frame_000133.jpg",
+      "elapsed_seconds": 0.1462,
+      "detections": [],
+      "translation": {
+        "x": 22.8697,
+        "y": -7.5102,
+        "z": 0.0069,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 134,
+      "frame_name": "frame_000134.jpg",
+      "elapsed_seconds": 0.14,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1902,
+            880,
+            1919,
+            987
+          ]
+        }
+      ],
+      "translation": {
+        "x": 23.1794,
+        "y": -7.5433,
+        "z": 0.0098,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 135,
+      "frame_name": "frame_000135.jpg",
+      "elapsed_seconds": 0.1434,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1900,
+            894,
+            1919,
+            997
+          ]
+        }
+      ],
+      "translation": {
+        "x": 23.4898,
+        "y": -7.576,
+        "z": 0.0127,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 136,
+      "frame_name": "frame_000136.jpg",
+      "elapsed_seconds": 0.1592,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1899,
+            908,
+            1919,
+            1008
+          ]
+        }
+      ],
+      "translation": {
+        "x": 23.8008,
+        "y": -7.6082,
+        "z": 0.0156,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 137,
+      "frame_name": "frame_000137.jpg",
+      "elapsed_seconds": 0.1545,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1899,
+            918,
+            1919,
+            1020
+          ]
+        }
+      ],
+      "translation": {
+        "x": 24.1139,
+        "y": -7.6377,
+        "z": 0.0185,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 138,
+      "frame_name": "frame_000138.jpg",
+      "elapsed_seconds": 0.1438,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1897,
+            932,
+            1919,
+            1031
+          ]
+        }
+      ],
+      "translation": {
+        "x": 24.4292,
+        "y": -7.6644,
+        "z": 0.0213,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 139,
+      "frame_name": "frame_000139.jpg",
+      "elapsed_seconds": 0.1352,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1895,
+            944,
+            1919,
+            1044
+          ]
+        }
+      ],
+      "translation": {
+        "x": 24.7466,
+        "y": -7.6883,
+        "z": 0.0241,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 140,
+      "frame_name": "frame_000140.jpg",
+      "elapsed_seconds": 0.1381,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1894,
+            957,
+            1919,
+            1060
+          ]
+        },
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Hareketli",
+          "bbox": [
+            235,
+            851,
+            299,
+            880
+          ]
+        }
+      ],
+      "translation": {
+        "x": 25.0644,
+        "y": -7.7114,
+        "z": 0.0269,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 141,
+      "frame_name": "frame_000141.jpg",
+      "elapsed_seconds": 0.144,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1892,
+            968,
+            1919,
+            1068
+          ]
+        }
+      ],
+      "translation": {
+        "x": 25.3825,
+        "y": -7.7337,
+        "z": 0.0297,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 142,
+      "frame_name": "frame_000142.jpg",
+      "elapsed_seconds": 0.1385,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1891,
+            980,
+            1919,
+            1075
+          ]
+        }
+      ],
+      "translation": {
+        "x": 25.7008,
+        "y": -7.7552,
+        "z": 0.0324,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 143,
+      "frame_name": "frame_000143.jpg",
+      "elapsed_seconds": 0.1642,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1889,
+            992,
+            1919,
+            1080
+          ]
+        }
+      ],
+      "translation": {
+        "x": 26.0201,
+        "y": -7.7737,
+        "z": 0.0352,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 144,
+      "frame_name": "frame_000144.jpg",
+      "elapsed_seconds": 0.1351,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1889,
+            1003,
+            1919,
+            1080
+          ]
+        }
+      ],
+      "translation": {
+        "x": 26.3405,
+        "y": -7.7892,
+        "z": 0.038,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 145,
+      "frame_name": "frame_000145.jpg",
+      "elapsed_seconds": 0.1391,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1887,
+            1013,
+            1919,
+            1080
+          ]
+        },
+        {
+          "cls_key": "UAI",
+          "landing_key": "Inilemez",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            1888,
+            1009,
+            1920,
+            1079
+          ]
+        }
+      ],
+      "translation": {
+        "x": 26.6621,
+        "y": -7.8019,
+        "z": 0.0407,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 146,
+      "frame_name": "frame_000146.jpg",
+      "elapsed_seconds": 0.1345,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1886,
+            1026,
+            1919,
+            1080
+          ]
+        }
+      ],
+      "translation": {
+        "x": 26.9839,
+        "y": -7.8138,
+        "z": 0.0434,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 147,
+      "frame_name": "frame_000147.jpg",
+      "elapsed_seconds": 0.1396,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1886,
+            1037,
+            1919,
+            1080
+          ]
+        },
+        {
+          "cls_key": "UAI",
+          "landing_key": "Inilemez",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            1887,
+            1034,
+            1919,
+            1078
+          ]
+        }
+      ],
+      "translation": {
+        "x": 27.306,
+        "y": -7.8251,
+        "z": 0.0462,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 148,
+      "frame_name": "frame_000148.jpg",
+      "elapsed_seconds": 0.1387,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1884,
+            1047,
+            1919,
+            1079
+          ]
+        }
+      ],
+      "translation": {
+        "x": 27.628,
+        "y": -7.8359,
+        "z": 0.0489,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 149,
+      "frame_name": "frame_000149.jpg",
+      "elapsed_seconds": 0.1493,
+      "detections": [
+        {
+          "cls_key": "Tasit",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Sabit",
+          "bbox": [
+            1883,
+            1056,
+            1919,
+            1080
+          ]
+        },
+        {
+          "cls_key": "UAI",
+          "landing_key": "Inilemez",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            1885,
+            1057,
+            1920,
+            1080
+          ]
+        }
+      ],
+      "translation": {
+        "x": 27.9508,
+        "y": -7.845,
+        "z": 0.0516,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 150,
+      "frame_name": "frame_000150.jpg",
+      "elapsed_seconds": 0.1408,
+      "detections": [],
+      "translation": {
+        "x": 28.2744,
+        "y": -7.8524,
+        "z": 0.0544,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 151,
+      "frame_name": "frame_000151.jpg",
+      "elapsed_seconds": 0.1426,
+      "detections": [],
+      "translation": {
+        "x": 28.5988,
+        "y": -7.858,
+        "z": 0.057,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 152,
+      "frame_name": "frame_000152.jpg",
+      "elapsed_seconds": 0.1574,
+      "detections": [],
+      "translation": {
+        "x": 28.9239,
+        "y": -7.8617,
+        "z": 0.0597,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 153,
+      "frame_name": "frame_000153.jpg",
+      "elapsed_seconds": 0.1486,
+      "detections": [],
+      "translation": {
+        "x": 29.2498,
+        "y": -7.8636,
+        "z": 0.0624,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 154,
+      "frame_name": "frame_000154.jpg",
+      "elapsed_seconds": 0.1528,
+      "detections": [],
+      "translation": {
+        "x": 29.5764,
+        "y": -7.8636,
+        "z": 0.0651,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 155,
+      "frame_name": "frame_000155.jpg",
+      "elapsed_seconds": 0.1939,
+      "detections": [],
+      "translation": {
+        "x": 29.9037,
+        "y": -7.8617,
+        "z": 0.0678,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 156,
+      "frame_name": "frame_000156.jpg",
+      "elapsed_seconds": 0.1383,
+      "detections": [],
+      "translation": {
+        "x": 30.2317,
+        "y": -7.858,
+        "z": 0.0706,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 157,
+      "frame_name": "frame_000157.jpg",
+      "elapsed_seconds": 0.1493,
+      "detections": [],
+      "translation": {
+        "x": 30.5603,
+        "y": -7.8524,
+        "z": 0.0733,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 158,
+      "frame_name": "frame_000158.jpg",
+      "elapsed_seconds": 0.1644,
+      "detections": [],
+      "translation": {
+        "x": 30.8895,
+        "y": -7.845,
+        "z": 0.076,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 159,
+      "frame_name": "frame_000159.jpg",
+      "elapsed_seconds": 0.1424,
+      "detections": [],
+      "translation": {
+        "x": 31.2192,
+        "y": -7.8358,
+        "z": 0.0786,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 160,
+      "frame_name": "frame_000160.jpg",
+      "elapsed_seconds": 0.1573,
+      "detections": [],
+      "translation": {
+        "x": 31.5494,
+        "y": -7.8251,
+        "z": 0.0813,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 161,
+      "frame_name": "frame_000161.jpg",
+      "elapsed_seconds": 0.1441,
+      "detections": [],
+      "translation": {
+        "x": 31.8799,
+        "y": -7.8138,
+        "z": 0.0839,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 162,
+      "frame_name": "frame_000162.jpg",
+      "elapsed_seconds": 0.1498,
+      "detections": [],
+      "translation": {
+        "x": 32.2108,
+        "y": -7.8019,
+        "z": 0.0865,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 163,
+      "frame_name": "frame_000163.jpg",
+      "elapsed_seconds": 0.1567,
+      "detections": [],
+      "translation": {
+        "x": 32.5419,
+        "y": -7.7892,
+        "z": 0.0891,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 164,
+      "frame_name": "frame_000164.jpg",
+      "elapsed_seconds": 0.1575,
+      "detections": [],
+      "translation": {
+        "x": 32.8732,
+        "y": -7.7737,
+        "z": 0.0918,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 165,
+      "frame_name": "frame_000165.jpg",
+      "elapsed_seconds": 0.1544,
+      "detections": [],
+      "translation": {
+        "x": 33.2046,
+        "y": -7.7551,
+        "z": 0.0944,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 166,
+      "frame_name": "frame_000166.jpg",
+      "elapsed_seconds": 0.1557,
+      "detections": [],
+      "translation": {
+        "x": 33.5359,
+        "y": -7.7336,
+        "z": 0.097,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 167,
+      "frame_name": "frame_000167.jpg",
+      "elapsed_seconds": 0.1572,
+      "detections": [],
+      "translation": {
+        "x": 33.868,
+        "y": -7.7113,
+        "z": 0.0996,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 168,
+      "frame_name": "frame_000168.jpg",
+      "elapsed_seconds": 0.157,
+      "detections": [],
+      "translation": {
+        "x": 34.2009,
+        "y": -7.6882,
+        "z": 0.102,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 169,
+      "frame_name": "frame_000169.jpg",
+      "elapsed_seconds": 0.1598,
+      "detections": [],
+      "translation": {
+        "x": 34.5347,
+        "y": -7.6644,
+        "z": 0.1045,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 170,
+      "frame_name": "frame_000170.jpg",
+      "elapsed_seconds": 0.186,
+      "detections": [],
+      "translation": {
+        "x": 34.8685,
+        "y": -7.6387,
+        "z": 0.1068,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 171,
+      "frame_name": "frame_000171.jpg",
+      "elapsed_seconds": 0.1531,
+      "detections": [],
+      "translation": {
+        "x": 35.2023,
+        "y": -7.6109,
+        "z": 0.1091,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 172,
+      "frame_name": "frame_000172.jpg",
+      "elapsed_seconds": 0.1539,
+      "detections": [],
+      "translation": {
+        "x": 35.5359,
+        "y": -7.581,
+        "z": 0.1114,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 173,
+      "frame_name": "frame_000173.jpg",
+      "elapsed_seconds": 0.1575,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            145,
+            641,
+            166,
+            659
+          ]
+        }
+      ],
+      "translation": {
+        "x": 35.87,
+        "y": -7.5501,
+        "z": 0.1136,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 174,
+      "frame_name": "frame_000174.jpg",
+      "elapsed_seconds": 0.1553,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            148,
+            642,
+            169,
+            663
+          ]
+        },
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            94,
+            811,
+            122,
+            845
+          ]
+        }
+      ],
+      "translation": {
+        "x": 36.2048,
+        "y": -7.5182,
+        "z": 0.1156,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 175,
+      "frame_name": "frame_000175.jpg",
+      "elapsed_seconds": 0.1525,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            149,
+            649,
+            169,
+            670
+          ]
+        },
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            94,
+            816,
+            122,
+            850
+          ]
+        }
+      ],
+      "translation": {
+        "x": 36.5402,
+        "y": -7.4857,
+        "z": 0.1176,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 176,
+      "frame_name": "frame_000176.jpg",
+      "elapsed_seconds": 0.1519,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            96,
+            821,
+            121,
+            856
+          ]
+        }
+      ],
+      "translation": {
+        "x": 36.8755,
+        "y": -7.4513,
+        "z": 0.1195,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 177,
+      "frame_name": "frame_000177.jpg",
+      "elapsed_seconds": 0.1545,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            97,
+            828,
+            123,
+            860
+          ]
+        }
+      ],
+      "translation": {
+        "x": 37.2104,
+        "y": -7.4152,
+        "z": 0.1212,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 178,
+      "frame_name": "frame_000178.jpg",
+      "elapsed_seconds": 0.1377,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            97,
+            832,
+            124,
+            865
+          ]
+        }
+      ],
+      "translation": {
+        "x": 37.5448,
+        "y": -7.3774,
+        "z": 0.1228,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 179,
+      "frame_name": "frame_000179.jpg",
+      "elapsed_seconds": 0.1397,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            838,
+            125,
+            870
+          ]
+        }
+      ],
+      "translation": {
+        "x": 37.8796,
+        "y": -7.3378,
+        "z": 0.1244,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 180,
+      "frame_name": "frame_000180.jpg",
+      "elapsed_seconds": 0.1631,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            842,
+            125,
+            875
+          ]
+        }
+      ],
+      "translation": {
+        "x": 38.2146,
+        "y": -7.2966,
+        "z": 0.126,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 181,
+      "frame_name": "frame_000181.jpg",
+      "elapsed_seconds": 0.141,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            846,
+            125,
+            878
+          ]
+        }
+      ],
+      "translation": {
+        "x": 38.55,
+        "y": -7.2537,
+        "z": 0.1275,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 182,
+      "frame_name": "frame_000182.jpg",
+      "elapsed_seconds": 0.1474,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            851,
+            126,
+            883
+          ]
+        }
+      ],
+      "translation": {
+        "x": 38.8865,
+        "y": -7.2103,
+        "z": 0.1289,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 183,
+      "frame_name": "frame_000183.jpg",
+      "elapsed_seconds": 0.1408,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            102,
+            859,
+            126,
+            891
+          ]
+        }
+      ],
+      "translation": {
+        "x": 39.2239,
+        "y": -7.1662,
+        "z": 0.1302,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 184,
+      "frame_name": "frame_000184.jpg",
+      "elapsed_seconds": 0.1431,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            864,
+            126,
+            895
+          ]
+        }
+      ],
+      "translation": {
+        "x": 39.5622,
+        "y": -7.1213,
+        "z": 0.1314,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 185,
+      "frame_name": "frame_000185.jpg",
+      "elapsed_seconds": 0.1474,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            870,
+            125,
+            900
+          ]
+        }
+      ],
+      "translation": {
+        "x": 39.9005,
+        "y": -7.0734,
+        "z": 0.1325,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 186,
+      "frame_name": "frame_000186.jpg",
+      "elapsed_seconds": 0.1428,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            101,
+            875,
+            126,
+            904
+          ]
+        },
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            233,
+            487,
+            259,
+            514
+          ]
+        }
+      ],
+      "translation": {
+        "x": 40.2387,
+        "y": -7.0224,
+        "z": 0.1335,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 187,
+      "frame_name": "frame_000187.jpg",
+      "elapsed_seconds": 0.1399,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            876,
+            126,
+            908
+          ]
+        },
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            234,
+            491,
+            261,
+            518
+          ]
+        }
+      ],
+      "translation": {
+        "x": 40.577,
+        "y": -6.9683,
+        "z": 0.1343,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 188,
+      "frame_name": "frame_000188.jpg",
+      "elapsed_seconds": 0.1408,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            101,
+            884,
+            126,
+            914
+          ]
+        }
+      ],
+      "translation": {
+        "x": 40.9152,
+        "y": -6.9133,
+        "z": 0.1352,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 189,
+      "frame_name": "frame_000189.jpg",
+      "elapsed_seconds": 0.1614,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            886,
+            127,
+            918
+          ]
+        }
+      ],
+      "translation": {
+        "x": 41.253,
+        "y": -6.8573,
+        "z": 0.1359,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 190,
+      "frame_name": "frame_000190.jpg",
+      "elapsed_seconds": 0.1617,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            888,
+            127,
+            922
+          ]
+        }
+      ],
+      "translation": {
+        "x": 41.5901,
+        "y": -6.8003,
+        "z": 0.1367,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 191,
+      "frame_name": "frame_000191.jpg",
+      "elapsed_seconds": 0.1406,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            894,
+            127,
+            926
+          ]
+        }
+      ],
+      "translation": {
+        "x": 41.9265,
+        "y": -6.7412,
+        "z": 0.1373,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 192,
+      "frame_name": "frame_000192.jpg",
+      "elapsed_seconds": 0.1403,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            98,
+            896,
+            126,
+            928
+          ]
+        }
+      ],
+      "translation": {
+        "x": 42.2622,
+        "y": -6.6798,
+        "z": 0.1379,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 193,
+      "frame_name": "frame_000193.jpg",
+      "elapsed_seconds": 0.147,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            98,
+            901,
+            125,
+            933
+          ]
+        }
+      ],
+      "translation": {
+        "x": 42.5971,
+        "y": -6.6159,
+        "z": 0.1384,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 194,
+      "frame_name": "frame_000194.jpg",
+      "elapsed_seconds": 0.144,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            98,
+            905,
+            126,
+            936
+          ]
+        }
+      ],
+      "translation": {
+        "x": 42.9314,
+        "y": -6.5508,
+        "z": 0.1388,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 195,
+      "frame_name": "frame_000195.jpg",
+      "elapsed_seconds": 0.1626,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            912,
+            126,
+            943
+          ]
+        }
+      ],
+      "translation": {
+        "x": 43.265,
+        "y": -6.4843,
+        "z": 0.1391,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 196,
+      "frame_name": "frame_000196.jpg",
+      "elapsed_seconds": 0.1421,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            917,
+            125,
+            948
+          ]
+        }
+      ],
+      "translation": {
+        "x": 43.5981,
+        "y": -6.4168,
+        "z": 0.1395,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 197,
+      "frame_name": "frame_000197.jpg",
+      "elapsed_seconds": 0.1374,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            924,
+            125,
+            953
+          ]
+        }
+      ],
+      "translation": {
+        "x": 43.9313,
+        "y": -6.3471,
+        "z": 0.1397,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 198,
+      "frame_name": "frame_000198.jpg",
+      "elapsed_seconds": 0.1352,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            101,
+            931,
+            124,
+            960
+          ]
+        }
+      ],
+      "translation": {
+        "x": 44.2646,
+        "y": -6.2753,
+        "z": 0.1399,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 199,
+      "frame_name": "frame_000199.jpg",
+      "elapsed_seconds": 0.137,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            934,
+            125,
+            963
+          ]
+        }
+      ],
+      "translation": {
+        "x": 44.5979,
+        "y": -6.2012,
+        "z": 0.14,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 200,
+      "frame_name": "frame_000200.jpg",
+      "elapsed_seconds": 4.3439,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            937,
+            125,
+            968
+          ]
+        }
+      ],
+      "translation": {
+        "x": 44.9311,
+        "y": -6.126,
+        "z": 0.1401,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 201,
+      "frame_name": "frame_000201.jpg",
+      "elapsed_seconds": 2.7885,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            100,
+            944,
+            124,
+            971
+          ]
+        }
+      ],
+      "translation": {
+        "x": 45.264,
+        "y": -6.0493,
+        "z": 0.1402,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 202,
+      "frame_name": "frame_000202.jpg",
+      "elapsed_seconds": 2.7487,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            99,
+            946,
+            124,
+            974
+          ]
+        }
+      ],
+      "translation": {
+        "x": 45.5966,
+        "y": -5.9711,
+        "z": 0.1403,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 203,
+      "frame_name": "frame_000203.jpg",
+      "elapsed_seconds": 2.8468,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            98,
+            948,
+            123,
+            978
+          ]
+        }
+      ],
+      "translation": {
+        "x": 45.9287,
+        "y": -5.8903,
+        "z": 0.1404,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 204,
+      "frame_name": "frame_000204.jpg",
+      "elapsed_seconds": 2.7839,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            96,
+            949,
+            122,
+            982
+          ]
+        }
+      ],
+      "translation": {
+        "x": 46.2604,
+        "y": -5.8068,
+        "z": 0.1406,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 205,
+      "frame_name": "frame_000205.jpg",
+      "elapsed_seconds": 2.7548,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            96,
+            953,
+            122,
+            987
+          ]
+        }
+      ],
+      "translation": {
+        "x": 46.5915,
+        "y": -5.7208,
+        "z": 0.1408,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 206,
+      "frame_name": "frame_000206.jpg",
+      "elapsed_seconds": 2.6919,
+      "detections": [],
+      "translation": {
+        "x": 46.922,
+        "y": -5.6335,
+        "z": 0.1411,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 207,
+      "frame_name": "frame_000207.jpg",
+      "elapsed_seconds": 2.7253,
+      "detections": [],
+      "translation": {
+        "x": 47.2518,
+        "y": -5.5448,
+        "z": 0.1415,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 208,
+      "frame_name": "frame_000208.jpg",
+      "elapsed_seconds": 2.6953,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            94,
+            969,
+            120,
+            998
+          ]
+        }
+      ],
+      "translation": {
+        "x": 47.5808,
+        "y": -5.4546,
+        "z": 0.1419,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 209,
+      "frame_name": "frame_000209.jpg",
+      "elapsed_seconds": 2.7866,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            91,
+            972,
+            118,
+            1000
+          ]
+        }
+      ],
+      "translation": {
+        "x": 47.909,
+        "y": -5.3629,
+        "z": 0.1423,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 210,
+      "frame_name": "frame_000210.jpg",
+      "elapsed_seconds": 2.7446,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            89,
+            974,
+            117,
+            1003
+          ]
+        }
+      ],
+      "translation": {
+        "x": 48.2364,
+        "y": -5.2697,
+        "z": 0.1429,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 211,
+      "frame_name": "frame_000211.jpg",
+      "elapsed_seconds": 2.7204,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            86,
+            974,
+            116,
+            1006
+          ]
+        }
+      ],
+      "translation": {
+        "x": 48.563,
+        "y": -5.1751,
+        "z": 0.1435,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 212,
+      "frame_name": "frame_000212.jpg",
+      "elapsed_seconds": 2.6603,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            86,
+            979,
+            115,
+            1010
+          ]
+        }
+      ],
+      "translation": {
+        "x": 48.8893,
+        "y": -5.0779,
+        "z": 0.1441,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 213,
+      "frame_name": "frame_000213.jpg",
+      "elapsed_seconds": 2.6508,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            84,
+            981,
+            114,
+            1014
+          ]
+        }
+      ],
+      "translation": {
+        "x": 49.2154,
+        "y": -4.9781,
+        "z": 0.1449,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 214,
+      "frame_name": "frame_000214.jpg",
+      "elapsed_seconds": 2.6829,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            82,
+            982,
+            110,
+            1016
+          ]
+        }
+      ],
+      "translation": {
+        "x": 49.5409,
+        "y": -4.8754,
+        "z": 0.1457,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 215,
+      "frame_name": "frame_000215.jpg",
+      "elapsed_seconds": 2.775,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            82,
+            985,
+            110,
+            1019
+          ]
+        }
+      ],
+      "translation": {
+        "x": 49.8658,
+        "y": -4.7719,
+        "z": 0.1464,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 216,
+      "frame_name": "frame_000216.jpg",
+      "elapsed_seconds": 2.7838,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            80,
+            985,
+            109,
+            1021
+          ]
+        }
+      ],
+      "translation": {
+        "x": 50.1899,
+        "y": -4.6677,
+        "z": 0.1472,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 217,
+      "frame_name": "frame_000217.jpg",
+      "elapsed_seconds": 2.7177,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            79,
+            988,
+            108,
+            1023
+          ]
+        }
+      ],
+      "translation": {
+        "x": 50.5131,
+        "y": -4.5627,
+        "z": 0.148,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 218,
+      "frame_name": "frame_000218.jpg",
+      "elapsed_seconds": 2.7271,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            78,
+            992,
+            107,
+            1027
+          ]
+        }
+      ],
+      "translation": {
+        "x": 50.8345,
+        "y": -4.4546,
+        "z": 0.1488,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 219,
+      "frame_name": "frame_000219.jpg",
+      "elapsed_seconds": 2.7058,
+      "detections": [],
+      "translation": {
+        "x": 51.1542,
+        "y": -4.3435,
+        "z": 0.1497,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 220,
+      "frame_name": "frame_000220.jpg",
+      "elapsed_seconds": 2.7224,
+      "detections": [],
+      "translation": {
+        "x": 51.4723,
+        "y": -4.2294,
+        "z": 0.1506,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 221,
+      "frame_name": "frame_000221.jpg",
+      "elapsed_seconds": 2.7082,
+      "detections": [],
+      "translation": {
+        "x": 51.7895,
+        "y": -4.1134,
+        "z": 0.1515,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 222,
+      "frame_name": "frame_000222.jpg",
+      "elapsed_seconds": 2.7561,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            686,
+            730,
+            721,
+            764
+          ]
+        }
+      ],
+      "translation": {
+        "x": 52.1057,
+        "y": -3.9954,
+        "z": 0.1525,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 223,
+      "frame_name": "frame_000223.jpg",
+      "elapsed_seconds": 2.7413,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            684,
+            736,
+            721,
+            771
+          ]
+        }
+      ],
+      "translation": {
+        "x": 52.421,
+        "y": -3.8751,
+        "z": 0.1536,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 224,
+      "frame_name": "frame_000224.jpg",
+      "elapsed_seconds": 2.7606,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            686,
+            745,
+            721,
+            779
+          ]
+        }
+      ],
+      "translation": {
+        "x": 52.7359,
+        "y": -3.7526,
+        "z": 0.1547,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 225,
+      "frame_name": "frame_000225.jpg",
+      "elapsed_seconds": 2.6418,
+      "detections": [],
+      "translation": {
+        "x": 53.0503,
+        "y": -3.6277,
+        "z": 0.1559,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 226,
+      "frame_name": "frame_000226.jpg",
+      "elapsed_seconds": 2.7277,
+      "detections": [],
+      "translation": {
+        "x": 53.3641,
+        "y": -3.5005,
+        "z": 0.1572,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 227,
+      "frame_name": "frame_000227.jpg",
+      "elapsed_seconds": 2.7071,
+      "detections": [],
+      "translation": {
+        "x": 53.677,
+        "y": -3.3709,
+        "z": 0.1586,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 228,
+      "frame_name": "frame_000228.jpg",
+      "elapsed_seconds": 2.6725,
+      "detections": [],
+      "translation": {
+        "x": 53.9889,
+        "y": -3.2389,
+        "z": 0.1601,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 229,
+      "frame_name": "frame_000229.jpg",
+      "elapsed_seconds": 2.6543,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            685,
+            780,
+            723,
+            813
+          ]
+        }
+      ],
+      "translation": {
+        "x": 54.2996,
+        "y": -3.1045,
+        "z": 0.1617,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 230,
+      "frame_name": "frame_000230.jpg",
+      "elapsed_seconds": 2.8116,
+      "detections": [
+        {
+          "cls_key": "Insan",
+          "landing_key": "Inis Alani Degil",
+          "moving_key": "Tasit Degil",
+          "bbox": [
+            683,
+            787,
+            722,
+            820
+          ]
+        }
+      ],
+      "translation": {
+        "x": 54.6092,
+        "y": -2.9679,
+        "z": 0.1633,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 231,
+      "frame_name": "frame_000231.jpg",
+      "elapsed_seconds": 2.7214,
+      "detections": [],
+      "translation": {
+        "x": 54.9174,
+        "y": -2.8291,
+        "z": 0.165,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 232,
+      "frame_name": "frame_000232.jpg",
+      "elapsed_seconds": 2.7539,
+      "detections": [],
+      "translation": {
+        "x": 55.2242,
+        "y": -2.6883,
+        "z": 0.1667,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 233,
+      "frame_name": "frame_000233.jpg",
+      "elapsed_seconds": 2.668,
+      "detections": [],
+      "translation": {
+        "x": 55.5288,
+        "y": -2.5443,
+        "z": 0.1684,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 234,
+      "frame_name": "frame_000234.jpg",
+      "elapsed_seconds": 2.8402,
+      "detections": [],
+      "translation": {
+        "x": 55.8308,
+        "y": -2.3971,
+        "z": 0.1702,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 235,
+      "frame_name": "frame_000235.jpg",
+      "elapsed_seconds": 2.9972,
+      "detections": [],
+      "translation": {
+        "x": 56.13,
+        "y": -2.2466,
+        "z": 0.1719,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 236,
+      "frame_name": "frame_000236.jpg",
+      "elapsed_seconds": 2.698,
+      "detections": [],
+      "translation": {
+        "x": 56.4273,
+        "y": -2.0951,
+        "z": 0.1737,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 237,
+      "frame_name": "frame_000237.jpg",
+      "elapsed_seconds": 2.6745,
+      "detections": [],
+      "translation": {
+        "x": 56.7227,
+        "y": -1.9426,
+        "z": 0.1755,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 238,
+      "frame_name": "frame_000238.jpg",
+      "elapsed_seconds": 2.8724,
+      "detections": [],
+      "translation": {
+        "x": 57.0161,
+        "y": -1.789,
+        "z": 0.1772,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 239,
+      "frame_name": "frame_000239.jpg",
+      "elapsed_seconds": 2.911,
+      "detections": [],
+      "translation": {
+        "x": 57.3074,
+        "y": -1.6322,
+        "z": 0.179,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 240,
+      "frame_name": "frame_000240.jpg",
+      "elapsed_seconds": 2.8792,
+      "detections": [],
+      "translation": {
+        "x": 57.5964,
+        "y": -1.4725,
+        "z": 0.1808,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 241,
+      "frame_name": "frame_000241.jpg",
+      "elapsed_seconds": 2.7908,
+      "detections": [],
+      "translation": {
+        "x": 57.8829,
+        "y": -1.3098,
+        "z": 0.1825,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 242,
+      "frame_name": "frame_000242.jpg",
+      "elapsed_seconds": 2.8707,
+      "detections": [],
+      "translation": {
+        "x": 58.1668,
+        "y": -1.1452,
+        "z": 0.1843,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 243,
+      "frame_name": "frame_000243.jpg",
+      "elapsed_seconds": 2.7484,
+      "detections": [],
+      "translation": {
+        "x": 58.4482,
+        "y": -0.9788,
+        "z": 0.186,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 244,
+      "frame_name": "frame_000244.jpg",
+      "elapsed_seconds": 2.6877,
+      "detections": [],
+      "translation": {
+        "x": 58.7273,
+        "y": -0.8105,
+        "z": 0.1877,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 245,
+      "frame_name": "frame_000245.jpg",
+      "elapsed_seconds": 2.7605,
+      "detections": [],
+      "translation": {
+        "x": 59.0056,
+        "y": -0.6402,
+        "z": 0.1893,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    },
+    {
+      "frame_index": 246,
+      "frame_name": "frame_000246.jpg",
+      "elapsed_seconds": 2.743,
+      "detections": [],
+      "translation": {
+        "x": 59.2832,
+        "y": -0.468,
+        "z": 0.1909,
+        "health_status": "1",
+        "source": "CSV Tablosu (GT)"
+      },
+      "references": []
+    }
+  ]
+}

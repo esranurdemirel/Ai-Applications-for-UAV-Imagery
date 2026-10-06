@@ -1,0 +1,54 @@
+2026-10-05 21:03:04,556 - INFO - =================================================================
+2026-10-05 21:03:04,556 - INFO -                HAVACILIKTA YAPAY ZEKA PİPELİNE'I BAŞLATILDI      
+2026-10-05 21:03:04,556 - INFO - =================================================================
+2026-10-05 21:03:04,640 - INFO - 🎯 Görev 3: 6 adet referans görseli tespit edildi: ['Referans_Nesne_01.JPG', 'Referans_Nesne_02.JPG', 'Referans_Nesne_03.JPG', 'Referans_Nesne_04.JPG', 'Referans_Nesne_05.jpg', 'Referans_Nesne_06.jpg']
+2026-10-05 21:03:04,654 - INFO - 📡 Görev 2: Telemetri verisi yüklendi (9022 kayıt bulundu).
+2026-10-05 21:03:04,655 - INFO - 🚀 AI Görev Motorları yükleniyor...
+2026-10-05 21:03:04,784 - INFO - 🚀 Görev 3 Referans Motoru (DINOv2) başlatılıyor...
+2026-10-05 21:03:06,257 - INFO - 🎬 Video dosyası işleniyor: video.MP4
+2026-10-05 21:03:27,670 - INFO - [Video Kare 1] 'frame_000000.jpg' işlendi (21.258s)
+2026-10-05 21:03:27,672 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:03:27,672 - INFO -       • [Tasit] BBox: [1814, 5, 1886, 94] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:03:27,672 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:03:40,643 - INFO - [Video Kare 2] 'frame_000001.jpg' işlendi (12.966s)
+2026-10-05 21:03:40,643 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:03:40,643 - INFO -       • [Tasit] BBox: [1814, 5, 1886, 94] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:03:40,643 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:03:40,643 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 21:03:40,643 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [1806, 1, 1919, 112]
+2026-10-05 21:03:53,580 - INFO - [Video Kare 3] 'frame_000002.jpg' işlendi (12.933s)
+2026-10-05 21:03:53,580 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:03:53,580 - INFO -       • [Tasit] BBox: [1814, 5, 1885, 93] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:03:53,580 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:03:53,580 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 21:03:53,580 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [1806, 1, 1919, 112]
+2026-10-05 21:04:07,022 - INFO - [Video Kare 4] 'frame_000003.jpg' işlendi (13.437s)
+2026-10-05 21:04:07,022 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:04:07,023 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 93] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:04:07,023 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:04:07,023 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 21:04:07,023 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [1806, 1, 1919, 112]
+2026-10-05 21:04:20,131 - INFO - [Video Kare 5] 'frame_000004.jpg' işlendi (13.099s)
+2026-10-05 21:04:20,131 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:04:20,131 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 93] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:04:20,131 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:04:20,131 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 21:04:20,131 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [1806, 1, 1919, 112]
+2026-10-05 21:04:33,462 - INFO - [Video Kare 6] 'frame_000005.jpg' işlendi (13.323s)
+2026-10-05 21:04:33,463 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:04:33,463 - INFO -       • [Tasit] BBox: [1812, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:04:33,463 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:04:33,463 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 21:04:33,463 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [1806, 0, 1919, 111]
+2026-10-05 21:04:46,681 - INFO - [Video Kare 7] 'frame_000006.jpg' işlendi (13.212s)
+2026-10-05 21:04:46,681 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:04:46,681 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:04:46,681 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:04:46,681 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 21:04:46,681 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [1806, 0, 1919, 111]
+2026-10-05 21:04:59,839 - INFO - [Video Kare 8] 'frame_000007.jpg' işlendi (13.154s)
+2026-10-05 21:04:59,840 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 21:04:59,840 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 21:04:59,840 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00
+2026-10-05 21:04:59,840 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 21:04:59,840 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [1806, 0, 1919, 111]

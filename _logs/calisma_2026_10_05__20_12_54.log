@@ -1,0 +1,5 @@
+2026-10-05 20:12:54,430 - INFO - =================================================================
+2026-10-05 20:12:54,430 - INFO -                HAVACILIKTA YAPAY ZEKA PİPELİNE'I BAŞLATILDI      
+2026-10-05 20:12:54,430 - INFO - =================================================================
+2026-10-05 20:12:54,430 - WARNING - ⚠️  'veriseti' klasöründe işlenecek görsel (.jpg, .png vb.) veya video (.mp4 vb.) bulunamadı!
+Lütfen verilerinizi 'veriseti' klasörüne ekleyip tekrar çalıştırın.

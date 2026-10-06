@@ -1,0 +1,1007 @@
+2026-10-05 22:16:03,310 - INFO - =================================================================
+2026-10-05 22:16:03,310 - INFO -                HAVACILIKTA YAPAY ZEKA PİPELİNE'I BAŞLATILDI      
+2026-10-05 22:16:03,310 - INFO - =================================================================
+2026-10-05 22:16:55,525 - INFO - 🎯 Görev 3: 6 aktif referans nesnesi aranacak: ['Referans_Nesne_01.JPG', 'Referans_Nesne_02.JPG', 'Referans_Nesne_03.JPG', 'Referans_Nesne_04.JPG', 'Referans_Nesne_05.jpg', 'Referans_Nesne_06.jpg']
+2026-10-05 22:16:55,581 - INFO - 📡 Görev 2: Telemetri/CSV verisi yüklendi (36088 kayıt eşleştirildi).
+2026-10-05 22:16:55,581 - INFO - 🚀 AI Görev Motorları yükleniyor...
+2026-10-05 22:16:55,711 - INFO - 🚀 Görev 3 Referans Motoru (DINOv2) başlatılıyor...
+2026-10-05 22:16:57,085 - INFO - 🎬 Video dosyası işleniyor: video.MP4 (9022 kare)
+2026-10-05 22:17:14,285 - INFO - [Kare 1/9022] 'frame_000000.jpg' işlendi (17.035s)
+2026-10-05 22:17:14,286 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:14,286 - INFO -       • [Tasit] BBox: [1814, 5, 1886, 94] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:14,286 - INFO -   └── Görev 2 (Konum): X=0.0444, Y=0.0031, Z=-0.0002 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:14,286 - INFO -   └── Görev 3 (Referans - 1 eşleşme):
+2026-10-05 22:17:14,286 - INFO -       • Referans: 'Referans_Nesne_04.JPG' -> BBox: [84, 588, 488, 904]
+2026-10-05 22:17:14,467 - INFO - [Kare 2/9022] 'frame_000001.jpg' işlendi (0.168s)
+2026-10-05 22:17:14,467 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:14,467 - INFO -       • [Tasit] BBox: [1814, 5, 1886, 94] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:14,467 - INFO -   └── Görev 2 (Konum): X=0.0266, Y=0.0049, Z=-0.0051 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:14,622 - INFO - [Kare 3/9022] 'frame_000002.jpg' işlendi (0.144s)
+2026-10-05 22:17:14,622 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:14,622 - INFO -       • [Tasit] BBox: [1814, 5, 1885, 93] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:14,622 - INFO -   └── Görev 2 (Konum): X=0.0114, Y=0.0056, Z=-0.0098 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:14,772 - INFO - [Kare 4/9022] 'frame_000003.jpg' işlendi (0.138s)
+2026-10-05 22:17:14,772 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:14,772 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 93] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:14,772 - INFO -   └── Görev 2 (Konum): X=-0.0013, Y=0.0054, Z=-0.0144 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:14,925 - INFO - [Kare 5/9022] 'frame_000004.jpg' işlendi (0.143s)
+2026-10-05 22:17:14,925 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:14,925 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 93] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:14,926 - INFO -   └── Görev 2 (Konum): X=-0.0112, Y=0.0040, Z=-0.0187 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:15,086 - INFO - [Kare 6/9022] 'frame_000005.jpg' işlendi (0.149s)
+2026-10-05 22:17:15,086 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:15,086 - INFO -       • [Tasit] BBox: [1812, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:15,086 - INFO -   └── Görev 2 (Konum): X=-0.0185, Y=0.0016, Z=-0.0228 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:15,242 - INFO - [Kare 7/9022] 'frame_000006.jpg' işlendi (0.145s)
+2026-10-05 22:17:15,242 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:15,242 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:15,242 - INFO -   └── Görev 2 (Konum): X=-0.0230, Y=-0.0020, Z=-0.0268 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:15,399 - INFO - [Kare 8/9022] 'frame_000007.jpg' işlendi (0.146s)
+2026-10-05 22:17:15,399 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:15,399 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:15,399 - INFO -   └── Görev 2 (Konum): X=-0.0248, Y=-0.0067, Z=-0.0306 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:15,548 - INFO - [Kare 9/9022] 'frame_000008.jpg' işlendi (0.137s)
+2026-10-05 22:17:15,548 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:15,548 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:15,548 - INFO -   └── Görev 2 (Konum): X=-0.0238, Y=-0.0125, Z=-0.0342 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:15,716 - INFO - [Kare 10/9022] 'frame_000009.jpg' işlendi (0.153s)
+2026-10-05 22:17:15,716 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:15,717 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:15,717 - INFO -   └── Görev 2 (Konum): X=-0.0200, Y=-0.0195, Z=-0.0376 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:15,867 - INFO - [Kare 11/9022] 'frame_000010.jpg' işlendi (0.140s)
+2026-10-05 22:17:15,867 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:15,867 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:15,867 - INFO -   └── Görev 2 (Konum): X=-0.0133, Y=-0.0277, Z=-0.0409 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:16,016 - INFO - [Kare 12/9022] 'frame_000011.jpg' işlendi (0.139s)
+2026-10-05 22:17:16,016 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:16,016 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:16,016 - INFO -   └── Görev 2 (Konum): X=-0.0037, Y=-0.0372, Z=-0.0440 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:16,161 - INFO - [Kare 13/9022] 'frame_000012.jpg' işlendi (0.135s)
+2026-10-05 22:17:16,161 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:16,161 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:16,161 - INFO -   └── Görev 2 (Konum): X=0.0087, Y=-0.0478, Z=-0.0470 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:16,302 - INFO - [Kare 14/9022] 'frame_000013.jpg' işlendi (0.131s)
+2026-10-05 22:17:16,302 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:16,302 - INFO -       • [Tasit] BBox: [1813, 4, 1885, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:16,302 - INFO -   └── Görev 2 (Konum): X=0.0241, Y=-0.0597, Z=-0.0499 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:16,453 - INFO - [Kare 15/9022] 'frame_000014.jpg' işlendi (0.140s)
+2026-10-05 22:17:16,453 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:16,453 - INFO -       • [Tasit] BBox: [1813, 4, 1884, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:16,453 - INFO -   └── Görev 2 (Konum): X=0.0425, Y=-0.0729, Z=-0.0526 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:16,606 - INFO - [Kare 16/9022] 'frame_000015.jpg' işlendi (0.142s)
+2026-10-05 22:17:16,606 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:16,606 - INFO -       • [Tasit] BBox: [1812, 4, 1884, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:16,606 - INFO -   └── Görev 2 (Konum): X=0.0638, Y=-0.0874, Z=-0.0552 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:16,756 - INFO - [Kare 17/9022] 'frame_000016.jpg' işlendi (0.139s)
+2026-10-05 22:17:16,757 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:16,757 - INFO -       • [Tasit] BBox: [1812, 5, 1883, 92] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:16,757 - INFO -   └── Görev 2 (Konum): X=0.0883, Y=-0.1032, Z=-0.0576 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:16,901 - INFO - [Kare 18/9022] 'frame_000017.jpg' işlendi (0.133s)
+2026-10-05 22:17:16,901 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:16,901 - INFO -       • [Tasit] BBox: [1812, 5, 1884, 93] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:16,901 - INFO -   └── Görev 2 (Konum): X=0.1157, Y=-0.1203, Z=-0.0599 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:17,063 - INFO - [Kare 19/9022] 'frame_000018.jpg' işlendi (0.152s)
+2026-10-05 22:17:17,063 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:17,063 - INFO -       • [Tasit] BBox: [1811, 6, 1884, 94] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:17,063 - INFO -   └── Görev 2 (Konum): X=0.1463, Y=-0.1388, Z=-0.0622 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:17,226 - INFO - [Kare 20/9022] 'frame_000019.jpg' işlendi (0.151s)
+2026-10-05 22:17:17,226 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:17,226 - INFO -       • [Tasit] BBox: [1811, 6, 1884, 95] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:17,226 - INFO -   └── Görev 2 (Konum): X=0.1800, Y=-0.1586, Z=-0.0643 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:17,382 - INFO - [Kare 21/9022] 'frame_000020.jpg' işlendi (0.146s)
+2026-10-05 22:17:17,382 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:17,382 - INFO -       • [Tasit] BBox: [1811, 7, 1883, 96] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:17,382 - INFO -   └── Görev 2 (Konum): X=0.2169, Y=-0.1799, Z=-0.0663 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:17,538 - INFO - [Kare 22/9022] 'frame_000021.jpg' işlendi (0.146s)
+2026-10-05 22:17:17,538 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:17,538 - INFO -       • [Tasit] BBox: [1810, 8, 1883, 97] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:17,538 - INFO -   └── Görev 2 (Konum): X=0.2569, Y=-0.2026, Z=-0.0682 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:17,753 - INFO - [Kare 23/9022] 'frame_000022.jpg' işlendi (0.203s)
+2026-10-05 22:17:17,754 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:17,754 - INFO -       • [Tasit] BBox: [1810, 8, 1883, 98] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:17,754 - INFO -   └── Görev 2 (Konum): X=0.3002, Y=-0.2267, Z=-0.0700 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:17,916 - INFO - [Kare 24/9022] 'frame_000023.jpg' işlendi (0.152s)
+2026-10-05 22:17:17,916 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:17,916 - INFO -       • [Tasit] BBox: [1811, 11, 1882, 100] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:17,916 - INFO -   └── Görev 2 (Konum): X=0.3467, Y=-0.2523, Z=-0.0717 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:18,077 - INFO - [Kare 25/9022] 'frame_000024.jpg' işlendi (0.150s)
+2026-10-05 22:17:18,077 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:18,077 - INFO -       • [Tasit] BBox: [1811, 13, 1883, 101] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:18,077 - INFO -   └── Görev 2 (Konum): X=0.3965, Y=-0.2793, Z=-0.0733 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:18,262 - INFO - [Kare 26/9022] 'frame_000025.jpg' işlendi (0.175s)
+2026-10-05 22:17:18,262 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:18,262 - INFO -       • [Tasit] BBox: [1812, 15, 1883, 103] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:18,262 - INFO -   └── Görev 2 (Konum): X=0.4496, Y=-0.3079, Z=-0.0749 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:18,432 - INFO - [Kare 27/9022] 'frame_000026.jpg' işlendi (0.160s)
+2026-10-05 22:17:18,432 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:18,432 - INFO -       • [Tasit] BBox: [1813, 18, 1883, 104] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:18,432 - INFO -   └── Görev 2 (Konum): X=0.5050, Y=-0.3384, Z=-0.0763 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:18,595 - INFO - [Kare 28/9022] 'frame_000027.jpg' işlendi (0.153s)
+2026-10-05 22:17:18,595 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:18,595 - INFO -       • [Tasit] BBox: [1813, 19, 1884, 106] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:18,595 - INFO -   └── Görev 2 (Konum): X=0.5645, Y=-0.3706, Z=-0.0777 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:18,758 - INFO - [Kare 29/9022] 'frame_000028.jpg' işlendi (0.152s)
+2026-10-05 22:17:18,758 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:18,758 - INFO -       • [Tasit] BBox: [1813, 21, 1883, 107] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:18,758 - INFO -   └── Görev 2 (Konum): X=0.6279, Y=-0.4044, Z=-0.0790 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:18,921 - INFO - [Kare 30/9022] 'frame_000029.jpg' işlendi (0.152s)
+2026-10-05 22:17:18,921 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:18,921 - INFO -       • [Tasit] BBox: [1814, 23, 1884, 109] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:18,921 - INFO -   └── Görev 2 (Konum): X=0.6955, Y=-0.4399, Z=-0.0803 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:19,101 - INFO - [Kare 31/9022] 'frame_000030.jpg' işlendi (0.170s)
+2026-10-05 22:17:19,101 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:19,101 - INFO -       • [Tasit] BBox: [1814, 24, 1884, 110] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:19,101 - INFO -   └── Görev 2 (Konum): X=0.7673, Y=-0.4771, Z=-0.0816 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:19,276 - INFO - [Kare 32/9022] 'frame_000031.jpg' işlendi (0.164s)
+2026-10-05 22:17:19,276 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:19,276 - INFO -       • [Tasit] BBox: [1815, 26, 1885, 113] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:19,276 - INFO -   └── Görev 2 (Konum): X=0.8431, Y=-0.5160, Z=-0.0828 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:19,439 - INFO - [Kare 33/9022] 'frame_000032.jpg' işlendi (0.153s)
+2026-10-05 22:17:19,439 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:19,439 - INFO -       • [Tasit] BBox: [1815, 29, 1885, 115] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:19,439 - INFO -   └── Görev 2 (Konum): X=0.9222, Y=-0.5565, Z=-0.0841 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:19,600 - INFO - [Kare 34/9022] 'frame_000033.jpg' işlendi (0.151s)
+2026-10-05 22:17:19,600 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:19,600 - INFO -       • [Tasit] BBox: [1814, 30, 1886, 117] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:19,600 - INFO -   └── Görev 2 (Konum): X=1.0048, Y=-0.5986, Z=-0.0852 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:19,764 - INFO - [Kare 35/9022] 'frame_000034.jpg' işlendi (0.154s)
+2026-10-05 22:17:19,764 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:19,765 - INFO -       • [Tasit] BBox: [1815, 33, 1885, 119] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:19,765 - INFO -   └── Görev 2 (Konum): X=1.0908, Y=-0.6423, Z=-0.0864 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:19,919 - INFO - [Kare 36/9022] 'frame_000035.jpg' işlendi (0.145s)
+2026-10-05 22:17:19,919 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:19,919 - INFO -       • [Tasit] BBox: [1815, 36, 1886, 122] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:19,919 - INFO -   └── Görev 2 (Konum): X=1.1802, Y=-0.6864, Z=-0.0875 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:20,070 - INFO - [Kare 37/9022] 'frame_000036.jpg' işlendi (0.141s)
+2026-10-05 22:17:20,070 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:20,070 - INFO -       • [Tasit] BBox: [1816, 40, 1886, 125] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:20,070 - INFO -   └── Görev 2 (Konum): X=1.2729, Y=-0.7312, Z=-0.0885 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:20,219 - INFO - [Kare 38/9022] 'frame_000037.jpg' işlendi (0.138s)
+2026-10-05 22:17:20,219 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:20,219 - INFO -       • [Tasit] BBox: [1816, 43, 1887, 129] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:20,219 - INFO -   └── Görev 2 (Konum): X=1.3691, Y=-0.7766, Z=-0.0895 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:20,370 - INFO - [Kare 39/9022] 'frame_000038.jpg' işlendi (0.140s)
+2026-10-05 22:17:20,370 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:20,370 - INFO -       • [Tasit] BBox: [1817, 45, 1887, 131] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:20,370 - INFO -   └── Görev 2 (Konum): X=1.4693, Y=-0.8250, Z=-0.0905 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:20,528 - INFO - [Kare 40/9022] 'frame_000039.jpg' işlendi (0.149s)
+2026-10-05 22:17:20,529 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:20,529 - INFO -       • [Tasit] BBox: [1818, 47, 1888, 134] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:20,529 - INFO -   └── Görev 2 (Konum): X=1.5736, Y=-0.8764, Z=-0.0916 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:20,685 - INFO - [Kare 41/9022] 'frame_000040.jpg' işlendi (0.146s)
+2026-10-05 22:17:20,685 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:20,685 - INFO -       • [Tasit] BBox: [1818, 50, 1888, 137] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:20,685 - INFO -   └── Görev 2 (Konum): X=1.6821, Y=-0.9308, Z=-0.0927 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:20,838 - INFO - [Kare 42/9022] 'frame_000041.jpg' işlendi (0.144s)
+2026-10-05 22:17:20,839 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:20,839 - INFO -       • [Tasit] BBox: [1819, 53, 1889, 140] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:20,839 - INFO -   └── Görev 2 (Konum): X=1.7929, Y=-0.9871, Z=-0.0938 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:20,991 - INFO - [Kare 43/9022] 'frame_000042.jpg' işlendi (0.143s)
+2026-10-05 22:17:20,991 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:20,991 - INFO -       • [Tasit] BBox: [1820, 57, 1889, 143] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:20,991 - INFO -   └── Görev 2 (Konum): X=1.9061, Y=-1.0450, Z=-0.0950 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:21,145 - INFO - [Kare 44/9022] 'frame_000043.jpg' işlendi (0.144s)
+2026-10-05 22:17:21,145 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:21,145 - INFO -       • [Tasit] BBox: [1821, 60, 1890, 147] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:21,145 - INFO -   └── Görev 2 (Konum): X=2.0215, Y=-1.1045, Z=-0.0962 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:21,304 - INFO - [Kare 45/9022] 'frame_000044.jpg' işlendi (0.148s)
+2026-10-05 22:17:21,304 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:21,304 - INFO -       • [Tasit] BBox: [1821, 64, 1891, 152] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:21,304 - INFO -   └── Görev 2 (Konum): X=2.1397, Y=-1.1654, Z=-0.0974 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:21,466 - INFO - [Kare 46/9022] 'frame_000045.jpg' işlendi (0.152s)
+2026-10-05 22:17:21,466 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:21,466 - INFO -       • [Tasit] BBox: [1821, 68, 1891, 155] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:21,466 - INFO -   └── Görev 2 (Konum): X=2.2609, Y=-1.2280, Z=-0.0987 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:21,620 - INFO - [Kare 47/9022] 'frame_000046.jpg' işlendi (0.144s)
+2026-10-05 22:17:21,620 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:21,620 - INFO -       • [Tasit] BBox: [1823, 72, 1891, 159] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:21,620 - INFO -   └── Görev 2 (Konum): X=2.3847, Y=-1.2923, Z=-0.1000 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:21,773 - INFO - [Kare 48/9022] 'frame_000047.jpg' işlendi (0.143s)
+2026-10-05 22:17:21,774 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:21,774 - INFO -       • [Tasit] BBox: [1823, 76, 1892, 163] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:21,774 - INFO -   └── Görev 2 (Konum): X=2.5121, Y=-1.3584, Z=-0.1013 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:21,932 - INFO - [Kare 49/9022] 'frame_000048.jpg' işlendi (0.149s)
+2026-10-05 22:17:21,932 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:21,932 - INFO -       • [Tasit] BBox: [1824, 79, 1894, 167] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:21,932 - INFO -   └── Görev 2 (Konum): X=2.6431, Y=-1.4260, Z=-0.1027 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:22,086 - INFO - [Kare 50/9022] 'frame_000049.jpg' işlendi (0.143s)
+2026-10-05 22:17:22,086 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:22,086 - INFO -       • [Tasit] BBox: [1825, 85, 1894, 171] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:22,086 - INFO -   └── Görev 2 (Konum): X=2.7775, Y=-1.4947, Z=-0.1041 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:22,234 - INFO - [Kare 51/9022] 'frame_000050.jpg' işlendi (0.138s)
+2026-10-05 22:17:22,234 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:22,234 - INFO -       • [Tasit] BBox: [1825, 88, 1895, 177] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:22,234 - INFO -   └── Görev 2 (Konum): X=2.9146, Y=-1.5645, Z=-0.1056 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:22,390 - INFO - [Kare 52/9022] 'frame_000051.jpg' işlendi (0.145s)
+2026-10-05 22:17:22,390 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:22,391 - INFO -       • [Tasit] BBox: [1826, 92, 1896, 180] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:22,391 - INFO -   └── Görev 2 (Konum): X=3.0544, Y=-1.6354, Z=-0.1071 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:22,543 - INFO - [Kare 53/9022] 'frame_000052.jpg' işlendi (0.142s)
+2026-10-05 22:17:22,543 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:22,543 - INFO -       • [Tasit] BBox: [1827, 97, 1897, 186] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:22,543 - INFO -   └── Görev 2 (Konum): X=3.1970, Y=-1.7074, Z=-0.1085 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:22,692 - INFO - [Kare 54/9022] 'frame_000053.jpg' işlendi (0.139s)
+2026-10-05 22:17:22,692 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:22,692 - INFO -       • [Tasit] BBox: [1827, 102, 1897, 190] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:22,692 - INFO -   └── Görev 2 (Konum): X=3.3423, Y=-1.7817, Z=-0.1100 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:22,844 - INFO - [Kare 55/9022] 'frame_000054.jpg' işlendi (0.142s)
+2026-10-05 22:17:22,844 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:22,844 - INFO -       • [Tasit] BBox: [1829, 107, 1897, 195] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:22,844 - INFO -   └── Görev 2 (Konum): X=3.4903, Y=-1.8581, Z=-0.1114 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:23,000 - INFO - [Kare 56/9022] 'frame_000055.jpg' işlendi (0.146s)
+2026-10-05 22:17:23,000 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:23,000 - INFO -       • [Tasit] BBox: [1830, 112, 1899, 201] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:23,000 - INFO -   └── Görev 2 (Konum): X=3.6409, Y=-1.9363, Z=-0.1128 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:23,146 - INFO - [Kare 57/9022] 'frame_000056.jpg' işlendi (0.136s)
+2026-10-05 22:17:23,146 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:23,146 - INFO -       • [Tasit] BBox: [1830, 117, 1901, 206] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:23,146 - INFO -   └── Görev 2 (Konum): X=3.7949, Y=-2.0161, Z=-0.1142 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:23,321 - INFO - [Kare 58/9022] 'frame_000057.jpg' işlendi (0.150s)
+2026-10-05 22:17:23,321 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:23,321 - INFO -       • [Tasit] BBox: [1832, 123, 1902, 212] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:23,321 - INFO -   └── Görev 2 (Konum): X=3.9522, Y=-2.0975, Z=-0.1156 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:23,484 - INFO - [Kare 59/9022] 'frame_000058.jpg' işlendi (0.152s)
+2026-10-05 22:17:23,484 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:23,484 - INFO -       • [Tasit] BBox: [1833, 129, 1903, 217] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:23,484 - INFO -   └── Görev 2 (Konum): X=4.1128, Y=-2.1801, Z=-0.1170 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:23,661 - INFO - [Kare 60/9022] 'frame_000059.jpg' işlendi (0.167s)
+2026-10-05 22:17:23,661 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:23,661 - INFO -       • [Tasit] BBox: [1835, 135, 1904, 223] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:23,661 - INFO -   └── Görev 2 (Konum): X=4.2767, Y=-2.2629, Z=-0.1183 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:23,819 - INFO - [Kare 61/9022] 'frame_000060.jpg' işlendi (0.147s)
+2026-10-05 22:17:23,819 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:23,819 - INFO -       • [Tasit] BBox: [1836, 141, 1905, 229] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:23,819 - INFO -   └── Görev 2 (Konum): X=4.4437, Y=-2.3456, Z=-0.1196 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:23,994 - INFO - [Kare 62/9022] 'frame_000061.jpg' işlendi (0.165s)
+2026-10-05 22:17:23,994 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:23,994 - INFO -       • [Tasit] BBox: [1837, 147, 1907, 235] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:23,994 - INFO -   └── Görev 2 (Konum): X=4.6138, Y=-2.4285, Z=-0.1208 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:24,149 - INFO - [Kare 63/9022] 'frame_000062.jpg' işlendi (0.145s)
+2026-10-05 22:17:24,149 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:24,149 - INFO -       • [Tasit] BBox: [1839, 154, 1907, 241] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:24,149 - INFO -   └── Görev 2 (Konum): X=4.7869, Y=-2.5122, Z=-0.1219 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:24,298 - INFO - [Kare 64/9022] 'frame_000063.jpg' işlendi (0.140s)
+2026-10-05 22:17:24,298 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:24,298 - INFO -       • [Tasit] BBox: [1840, 161, 1909, 249] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:24,298 - INFO -   └── Görev 2 (Konum): X=4.9631, Y=-2.5967, Z=-0.1230 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:24,465 - INFO - [Kare 65/9022] 'frame_000064.jpg' işlendi (0.156s)
+2026-10-05 22:17:24,465 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:24,465 - INFO -       • [Tasit] BBox: [1842, 168, 1911, 256] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:24,465 - INFO -   └── Görev 2 (Konum): X=5.1426, Y=-2.6816, Z=-0.1240 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:24,640 - INFO - [Kare 66/9022] 'frame_000065.jpg' işlendi (0.164s)
+2026-10-05 22:17:24,640 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:24,640 - INFO -       • [Tasit] BBox: [1843, 175, 1913, 264] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:24,640 - INFO -   └── Görev 2 (Konum): X=5.3245, Y=-2.7678, Z=-0.1249 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:24,817 - INFO - [Kare 67/9022] 'frame_000066.jpg' işlendi (0.168s)
+2026-10-05 22:17:24,817 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:24,817 - INFO -       • [Tasit] BBox: [1845, 183, 1913, 271] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:24,817 - INFO -   └── Görev 2 (Konum): X=5.5087, Y=-2.8552, Z=-0.1258 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:24,984 - INFO - [Kare 68/9022] 'frame_000067.jpg' işlendi (0.156s)
+2026-10-05 22:17:24,984 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:24,984 - INFO -       • [Tasit] BBox: [1846, 190, 1915, 278] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:24,984 - INFO -   └── Görev 2 (Konum): X=5.6950, Y=-2.9438, Z=-0.1265 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:25,140 - INFO - [Kare 69/9022] 'frame_000068.jpg' işlendi (0.147s)
+2026-10-05 22:17:25,140 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:25,140 - INFO -       • [Tasit] BBox: [1848, 198, 1915, 286] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:25,140 - INFO -   └── Görev 2 (Konum): X=5.8841, Y=-3.0335, Z=-0.1272 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:25,297 - INFO - [Kare 70/9022] 'frame_000069.jpg' işlendi (0.145s)
+2026-10-05 22:17:25,297 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:25,297 - INFO -       • [Tasit] BBox: [1849, 207, 1917, 296] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:25,297 - INFO -   └── Görev 2 (Konum): X=6.0759, Y=-3.1242, Z=-0.1277 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:25,447 - INFO - [Kare 71/9022] 'frame_000070.jpg' işlendi (0.140s)
+2026-10-05 22:17:25,447 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:25,447 - INFO -       • [Tasit] BBox: [1851, 214, 1918, 304] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:25,447 - INFO -   └── Görev 2 (Konum): X=6.2703, Y=-3.2159, Z=-0.1282 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:25,598 - INFO - [Kare 72/9022] 'frame_000071.jpg' işlendi (0.141s)
+2026-10-05 22:17:25,598 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:25,598 - INFO -       • [Tasit] BBox: [1853, 223, 1918, 313] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:25,598 - INFO -   └── Görev 2 (Konum): X=6.4681, Y=-3.3072, Z=-0.1285 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:25,751 - INFO - [Kare 73/9022] 'frame_000072.jpg' işlendi (0.142s)
+2026-10-05 22:17:25,751 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:25,751 - INFO -       • [Tasit] BBox: [1854, 232, 1919, 321] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:25,751 - INFO -   └── Görev 2 (Konum): X=6.6693, Y=-3.3979, Z=-0.1287 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:25,894 - INFO - [Kare 74/9022] 'frame_000073.jpg' işlendi (0.133s)
+2026-10-05 22:17:25,894 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:25,894 - INFO -       • [Tasit] BBox: [1856, 241, 1920, 330] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:25,895 - INFO -   └── Görev 2 (Konum): X=6.8739, Y=-3.4877, Z=-0.1287 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:26,042 - INFO - [Kare 75/9022] 'frame_000074.jpg' işlendi (0.137s)
+2026-10-05 22:17:26,042 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:26,042 - INFO -       • [Tasit] BBox: [1857, 250, 1920, 339] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:26,042 - INFO -   └── Görev 2 (Konum): X=7.0817, Y=-3.5774, Z=-0.1287 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:26,190 - INFO - [Kare 76/9022] 'frame_000075.jpg' işlendi (0.139s)
+2026-10-05 22:17:26,191 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:26,191 - INFO -       • [Tasit] BBox: [1859, 259, 1920, 348] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:26,191 - INFO -   └── Görev 2 (Konum): X=7.2927, Y=-3.6670, Z=-0.1286 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:26,341 - INFO - [Kare 77/9022] 'frame_000076.jpg' işlendi (0.141s)
+2026-10-05 22:17:26,341 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:26,341 - INFO -       • [Tasit] BBox: [1861, 268, 1920, 357] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:26,341 - INFO -   └── Görev 2 (Konum): X=7.5069, Y=-3.7563, Z=-0.1283 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:26,492 - INFO - [Kare 78/9022] 'frame_000077.jpg' işlendi (0.141s)
+2026-10-05 22:17:26,492 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:26,492 - INFO -       • [Tasit] BBox: [1863, 276, 1920, 367] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:26,492 - INFO -   └── Görev 2 (Konum): X=7.7232, Y=-3.8453, Z=-0.1279 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:26,639 - INFO - [Kare 79/9022] 'frame_000078.jpg' işlendi (0.137s)
+2026-10-05 22:17:26,639 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:26,639 - INFO -       • [Tasit] BBox: [1864, 285, 1920, 378] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:26,639 - INFO -   └── Görev 2 (Konum): X=7.9418, Y=-3.9338, Z=-0.1274 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:26,789 - INFO - [Kare 80/9022] 'frame_000079.jpg' işlendi (0.139s)
+2026-10-05 22:17:26,789 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:26,789 - INFO -       • [Tasit] BBox: [1866, 295, 1920, 387] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:26,789 - INFO -   └── Görev 2 (Konum): X=8.1625, Y=-4.0217, Z=-0.1267 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:26,942 - INFO - [Kare 81/9022] 'frame_000080.jpg' işlendi (0.140s)
+2026-10-05 22:17:26,942 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:26,942 - INFO -       • [Tasit] BBox: [1868, 304, 1920, 395] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:26,942 - INFO -   └── Görev 2 (Konum): X=8.3861, Y=-4.1090, Z=-0.1260 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:27,093 - INFO - [Kare 82/9022] 'frame_000081.jpg' işlendi (0.140s)
+2026-10-05 22:17:27,093 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:27,093 - INFO -       • [Tasit] BBox: [1870, 314, 1920, 404] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:27,093 - INFO -   └── Görev 2 (Konum): X=8.6123, Y=-4.1956, Z=-0.1251 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:27,242 - INFO - [Kare 83/9022] 'frame_000082.jpg' işlendi (0.139s)
+2026-10-05 22:17:27,243 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:27,243 - INFO -       • [Tasit] BBox: [1872, 323, 1920, 414] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:27,243 - INFO -   └── Görev 2 (Konum): X=8.8408, Y=-4.2813, Z=-0.1241 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:27,388 - INFO - [Kare 84/9022] 'frame_000083.jpg' işlendi (0.135s)
+2026-10-05 22:17:27,388 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:27,388 - INFO -       • [Tasit] BBox: [1872, 332, 1920, 423] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:27,388 - INFO -   └── Görev 2 (Konum): X=9.0715, Y=-4.3660, Z=-0.1230 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:27,539 - INFO - [Kare 85/9022] 'frame_000084.jpg' işlendi (0.141s)
+2026-10-05 22:17:27,539 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:27,539 - INFO -       • [Tasit] BBox: [1875, 342, 1920, 434] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:27,540 - INFO -   └── Görev 2 (Konum): X=9.3044, Y=-4.4497, Z=-0.1218 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:27,689 - INFO - [Kare 86/9022] 'frame_000085.jpg' işlendi (0.140s)
+2026-10-05 22:17:27,689 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:27,689 - INFO -       • [Tasit] BBox: [1876, 352, 1920, 442] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:27,689 - INFO -   └── Görev 2 (Konum): X=9.5394, Y=-4.5322, Z=-0.1205 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:27,836 - INFO - [Kare 87/9022] 'frame_000086.jpg' işlendi (0.137s)
+2026-10-05 22:17:27,836 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:27,836 - INFO -       • [Tasit] BBox: [1878, 361, 1920, 452] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:27,836 - INFO -   └── Görev 2 (Konum): X=9.7758, Y=-4.6157, Z=-0.1191 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:27,983 - INFO - [Kare 88/9022] 'frame_000087.jpg' işlendi (0.138s)
+2026-10-05 22:17:27,983 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:27,983 - INFO -       • [Tasit] BBox: [1879, 370, 1919, 463] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:27,983 - INFO -   └── Görev 2 (Konum): X=10.0135, Y=-4.7000, Z=-0.1176 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:28,133 - INFO - [Kare 89/9022] 'frame_000088.jpg' işlendi (0.140s)
+2026-10-05 22:17:28,133 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:28,133 - INFO -       • [Tasit] BBox: [1881, 380, 1920, 472] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:28,133 - INFO -   └── Görev 2 (Konum): X=10.2528, Y=-4.7850, Z=-0.1160 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:28,286 - INFO - [Kare 90/9022] 'frame_000089.jpg' işlendi (0.142s)
+2026-10-05 22:17:28,286 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:28,286 - INFO -       • [Tasit] BBox: [1883, 390, 1919, 482] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:28,286 - INFO -   └── Görev 2 (Konum): X=10.4942, Y=-4.8687, Z=-0.1143 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:28,436 - INFO - [Kare 91/9022] 'frame_000090.jpg' işlendi (0.141s)
+2026-10-05 22:17:28,436 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:28,436 - INFO -       • [Tasit] BBox: [1883, 401, 1919, 492] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:28,436 - INFO -   └── Görev 2 (Konum): X=10.7377, Y=-4.9508, Z=-0.1126 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:28,585 - INFO - [Kare 92/9022] 'frame_000091.jpg' işlendi (0.139s)
+2026-10-05 22:17:28,585 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:28,585 - INFO -       • [Tasit] BBox: [1884, 411, 1919, 504] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:28,585 - INFO -   └── Görev 2 (Konum): X=10.9830, Y=-5.0313, Z=-0.1107 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:28,727 - INFO - [Kare 93/9022] 'frame_000092.jpg' işlendi (0.133s)
+2026-10-05 22:17:28,728 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:28,728 - INFO -       • [Tasit] BBox: [1885, 421, 1919, 516] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:28,728 - INFO -   └── Görev 2 (Konum): X=11.2301, Y=-5.1112, Z=-0.1088 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:28,875 - INFO - [Kare 94/9022] 'frame_000093.jpg' işlendi (0.137s)
+2026-10-05 22:17:28,875 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:28,875 - INFO -       • [Tasit] BBox: [1887, 430, 1919, 524] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:28,875 - INFO -   └── Görev 2 (Konum): X=11.4790, Y=-5.1903, Z=-0.1069 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:29,033 - INFO - [Kare 95/9022] 'frame_000094.jpg' işlendi (0.147s)
+2026-10-05 22:17:29,033 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:29,033 - INFO -       • [Tasit] BBox: [1887, 439, 1919, 534] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:29,033 - INFO -   └── Görev 2 (Konum): X=11.7298, Y=-5.2682, Z=-0.1048 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:29,206 - INFO - [Kare 96/9022] 'frame_000095.jpg' işlendi (0.163s)
+2026-10-05 22:17:29,207 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:29,207 - INFO -       • [Tasit] BBox: [1889, 450, 1919, 544] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:29,207 - INFO -   └── Görev 2 (Konum): X=11.9832, Y=-5.3449, Z=-0.1027 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:29,378 - INFO - [Kare 97/9022] 'frame_000096.jpg' işlendi (0.161s)
+2026-10-05 22:17:29,378 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:29,378 - INFO -       • [Tasit] BBox: [1890, 462, 1919, 560] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:29,378 - INFO -   └── Görev 2 (Konum): X=12.2391, Y=-5.4207, Z=-0.1006 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:29,547 - INFO - [Kare 98/9022] 'frame_000097.jpg' işlendi (0.159s)
+2026-10-05 22:17:29,547 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:29,547 - INFO -       • [Tasit] BBox: [1892, 472, 1919, 573] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:29,547 - INFO -   └── Görev 2 (Konum): X=12.4973, Y=-5.4958, Z=-0.0983 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:29,739 - INFO - [Kare 99/9022] 'frame_000098.jpg' işlendi (0.181s)
+2026-10-05 22:17:29,739 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:29,739 - INFO -       • [Tasit] BBox: [1893, 483, 1919, 590] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:29,739 - INFO -   └── Görev 2 (Konum): X=12.7569, Y=-5.5701, Z=-0.0961 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:29,910 - INFO - [Kare 100/9022] 'frame_000099.jpg' işlendi (0.161s)
+2026-10-05 22:17:29,911 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:29,911 - INFO -       • [Tasit] BBox: [1894, 495, 1919, 597] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:29,911 - INFO -   └── Görev 2 (Konum): X=13.0177, Y=-5.6435, Z=-0.0937 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:30,065 - INFO - [Kare 101/9022] 'frame_000100.jpg' işlendi (0.144s)
+2026-10-05 22:17:30,065 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:30,065 - INFO -       • [Tasit] BBox: [1895, 505, 1919, 619] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:30,065 - INFO -   └── Görev 2 (Konum): X=13.2798, Y=-5.7157, Z=-0.0912 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:30,219 - INFO - [Kare 102/9022] 'frame_000101.jpg' işlendi (0.144s)
+2026-10-05 22:17:30,219 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:30,219 - INFO -       • [Tasit] BBox: [1896, 515, 1919, 632] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:30,219 - INFO -   └── Görev 2 (Konum): X=13.5438, Y=-5.7877, Z=-0.0887 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:30,370 - INFO - [Kare 103/9022] 'frame_000102.jpg' işlendi (0.141s)
+2026-10-05 22:17:30,370 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:30,370 - INFO -       • [Tasit] BBox: [1896, 525, 1919, 637] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:30,370 - INFO -   └── Görev 2 (Konum): X=13.8099, Y=-5.8597, Z=-0.0862 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:30,515 - INFO - [Kare 104/9022] 'frame_000103.jpg' işlendi (0.135s)
+2026-10-05 22:17:30,515 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:30,515 - INFO -       • [Tasit] BBox: [1898, 536, 1919, 645] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:30,515 - INFO -   └── Görev 2 (Konum): X=14.0780, Y=-5.9316, Z=-0.0835 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:30,662 - INFO - [Kare 105/9022] 'frame_000104.jpg' işlendi (0.136s)
+2026-10-05 22:17:30,662 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:30,662 - INFO -       • [Tasit] BBox: [1899, 546, 1919, 649] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:30,662 - INFO -   └── Görev 2 (Konum): X=14.3482, Y=-6.0024, Z=-0.0808 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:30,811 - INFO - [Kare 106/9022] 'frame_000105.jpg' işlendi (0.139s)
+2026-10-05 22:17:30,811 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:30,811 - INFO -       • [Tasit] BBox: [1899, 558, 1919, 663] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:30,811 - INFO -   └── Görev 2 (Konum): X=14.6203, Y=-6.0718, Z=-0.0781 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:30,958 - INFO - [Kare 107/9022] 'frame_000106.jpg' işlendi (0.136s)
+2026-10-05 22:17:30,958 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:30,958 - INFO -       • [Tasit] BBox: [1900, 567, 1919, 681] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:30,958 - INFO -   └── Görev 2 (Konum): X=14.8944, Y=-6.1399, Z=-0.0753 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:31,109 - INFO - [Kare 108/9022] 'frame_000107.jpg' işlendi (0.141s)
+2026-10-05 22:17:31,109 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:31,109 - INFO -       • [Tasit] BBox: [1901, 576, 1919, 699] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:31,109 - INFO -   └── Görev 2 (Konum): X=15.1703, Y=-6.2064, Z=-0.0724 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:31,264 - INFO - [Kare 109/9022] 'frame_000108.jpg' işlendi (0.145s)
+2026-10-05 22:17:31,264 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:31,264 - INFO -       • [Tasit] BBox: [1902, 589, 1919, 711] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:31,264 - INFO -   └── Görev 2 (Konum): X=15.4481, Y=-6.2713, Z=-0.0694 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:31,419 - INFO - [Kare 110/9022] 'frame_000109.jpg' işlendi (0.145s)
+2026-10-05 22:17:31,420 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:31,420 - INFO -       • [Tasit] BBox: [1902, 600, 1919, 736] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:31,420 - INFO -   └── Görev 2 (Konum): X=15.7275, Y=-6.3344, Z=-0.0664 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:31,569 - INFO - [Kare 111/9022] 'frame_000110.jpg' işlendi (0.140s)
+2026-10-05 22:17:31,569 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:31,569 - INFO -       • [Tasit] BBox: [1902, 608, 1919, 747] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:31,569 - INFO -   └── Görev 2 (Konum): X=16.0086, Y=-6.3969, Z=-0.0633 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:31,720 - INFO - [Kare 112/9022] 'frame_000111.jpg' işlendi (0.141s)
+2026-10-05 22:17:31,720 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:31,720 - INFO -   └── Görev 2 (Konum): X=16.2910, Y=-6.4590, Z=-0.0603 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:31,869 - INFO - [Kare 113/9022] 'frame_000112.jpg' işlendi (0.139s)
+2026-10-05 22:17:31,869 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:31,869 - INFO -   └── Görev 2 (Konum): X=16.5747, Y=-6.5207, Z=-0.0572 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:32,016 - INFO - [Kare 114/9022] 'frame_000113.jpg' işlendi (0.137s)
+2026-10-05 22:17:32,017 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:32,017 - INFO -   └── Görev 2 (Konum): X=16.8604, Y=-6.5821, Z=-0.0542 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:32,162 - INFO - [Kare 115/9022] 'frame_000114.jpg' işlendi (0.135s)
+2026-10-05 22:17:32,162 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:32,162 - INFO -   └── Görev 2 (Konum): X=17.1481, Y=-6.6429, Z=-0.0511 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:32,305 - INFO - [Kare 116/9022] 'frame_000115.jpg' işlendi (0.132s)
+2026-10-05 22:17:32,305 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:32,305 - INFO -   └── Görev 2 (Konum): X=17.4376, Y=-6.7029, Z=-0.0480 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:32,449 - INFO - [Kare 117/9022] 'frame_000116.jpg' işlendi (0.134s)
+2026-10-05 22:17:32,449 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:32,449 - INFO -   └── Görev 2 (Konum): X=17.7283, Y=-6.7609, Z=-0.0449 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:32,595 - INFO - [Kare 118/9022] 'frame_000117.jpg' işlendi (0.136s)
+2026-10-05 22:17:32,595 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:32,595 - INFO -   └── Görev 2 (Konum): X=18.0202, Y=-6.8169, Z=-0.0418 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:32,746 - INFO - [Kare 119/9022] 'frame_000118.jpg' işlendi (0.140s)
+2026-10-05 22:17:32,746 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:32,746 - INFO -   └── Görev 2 (Konum): X=18.3133, Y=-6.8710, Z=-0.0386 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:32,893 - INFO - [Kare 120/9022] 'frame_000119.jpg' işlendi (0.137s)
+2026-10-05 22:17:32,893 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:32,893 - INFO -   └── Görev 2 (Konum): X=18.6085, Y=-6.9241, Z=-0.0355 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:33,037 - INFO - [Kare 121/9022] 'frame_000120.jpg' işlendi (0.135s)
+2026-10-05 22:17:33,037 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:33,037 - INFO -   └── Görev 2 (Konum): X=18.9056, Y=-6.9762, Z=-0.0323 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:33,185 - INFO - [Kare 122/9022] 'frame_000121.jpg' işlendi (0.138s)
+2026-10-05 22:17:33,185 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:33,185 - INFO -   └── Görev 2 (Konum): X=19.2046, Y=-7.0271, Z=-0.0292 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:33,336 - INFO - [Kare 123/9022] 'frame_000122.jpg' işlendi (0.140s)
+2026-10-05 22:17:33,336 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:33,336 - INFO -   └── Görev 2 (Konum): X=19.5044, Y=-7.0756, Z=-0.0261 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:33,483 - INFO - [Kare 124/9022] 'frame_000123.jpg' işlendi (0.137s)
+2026-10-05 22:17:33,483 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:33,483 - INFO -       • [Tasit] BBox: [229, 760, 295, 792] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:33,483 - INFO -   └── Görev 2 (Konum): X=19.8051, Y=-7.1219, Z=-0.0230 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:33,634 - INFO - [Kare 125/9022] 'frame_000124.jpg' işlendi (0.141s)
+2026-10-05 22:17:33,634 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:33,634 - INFO -       • [Tasit] BBox: [229, 765, 295, 797] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:33,634 - INFO -   └── Görev 2 (Konum): X=20.1066, Y=-7.1660, Z=-0.0199 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:33,780 - INFO - [Kare 126/9022] 'frame_000125.jpg' işlendi (0.137s)
+2026-10-05 22:17:33,780 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:33,781 - INFO -       • [Tasit] BBox: [229, 769, 298, 802] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:33,781 - INFO -   └── Görev 2 (Konum): X=20.4097, Y=-7.2091, Z=-0.0168 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:33,940 - INFO - [Kare 127/9022] 'frame_000126.jpg' işlendi (0.149s)
+2026-10-05 22:17:33,941 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:33,941 - INFO -       • [Tasit] BBox: [230, 776, 300, 807] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:33,941 - INFO -   └── Görev 2 (Konum): X=20.7141, Y=-7.2511, Z=-0.0137 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:34,105 - INFO - [Kare 128/9022] 'frame_000127.jpg' işlendi (0.154s)
+2026-10-05 22:17:34,105 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:34,105 - INFO -   └── Görev 2 (Konum): X=21.0197, Y=-7.2919, Z=-0.0106 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:34,276 - INFO - [Kare 129/9022] 'frame_000128.jpg' işlendi (0.159s)
+2026-10-05 22:17:34,276 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:34,276 - INFO -   └── Görev 2 (Konum): X=21.3262, Y=-7.3315, Z=-0.0076 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:34,429 - INFO - [Kare 130/9022] 'frame_000129.jpg' işlendi (0.138s)
+2026-10-05 22:17:34,429 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:34,429 - INFO -   └── Görev 2 (Konum): X=21.6338, Y=-7.3698, Z=-0.0047 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:34,577 - INFO - [Kare 131/9022] 'frame_000130.jpg' işlendi (0.138s)
+2026-10-05 22:17:34,577 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:34,577 - INFO -   └── Görev 2 (Konum): X=21.9425, Y=-7.4068, Z=-0.0018 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:34,724 - INFO - [Kare 132/9022] 'frame_000131.jpg' işlendi (0.138s)
+2026-10-05 22:17:34,724 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:34,724 - INFO -       • [Tasit] BBox: [231, 801, 298, 832] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 22:17:34,725 - INFO -   └── Görev 2 (Konum): X=22.2515, Y=-7.4425, Z=0.0010 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:34,879 - INFO - [Kare 133/9022] 'frame_000132.jpg' işlendi (0.145s)
+2026-10-05 22:17:34,879 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:34,879 - INFO -   └── Görev 2 (Konum): X=22.5606, Y=-7.4770, Z=0.0039 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:35,035 - INFO - [Kare 134/9022] 'frame_000133.jpg' işlendi (0.146s)
+2026-10-05 22:17:35,035 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:35,035 - INFO -   └── Görev 2 (Konum): X=22.8697, Y=-7.5102, Z=0.0069 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:35,185 - INFO - [Kare 135/9022] 'frame_000134.jpg' işlendi (0.140s)
+2026-10-05 22:17:35,185 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:35,185 - INFO -       • [Tasit] BBox: [1902, 880, 1919, 987] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:35,185 - INFO -   └── Görev 2 (Konum): X=23.1794, Y=-7.5433, Z=0.0098 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:35,338 - INFO - [Kare 136/9022] 'frame_000135.jpg' işlendi (0.143s)
+2026-10-05 22:17:35,338 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:35,338 - INFO -       • [Tasit] BBox: [1900, 894, 1919, 997] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:35,338 - INFO -   └── Görev 2 (Konum): X=23.4898, Y=-7.5760, Z=0.0127 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:35,507 - INFO - [Kare 137/9022] 'frame_000136.jpg' işlendi (0.159s)
+2026-10-05 22:17:35,507 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:35,507 - INFO -       • [Tasit] BBox: [1899, 908, 1919, 1008] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:35,507 - INFO -   └── Görev 2 (Konum): X=23.8008, Y=-7.6082, Z=0.0156 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:35,672 - INFO - [Kare 138/9022] 'frame_000137.jpg' işlendi (0.155s)
+2026-10-05 22:17:35,672 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:35,672 - INFO -       • [Tasit] BBox: [1899, 918, 1919, 1020] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:35,672 - INFO -   └── Görev 2 (Konum): X=24.1139, Y=-7.6377, Z=0.0185 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:35,825 - INFO - [Kare 139/9022] 'frame_000138.jpg' işlendi (0.144s)
+2026-10-05 22:17:35,825 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:35,825 - INFO -       • [Tasit] BBox: [1897, 932, 1919, 1031] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:35,825 - INFO -   └── Görev 2 (Konum): X=24.4292, Y=-7.6644, Z=0.0213 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:35,970 - INFO - [Kare 140/9022] 'frame_000139.jpg' işlendi (0.135s)
+2026-10-05 22:17:35,970 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:35,971 - INFO -       • [Tasit] BBox: [1895, 944, 1919, 1044] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:35,971 - INFO -   └── Görev 2 (Konum): X=24.7466, Y=-7.6883, Z=0.0241 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:36,118 - INFO - [Kare 141/9022] 'frame_000140.jpg' işlendi (0.138s)
+2026-10-05 22:17:36,118 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:36,118 - INFO -       • [Tasit] BBox: [1894, 957, 1919, 1060] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:36,118 - INFO -       • [Tasit] BBox: [235, 851, 299, 880] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 22:17:36,118 - INFO -   └── Görev 2 (Konum): X=25.0644, Y=-7.7114, Z=0.0269 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:36,273 - INFO - [Kare 142/9022] 'frame_000141.jpg' işlendi (0.144s)
+2026-10-05 22:17:36,273 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:36,273 - INFO -       • [Tasit] BBox: [1892, 968, 1919, 1068] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:36,273 - INFO -   └── Görev 2 (Konum): X=25.3825, Y=-7.7337, Z=0.0297 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:36,421 - INFO - [Kare 143/9022] 'frame_000142.jpg' işlendi (0.139s)
+2026-10-05 22:17:36,421 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:36,421 - INFO -       • [Tasit] BBox: [1891, 980, 1919, 1075] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:36,421 - INFO -   └── Görev 2 (Konum): X=25.7008, Y=-7.7552, Z=0.0324 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:36,596 - INFO - [Kare 144/9022] 'frame_000143.jpg' işlendi (0.164s)
+2026-10-05 22:17:36,596 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:36,596 - INFO -       • [Tasit] BBox: [1889, 992, 1919, 1080] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:36,596 - INFO -   └── Görev 2 (Konum): X=26.0201, Y=-7.7737, Z=0.0352 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:36,742 - INFO - [Kare 145/9022] 'frame_000144.jpg' işlendi (0.135s)
+2026-10-05 22:17:36,742 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:36,742 - INFO -       • [Tasit] BBox: [1889, 1003, 1919, 1080] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:36,742 - INFO -   └── Görev 2 (Konum): X=26.3405, Y=-7.7892, Z=0.0380 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:36,891 - INFO - [Kare 146/9022] 'frame_000145.jpg' işlendi (0.139s)
+2026-10-05 22:17:36,891 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:36,891 - INFO -       • [Tasit] BBox: [1887, 1013, 1919, 1080] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:36,891 - INFO -       • [UAI] BBox: [1888, 1009, 1920, 1079] | İniş: Inilemez | Hareket: Tasit Degil
+2026-10-05 22:17:36,891 - INFO -   └── Görev 2 (Konum): X=26.6621, Y=-7.8019, Z=0.0407 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:37,035 - INFO - [Kare 147/9022] 'frame_000146.jpg' işlendi (0.134s)
+2026-10-05 22:17:37,035 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:37,035 - INFO -       • [Tasit] BBox: [1886, 1026, 1919, 1080] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:37,035 - INFO -   └── Görev 2 (Konum): X=26.9839, Y=-7.8138, Z=0.0434 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:37,185 - INFO - [Kare 148/9022] 'frame_000147.jpg' işlendi (0.140s)
+2026-10-05 22:17:37,185 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:37,185 - INFO -       • [Tasit] BBox: [1886, 1037, 1919, 1080] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:37,185 - INFO -       • [UAI] BBox: [1887, 1034, 1919, 1078] | İniş: Inilemez | Hareket: Tasit Degil
+2026-10-05 22:17:37,185 - INFO -   └── Görev 2 (Konum): X=27.3060, Y=-7.8251, Z=0.0462 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:37,333 - INFO - [Kare 149/9022] 'frame_000148.jpg' işlendi (0.139s)
+2026-10-05 22:17:37,333 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:37,333 - INFO -       • [Tasit] BBox: [1884, 1047, 1919, 1079] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:37,333 - INFO -   └── Görev 2 (Konum): X=27.6280, Y=-7.8359, Z=0.0489 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:37,492 - INFO - [Kare 150/9022] 'frame_000149.jpg' işlendi (0.149s)
+2026-10-05 22:17:37,493 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:37,493 - INFO -       • [Tasit] BBox: [1883, 1056, 1919, 1080] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 22:17:37,493 - INFO -       • [UAI] BBox: [1885, 1057, 1920, 1080] | İniş: Inilemez | Hareket: Tasit Degil
+2026-10-05 22:17:37,493 - INFO -   └── Görev 2 (Konum): X=27.9508, Y=-7.8450, Z=0.0516 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:37,644 - INFO - [Kare 151/9022] 'frame_000150.jpg' işlendi (0.141s)
+2026-10-05 22:17:37,644 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:37,644 - INFO -   └── Görev 2 (Konum): X=28.2744, Y=-7.8524, Z=0.0544 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:37,796 - INFO - [Kare 152/9022] 'frame_000151.jpg' işlendi (0.143s)
+2026-10-05 22:17:37,797 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:37,797 - INFO -   └── Görev 2 (Konum): X=28.5988, Y=-7.8580, Z=0.0570 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:37,964 - INFO - [Kare 153/9022] 'frame_000152.jpg' işlendi (0.157s)
+2026-10-05 22:17:37,964 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:37,964 - INFO -   └── Görev 2 (Konum): X=28.9239, Y=-7.8617, Z=0.0597 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:38,122 - INFO - [Kare 154/9022] 'frame_000153.jpg' işlendi (0.149s)
+2026-10-05 22:17:38,122 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:38,122 - INFO -   └── Görev 2 (Konum): X=29.2498, Y=-7.8636, Z=0.0624 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:38,285 - INFO - [Kare 155/9022] 'frame_000154.jpg' işlendi (0.153s)
+2026-10-05 22:17:38,285 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:38,285 - INFO -   └── Görev 2 (Konum): X=29.5764, Y=-7.8636, Z=0.0651 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:38,489 - INFO - [Kare 156/9022] 'frame_000155.jpg' işlendi (0.194s)
+2026-10-05 22:17:38,489 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:38,489 - INFO -   └── Görev 2 (Konum): X=29.9037, Y=-7.8617, Z=0.0678 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:38,637 - INFO - [Kare 157/9022] 'frame_000156.jpg' işlendi (0.138s)
+2026-10-05 22:17:38,637 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:38,637 - INFO -   └── Görev 2 (Konum): X=30.2317, Y=-7.8580, Z=0.0706 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:38,796 - INFO - [Kare 158/9022] 'frame_000157.jpg' işlendi (0.149s)
+2026-10-05 22:17:38,796 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:38,797 - INFO -   └── Görev 2 (Konum): X=30.5603, Y=-7.8524, Z=0.0733 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:38,971 - INFO - [Kare 159/9022] 'frame_000158.jpg' işlendi (0.164s)
+2026-10-05 22:17:38,971 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:38,971 - INFO -   └── Görev 2 (Konum): X=30.8895, Y=-7.8450, Z=0.0760 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:39,123 - INFO - [Kare 160/9022] 'frame_000159.jpg' işlendi (0.142s)
+2026-10-05 22:17:39,123 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:39,123 - INFO -   └── Görev 2 (Konum): X=31.2192, Y=-7.8358, Z=0.0786 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:39,290 - INFO - [Kare 161/9022] 'frame_000160.jpg' işlendi (0.157s)
+2026-10-05 22:17:39,290 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:39,290 - INFO -   └── Görev 2 (Konum): X=31.5494, Y=-7.8251, Z=0.0813 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:39,444 - INFO - [Kare 162/9022] 'frame_000161.jpg' işlendi (0.144s)
+2026-10-05 22:17:39,444 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:39,444 - INFO -   └── Görev 2 (Konum): X=31.8799, Y=-7.8138, Z=0.0839 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:39,603 - INFO - [Kare 163/9022] 'frame_000162.jpg' işlendi (0.150s)
+2026-10-05 22:17:39,603 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:39,603 - INFO -   └── Görev 2 (Konum): X=32.2108, Y=-7.8019, Z=0.0865 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:39,770 - INFO - [Kare 164/9022] 'frame_000163.jpg' işlendi (0.157s)
+2026-10-05 22:17:39,770 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:39,770 - INFO -   └── Görev 2 (Konum): X=32.5419, Y=-7.7892, Z=0.0891 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:39,939 - INFO - [Kare 165/9022] 'frame_000164.jpg' işlendi (0.158s)
+2026-10-05 22:17:39,939 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:39,939 - INFO -   └── Görev 2 (Konum): X=32.8732, Y=-7.7737, Z=0.0918 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:40,103 - INFO - [Kare 166/9022] 'frame_000165.jpg' işlendi (0.154s)
+2026-10-05 22:17:40,103 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:40,103 - INFO -   └── Görev 2 (Konum): X=33.2046, Y=-7.7551, Z=0.0944 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:40,269 - INFO - [Kare 167/9022] 'frame_000166.jpg' işlendi (0.156s)
+2026-10-05 22:17:40,269 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:40,269 - INFO -   └── Görev 2 (Konum): X=33.5359, Y=-7.7336, Z=0.0970 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:40,437 - INFO - [Kare 168/9022] 'frame_000167.jpg' işlendi (0.157s)
+2026-10-05 22:17:40,437 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:40,437 - INFO -   └── Görev 2 (Konum): X=33.8680, Y=-7.7113, Z=0.0996 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:40,604 - INFO - [Kare 169/9022] 'frame_000168.jpg' işlendi (0.157s)
+2026-10-05 22:17:40,604 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:40,604 - INFO -   └── Görev 2 (Konum): X=34.2009, Y=-7.6882, Z=0.1020 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:40,775 - INFO - [Kare 170/9022] 'frame_000169.jpg' işlendi (0.160s)
+2026-10-05 22:17:40,775 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:40,775 - INFO -   └── Görev 2 (Konum): X=34.5347, Y=-7.6644, Z=0.1045 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:40,971 - INFO - [Kare 171/9022] 'frame_000170.jpg' işlendi (0.186s)
+2026-10-05 22:17:40,971 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:40,971 - INFO -   └── Görev 2 (Konum): X=34.8685, Y=-7.6387, Z=0.1068 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:41,134 - INFO - [Kare 172/9022] 'frame_000171.jpg' işlendi (0.153s)
+2026-10-05 22:17:41,134 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:41,134 - INFO -   └── Görev 2 (Konum): X=35.2023, Y=-7.6109, Z=0.1091 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:41,299 - INFO - [Kare 173/9022] 'frame_000172.jpg' işlendi (0.154s)
+2026-10-05 22:17:41,299 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:17:41,299 - INFO -   └── Görev 2 (Konum): X=35.5359, Y=-7.5810, Z=0.1114 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:41,466 - INFO - [Kare 174/9022] 'frame_000173.jpg' işlendi (0.157s)
+2026-10-05 22:17:41,466 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:41,466 - INFO -       • [Insan] BBox: [145, 641, 166, 659] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:41,466 - INFO -   └── Görev 2 (Konum): X=35.8700, Y=-7.5501, Z=0.1136 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:41,632 - INFO - [Kare 175/9022] 'frame_000174.jpg' işlendi (0.155s)
+2026-10-05 22:17:41,632 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:41,632 - INFO -       • [Insan] BBox: [148, 642, 169, 663] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:41,632 - INFO -       • [Insan] BBox: [94, 811, 122, 845] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:41,633 - INFO -   └── Görev 2 (Konum): X=36.2048, Y=-7.5182, Z=0.1156 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:41,796 - INFO - [Kare 176/9022] 'frame_000175.jpg' işlendi (0.152s)
+2026-10-05 22:17:41,796 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:41,796 - INFO -       • [Insan] BBox: [149, 649, 169, 670] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:41,796 - INFO -       • [Insan] BBox: [94, 816, 122, 850] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:41,796 - INFO -   └── Görev 2 (Konum): X=36.5402, Y=-7.4857, Z=0.1176 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:41,958 - INFO - [Kare 177/9022] 'frame_000176.jpg' işlendi (0.152s)
+2026-10-05 22:17:41,958 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:41,958 - INFO -       • [Insan] BBox: [96, 821, 121, 856] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:41,958 - INFO -   └── Görev 2 (Konum): X=36.8755, Y=-7.4513, Z=0.1195 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:42,122 - INFO - [Kare 178/9022] 'frame_000177.jpg' işlendi (0.155s)
+2026-10-05 22:17:42,123 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:42,123 - INFO -       • [Insan] BBox: [97, 828, 123, 860] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:42,123 - INFO -   └── Görev 2 (Konum): X=37.2104, Y=-7.4152, Z=0.1212 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:42,270 - INFO - [Kare 179/9022] 'frame_000178.jpg' işlendi (0.138s)
+2026-10-05 22:17:42,270 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:42,270 - INFO -       • [Insan] BBox: [97, 832, 124, 865] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:42,270 - INFO -   └── Görev 2 (Konum): X=37.5448, Y=-7.3774, Z=0.1228 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:42,420 - INFO - [Kare 180/9022] 'frame_000179.jpg' işlendi (0.140s)
+2026-10-05 22:17:42,420 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:42,420 - INFO -       • [Insan] BBox: [99, 838, 125, 870] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:42,420 - INFO -   └── Görev 2 (Konum): X=37.8796, Y=-7.3378, Z=0.1244 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:42,592 - INFO - [Kare 181/9022] 'frame_000180.jpg' işlendi (0.163s)
+2026-10-05 22:17:42,592 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:42,593 - INFO -       • [Insan] BBox: [100, 842, 125, 875] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:42,593 - INFO -   └── Görev 2 (Konum): X=38.2146, Y=-7.2966, Z=0.1260 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:42,744 - INFO - [Kare 182/9022] 'frame_000181.jpg' işlendi (0.141s)
+2026-10-05 22:17:42,744 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:42,744 - INFO -       • [Insan] BBox: [99, 846, 125, 878] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:42,744 - INFO -   └── Görev 2 (Konum): X=38.5500, Y=-7.2537, Z=0.1275 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:42,901 - INFO - [Kare 183/9022] 'frame_000182.jpg' işlendi (0.147s)
+2026-10-05 22:17:42,901 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:42,901 - INFO -       • [Insan] BBox: [99, 851, 126, 883] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:42,901 - INFO -   └── Görev 2 (Konum): X=38.8865, Y=-7.2103, Z=0.1289 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:43,051 - INFO - [Kare 184/9022] 'frame_000183.jpg' işlendi (0.141s)
+2026-10-05 22:17:43,051 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:43,051 - INFO -       • [Insan] BBox: [102, 859, 126, 891] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,051 - INFO -   └── Görev 2 (Konum): X=39.2239, Y=-7.1662, Z=0.1302 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:43,204 - INFO - [Kare 185/9022] 'frame_000184.jpg' işlendi (0.143s)
+2026-10-05 22:17:43,204 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:43,204 - INFO -       • [Insan] BBox: [100, 864, 126, 895] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,204 - INFO -   └── Görev 2 (Konum): X=39.5622, Y=-7.1213, Z=0.1314 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:43,362 - INFO - [Kare 186/9022] 'frame_000185.jpg' işlendi (0.147s)
+2026-10-05 22:17:43,362 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:43,362 - INFO -       • [Insan] BBox: [100, 870, 125, 900] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,362 - INFO -   └── Görev 2 (Konum): X=39.9005, Y=-7.0734, Z=0.1325 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:43,516 - INFO - [Kare 187/9022] 'frame_000186.jpg' işlendi (0.143s)
+2026-10-05 22:17:43,516 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:43,516 - INFO -       • [Insan] BBox: [101, 875, 126, 904] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,516 - INFO -       • [Insan] BBox: [233, 487, 259, 514] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,516 - INFO -   └── Görev 2 (Konum): X=40.2387, Y=-7.0224, Z=0.1335 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:43,665 - INFO - [Kare 188/9022] 'frame_000187.jpg' işlendi (0.140s)
+2026-10-05 22:17:43,665 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 22:17:43,665 - INFO -       • [Insan] BBox: [99, 876, 126, 908] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,666 - INFO -       • [Insan] BBox: [234, 491, 261, 518] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,666 - INFO -   └── Görev 2 (Konum): X=40.5770, Y=-6.9683, Z=0.1343 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:43,816 - INFO - [Kare 189/9022] 'frame_000188.jpg' işlendi (0.141s)
+2026-10-05 22:17:43,817 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:43,817 - INFO -       • [Insan] BBox: [101, 884, 126, 914] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,817 - INFO -   └── Görev 2 (Konum): X=40.9152, Y=-6.9133, Z=0.1352 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:43,988 - INFO - [Kare 190/9022] 'frame_000189.jpg' işlendi (0.161s)
+2026-10-05 22:17:43,988 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:43,988 - INFO -       • [Insan] BBox: [100, 886, 127, 918] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:43,988 - INFO -   └── Görev 2 (Konum): X=41.2530, Y=-6.8573, Z=0.1359 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:44,160 - INFO - [Kare 191/9022] 'frame_000190.jpg' işlendi (0.162s)
+2026-10-05 22:17:44,160 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:44,160 - INFO -       • [Insan] BBox: [99, 888, 127, 922] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:44,160 - INFO -   └── Görev 2 (Konum): X=41.5901, Y=-6.8003, Z=0.1367 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:44,311 - INFO - [Kare 192/9022] 'frame_000191.jpg' işlendi (0.141s)
+2026-10-05 22:17:44,311 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:44,311 - INFO -       • [Insan] BBox: [100, 894, 127, 926] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:44,311 - INFO -   └── Görev 2 (Konum): X=41.9265, Y=-6.7412, Z=0.1373 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:44,462 - INFO - [Kare 193/9022] 'frame_000192.jpg' işlendi (0.140s)
+2026-10-05 22:17:44,462 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:44,462 - INFO -       • [Insan] BBox: [98, 896, 126, 928] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:44,462 - INFO -   └── Görev 2 (Konum): X=42.2622, Y=-6.6798, Z=0.1379 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:44,619 - INFO - [Kare 194/9022] 'frame_000193.jpg' işlendi (0.147s)
+2026-10-05 22:17:44,619 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:44,619 - INFO -       • [Insan] BBox: [98, 901, 125, 933] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:44,619 - INFO -   └── Görev 2 (Konum): X=42.5971, Y=-6.6159, Z=0.1384 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:44,772 - INFO - [Kare 195/9022] 'frame_000194.jpg' işlendi (0.144s)
+2026-10-05 22:17:44,773 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:44,773 - INFO -       • [Insan] BBox: [98, 905, 126, 936] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:44,773 - INFO -   └── Görev 2 (Konum): X=42.9314, Y=-6.5508, Z=0.1388 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:44,945 - INFO - [Kare 196/9022] 'frame_000195.jpg' işlendi (0.163s)
+2026-10-05 22:17:44,945 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:44,945 - INFO -       • [Insan] BBox: [99, 912, 126, 943] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:44,945 - INFO -   └── Görev 2 (Konum): X=43.2650, Y=-6.4843, Z=0.1391 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:45,097 - INFO - [Kare 197/9022] 'frame_000196.jpg' işlendi (0.142s)
+2026-10-05 22:17:45,097 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:45,097 - INFO -       • [Insan] BBox: [99, 917, 125, 948] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:45,097 - INFO -   └── Görev 2 (Konum): X=43.5981, Y=-6.4168, Z=0.1395 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:45,244 - INFO - [Kare 198/9022] 'frame_000197.jpg' işlendi (0.137s)
+2026-10-05 22:17:45,245 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:45,245 - INFO -       • [Insan] BBox: [99, 924, 125, 953] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:45,245 - INFO -   └── Görev 2 (Konum): X=43.9313, Y=-6.3471, Z=0.1397 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:45,390 - INFO - [Kare 199/9022] 'frame_000198.jpg' işlendi (0.135s)
+2026-10-05 22:17:45,390 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:45,390 - INFO -       • [Insan] BBox: [101, 931, 124, 960] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:45,390 - INFO -   └── Görev 2 (Konum): X=44.2646, Y=-6.2753, Z=0.1399 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:45,537 - INFO - [Kare 200/9022] 'frame_000199.jpg' işlendi (0.137s)
+2026-10-05 22:17:45,537 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:45,537 - INFO -       • [Insan] BBox: [100, 934, 125, 963] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:45,537 - INFO -   └── Görev 2 (Konum): X=44.5979, Y=-6.2012, Z=0.1400 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:49,890 - INFO - [Kare 201/9022] 'frame_000200.jpg' işlendi (4.344s)
+2026-10-05 22:17:49,891 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:49,891 - INFO -       • [Insan] BBox: [100, 937, 125, 968] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:49,891 - INFO -   └── Görev 2 (Konum): X=44.9311, Y=-6.1260, Z=0.1401 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:49,891 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:17:52,697 - INFO - [Kare 202/9022] 'frame_000201.jpg' işlendi (2.788s)
+2026-10-05 22:17:52,697 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:52,697 - INFO -       • [Insan] BBox: [100, 944, 124, 971] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:52,697 - INFO -   └── Görev 2 (Konum): X=45.2640, Y=-6.0493, Z=0.1402 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:52,697 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:17:55,458 - INFO - [Kare 203/9022] 'frame_000202.jpg' işlendi (2.749s)
+2026-10-05 22:17:55,458 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:55,458 - INFO -       • [Insan] BBox: [99, 946, 124, 974] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:55,458 - INFO -   └── Görev 2 (Konum): X=45.5966, Y=-5.9711, Z=0.1403 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:55,458 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:17:58,315 - INFO - [Kare 204/9022] 'frame_000203.jpg' işlendi (2.847s)
+2026-10-05 22:17:58,315 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:17:58,315 - INFO -       • [Insan] BBox: [98, 948, 123, 978] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:17:58,315 - INFO -   └── Görev 2 (Konum): X=45.9287, Y=-5.8903, Z=0.1404 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:17:58,315 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:01,116 - INFO - [Kare 205/9022] 'frame_000204.jpg' işlendi (2.784s)
+2026-10-05 22:18:01,116 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:01,117 - INFO -       • [Insan] BBox: [96, 949, 122, 982] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:01,117 - INFO -   └── Görev 2 (Konum): X=46.2604, Y=-5.8068, Z=0.1406 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:01,117 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:03,895 - INFO - [Kare 206/9022] 'frame_000205.jpg' işlendi (2.755s)
+2026-10-05 22:18:03,895 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:03,895 - INFO -       • [Insan] BBox: [96, 953, 122, 987] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:03,895 - INFO -   └── Görev 2 (Konum): X=46.5915, Y=-5.7208, Z=0.1408 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:03,895 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:06,610 - INFO - [Kare 207/9022] 'frame_000206.jpg' işlendi (2.692s)
+2026-10-05 22:18:06,611 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:18:06,611 - INFO -   └── Görev 2 (Konum): X=46.9220, Y=-5.6335, Z=0.1411 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:06,611 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:09,358 - INFO - [Kare 208/9022] 'frame_000207.jpg' işlendi (2.725s)
+2026-10-05 22:18:09,359 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:18:09,359 - INFO -   └── Görev 2 (Konum): X=47.2518, Y=-5.5448, Z=0.1415 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:09,359 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:12,067 - INFO - [Kare 209/9022] 'frame_000208.jpg' işlendi (2.695s)
+2026-10-05 22:18:12,067 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:12,067 - INFO -       • [Insan] BBox: [94, 969, 120, 998] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:12,067 - INFO -   └── Görev 2 (Konum): X=47.5808, Y=-5.4546, Z=0.1419 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:12,067 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:14,865 - INFO - [Kare 210/9022] 'frame_000209.jpg' işlendi (2.787s)
+2026-10-05 22:18:14,865 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:14,865 - INFO -       • [Insan] BBox: [91, 972, 118, 1000] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:14,865 - INFO -   └── Görev 2 (Konum): X=47.9090, Y=-5.3629, Z=0.1423 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:14,865 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:17,625 - INFO - [Kare 211/9022] 'frame_000210.jpg' işlendi (2.745s)
+2026-10-05 22:18:17,626 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:17,626 - INFO -       • [Insan] BBox: [89, 974, 117, 1003] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:17,626 - INFO -   └── Görev 2 (Konum): X=48.2364, Y=-5.2697, Z=0.1429 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:17,626 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:20,360 - INFO - [Kare 212/9022] 'frame_000211.jpg' işlendi (2.720s)
+2026-10-05 22:18:20,360 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:20,360 - INFO -       • [Insan] BBox: [86, 974, 116, 1006] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:20,360 - INFO -   └── Görev 2 (Konum): X=48.5630, Y=-5.1751, Z=0.1435 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:20,360 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:23,031 - INFO - [Kare 213/9022] 'frame_000212.jpg' işlendi (2.660s)
+2026-10-05 22:18:23,031 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:23,031 - INFO -       • [Insan] BBox: [86, 979, 115, 1010] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:23,031 - INFO -   └── Görev 2 (Konum): X=48.8893, Y=-5.0779, Z=0.1441 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:23,031 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:25,692 - INFO - [Kare 214/9022] 'frame_000213.jpg' işlendi (2.651s)
+2026-10-05 22:18:25,693 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:25,693 - INFO -       • [Insan] BBox: [84, 981, 114, 1014] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:25,693 - INFO -   └── Görev 2 (Konum): X=49.2154, Y=-4.9781, Z=0.1449 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:25,693 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:28,387 - INFO - [Kare 215/9022] 'frame_000214.jpg' işlendi (2.683s)
+2026-10-05 22:18:28,387 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:28,387 - INFO -       • [Insan] BBox: [82, 982, 110, 1016] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:28,387 - INFO -   └── Görev 2 (Konum): X=49.5409, Y=-4.8754, Z=0.1457 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:28,387 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:31,174 - INFO - [Kare 216/9022] 'frame_000215.jpg' işlendi (2.775s)
+2026-10-05 22:18:31,174 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:31,174 - INFO -       • [Insan] BBox: [82, 985, 110, 1019] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:31,174 - INFO -   └── Görev 2 (Konum): X=49.8658, Y=-4.7719, Z=0.1464 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:31,174 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:33,970 - INFO - [Kare 217/9022] 'frame_000216.jpg' işlendi (2.784s)
+2026-10-05 22:18:33,970 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:33,970 - INFO -       • [Insan] BBox: [80, 985, 109, 1021] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:33,970 - INFO -   └── Görev 2 (Konum): X=50.1899, Y=-4.6677, Z=0.1472 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:33,970 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:36,699 - INFO - [Kare 218/9022] 'frame_000217.jpg' işlendi (2.718s)
+2026-10-05 22:18:36,699 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:36,699 - INFO -       • [Insan] BBox: [79, 988, 108, 1023] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:36,699 - INFO -   └── Görev 2 (Konum): X=50.5131, Y=-4.5627, Z=0.1480 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:36,699 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:39,437 - INFO - [Kare 219/9022] 'frame_000218.jpg' işlendi (2.727s)
+2026-10-05 22:18:39,438 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:39,438 - INFO -       • [Insan] BBox: [78, 992, 107, 1027] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:39,438 - INFO -   └── Görev 2 (Konum): X=50.8345, Y=-4.4546, Z=0.1488 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:39,438 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:42,154 - INFO - [Kare 220/9022] 'frame_000219.jpg' işlendi (2.706s)
+2026-10-05 22:18:42,155 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:18:42,155 - INFO -   └── Görev 2 (Konum): X=51.1542, Y=-4.3435, Z=0.1497 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:42,155 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:44,890 - INFO - [Kare 221/9022] 'frame_000220.jpg' işlendi (2.722s)
+2026-10-05 22:18:44,890 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:18:44,890 - INFO -   └── Görev 2 (Konum): X=51.4723, Y=-4.2294, Z=0.1506 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:44,890 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:47,610 - INFO - [Kare 222/9022] 'frame_000221.jpg' işlendi (2.708s)
+2026-10-05 22:18:47,610 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:18:47,610 - INFO -   └── Görev 2 (Konum): X=51.7895, Y=-4.1134, Z=0.1515 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:47,610 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:50,379 - INFO - [Kare 223/9022] 'frame_000222.jpg' işlendi (2.756s)
+2026-10-05 22:18:50,379 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:50,379 - INFO -       • [Insan] BBox: [686, 730, 721, 764] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:50,379 - INFO -   └── Görev 2 (Konum): X=52.1057, Y=-3.9954, Z=0.1525 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:50,379 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:53,131 - INFO - [Kare 224/9022] 'frame_000223.jpg' işlendi (2.741s)
+2026-10-05 22:18:53,132 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:53,132 - INFO -       • [Insan] BBox: [684, 736, 721, 771] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:53,132 - INFO -   └── Görev 2 (Konum): X=52.4210, Y=-3.8751, Z=0.1536 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:53,132 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:55,912 - INFO - [Kare 225/9022] 'frame_000224.jpg' işlendi (2.761s)
+2026-10-05 22:18:55,912 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:18:55,912 - INFO -       • [Insan] BBox: [686, 745, 721, 779] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:18:55,912 - INFO -   └── Görev 2 (Konum): X=52.7359, Y=-3.7526, Z=0.1547 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:55,912 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:18:58,564 - INFO - [Kare 226/9022] 'frame_000225.jpg' işlendi (2.642s)
+2026-10-05 22:18:58,564 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:18:58,564 - INFO -   └── Görev 2 (Konum): X=53.0503, Y=-3.6277, Z=0.1559 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:18:58,564 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:01,304 - INFO - [Kare 227/9022] 'frame_000226.jpg' işlendi (2.728s)
+2026-10-05 22:19:01,304 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:01,304 - INFO -   └── Görev 2 (Konum): X=53.3641, Y=-3.5005, Z=0.1572 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:01,304 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:04,022 - INFO - [Kare 228/9022] 'frame_000227.jpg' işlendi (2.707s)
+2026-10-05 22:19:04,022 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:04,022 - INFO -   └── Görev 2 (Konum): X=53.6770, Y=-3.3709, Z=0.1586 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:04,022 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:06,705 - INFO - [Kare 229/9022] 'frame_000228.jpg' işlendi (2.672s)
+2026-10-05 22:19:06,706 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:06,706 - INFO -   └── Görev 2 (Konum): X=53.9889, Y=-3.2389, Z=0.1601 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:06,706 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:09,372 - INFO - [Kare 230/9022] 'frame_000229.jpg' işlendi (2.654s)
+2026-10-05 22:19:09,372 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:19:09,372 - INFO -       • [Insan] BBox: [685, 780, 723, 813] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:19:09,372 - INFO -   └── Görev 2 (Konum): X=54.2996, Y=-3.1045, Z=0.1617 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:09,372 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:12,194 - INFO - [Kare 231/9022] 'frame_000230.jpg' işlendi (2.812s)
+2026-10-05 22:19:12,194 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 22:19:12,194 - INFO -       • [Insan] BBox: [683, 787, 722, 820] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 22:19:12,194 - INFO -   └── Görev 2 (Konum): X=54.6092, Y=-2.9679, Z=0.1633 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:12,194 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:14,926 - INFO - [Kare 232/9022] 'frame_000231.jpg' işlendi (2.721s)
+2026-10-05 22:19:14,927 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:14,927 - INFO -   └── Görev 2 (Konum): X=54.9174, Y=-2.8291, Z=0.1650 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:14,927 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:17,695 - INFO - [Kare 233/9022] 'frame_000232.jpg' işlendi (2.754s)
+2026-10-05 22:19:17,695 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:17,695 - INFO -   └── Görev 2 (Konum): X=55.2242, Y=-2.6883, Z=0.1667 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:17,695 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:20,373 - INFO - [Kare 234/9022] 'frame_000233.jpg' işlendi (2.668s)
+2026-10-05 22:19:20,374 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:20,374 - INFO -   └── Görev 2 (Konum): X=55.5288, Y=-2.5443, Z=0.1684 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:20,374 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:23,224 - INFO - [Kare 235/9022] 'frame_000234.jpg' işlendi (2.840s)
+2026-10-05 22:19:23,224 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:23,224 - INFO -   └── Görev 2 (Konum): X=55.8308, Y=-2.3971, Z=0.1702 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:23,224 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:26,241 - INFO - [Kare 236/9022] 'frame_000235.jpg' işlendi (2.997s)
+2026-10-05 22:19:26,242 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:26,242 - INFO -   └── Görev 2 (Konum): X=56.1300, Y=-2.2466, Z=0.1719 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:26,242 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:28,951 - INFO - [Kare 237/9022] 'frame_000236.jpg' işlendi (2.698s)
+2026-10-05 22:19:28,952 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:28,952 - INFO -   └── Görev 2 (Konum): X=56.4273, Y=-2.0951, Z=0.1737 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:28,952 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:31,637 - INFO - [Kare 238/9022] 'frame_000237.jpg' işlendi (2.674s)
+2026-10-05 22:19:31,637 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:31,637 - INFO -   └── Görev 2 (Konum): X=56.7227, Y=-1.9426, Z=0.1755 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:31,637 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:34,523 - INFO - [Kare 239/9022] 'frame_000238.jpg' işlendi (2.872s)
+2026-10-05 22:19:34,523 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:34,523 - INFO -   └── Görev 2 (Konum): X=57.0161, Y=-1.7890, Z=0.1772 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:34,523 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:37,454 - INFO - [Kare 240/9022] 'frame_000239.jpg' işlendi (2.911s)
+2026-10-05 22:19:37,455 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:37,455 - INFO -   └── Görev 2 (Konum): X=57.3074, Y=-1.6322, Z=0.1790 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:37,455 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:40,351 - INFO - [Kare 241/9022] 'frame_000240.jpg' işlendi (2.879s)
+2026-10-05 22:19:40,352 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:40,352 - INFO -   └── Görev 2 (Konum): X=57.5964, Y=-1.4725, Z=0.1808 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:40,352 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:43,155 - INFO - [Kare 242/9022] 'frame_000241.jpg' işlendi (2.791s)
+2026-10-05 22:19:43,155 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:43,155 - INFO -   └── Görev 2 (Konum): X=57.8829, Y=-1.3098, Z=0.1825 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:43,155 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:46,041 - INFO - [Kare 243/9022] 'frame_000242.jpg' işlendi (2.871s)
+2026-10-05 22:19:46,041 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:46,041 - INFO -   └── Görev 2 (Konum): X=58.1668, Y=-1.1452, Z=0.1843 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:46,041 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:48,806 - INFO - [Kare 244/9022] 'frame_000243.jpg' işlendi (2.748s)
+2026-10-05 22:19:48,807 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:48,807 - INFO -   └── Görev 2 (Konum): X=58.4482, Y=-0.9788, Z=0.1860 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:48,807 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:51,506 - INFO - [Kare 245/9022] 'frame_000244.jpg' işlendi (2.688s)
+2026-10-05 22:19:51,506 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:51,506 - INFO -   └── Görev 2 (Konum): X=58.7273, Y=-0.8105, Z=0.1877 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:51,506 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:54,278 - INFO - [Kare 246/9022] 'frame_000245.jpg' işlendi (2.760s)
+2026-10-05 22:19:54,278 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:54,278 - INFO -   └── Görev 2 (Konum): X=59.0056, Y=-0.6402, Z=0.1893 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:54,278 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:57,034 - INFO - [Kare 247/9022] 'frame_000246.jpg' işlendi (2.743s)
+2026-10-05 22:19:57,035 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 22:19:57,035 - INFO -   └── Görev 2 (Konum): X=59.2832, Y=-0.4680, Z=0.1909 [Sağlık: 1 - CSV Tablosu (GT)]
+2026-10-05 22:19:57,035 - INFO -   └── Görev 3: ['Referans_Nesne_01.JPG'] arandı, eşleşme bulunamadı.
+2026-10-05 22:19:59,361 - WARNING - 
+⚠️ İşlem kullanıcı tarafından durduruldu (Ctrl+C). İşlenen kareler kaydediliyor...
+2026-10-05 22:19:59,371 - INFO - =================================================================
+2026-10-05 22:19:59,371 - INFO -                   İŞLEM ÖZETİ VE İSTATİSTİKLER                   
+2026-10-05 22:19:59,371 - INFO - =================================================================
+2026-10-05 22:19:59,371 - INFO - Toplam İşlenen Kare Sayısı : 247
+2026-10-05 22:19:59,371 - INFO - Toplam Geçen Süre          : 182.29 saniye
+2026-10-05 22:19:59,371 - INFO - Ortalama İşlem Hızı        : 1.36 FPS
+2026-10-05 22:19:59,371 - INFO - -----------------------------------------------------------------
+2026-10-05 22:19:59,371 - INFO - Görev 1 (Nesne Tespiti) Sınıf İstatistikleri:
+2026-10-05 22:19:59,371 - INFO -   • Tasit       : 133 adet
+2026-10-05 22:19:59,371 - INFO -   • UAI         : 3 adet
+2026-10-05 22:19:59,371 - INFO -   • Insan       : 53 adet
+2026-10-05 22:19:59,371 - INFO -   • Toplam Tespit: 189 adet
+2026-10-05 22:19:59,371 - INFO - -----------------------------------------------------------------
+2026-10-05 22:19:59,371 - INFO - Görev 3 (Referans Tespiti) Eşleşme Sayısı: 1 adet
+2026-10-05 22:19:59,371 - INFO - -----------------------------------------------------------------
+2026-10-05 22:19:59,372 - INFO - Log Dosyası    : /Users/esranurdemirel/Desktop/ai-in-aircraft/_logs/calisma_2026_10_05__22_16_03.log
+2026-10-05 22:19:59,372 - INFO - JSON Sonuçları : /Users/esranurdemirel/Desktop/ai-in-aircraft/_logs/sonuclar_2026_10_05__22_16_03.json
+2026-10-05 22:19:59,372 - INFO - =================================================================

@@ -1,0 +1,2054 @@
+2026-10-05 20:49:51,131 - INFO - =================================================================
+2026-10-05 20:49:51,131 - INFO -                HAVACILIKTA YAPAY ZEKA PİPELİNE'I BAŞLATILDI      
+2026-10-05 20:49:51,131 - INFO - =================================================================
+2026-10-05 20:49:51,145 - INFO - ℹ️  Görev 3: Referans görseli bulunamadı (references/ klasörü boş veya yok). Görev 3 atlanacak.
+2026-10-05 20:49:51,150 - INFO - 📡 Görev 2: Telemetri verisi yüklendi (2250 kayıt bulundu).
+2026-10-05 20:49:51,150 - INFO - 🚀 AI Görev Motorları yükleniyor...
+2026-10-05 20:49:51,291 - INFO - 📊 Toplam 2250 adet görüntü işlenecek.
+2026-10-05 20:49:52,524 - INFO - [Kare 1/2250] 'frame_000000.PNG' işlendi (1.200s)
+2026-10-05 20:49:52,525 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:52,525 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:52,867 - INFO - [Kare 2/2250] 'frame_000001.PNG' işlendi (0.342s)
+2026-10-05 20:49:52,867 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:52,867 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:53,184 - INFO - [Kare 3/2250] 'frame_000002.PNG' işlendi (0.317s)
+2026-10-05 20:49:53,184 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:53,184 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:53,502 - INFO - [Kare 4/2250] 'frame_000003.PNG' işlendi (0.318s)
+2026-10-05 20:49:53,502 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:53,502 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:53,844 - INFO - [Kare 5/2250] 'frame_000004.PNG' işlendi (0.341s)
+2026-10-05 20:49:53,844 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:53,844 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:54,164 - INFO - [Kare 6/2250] 'frame_000005.PNG' işlendi (0.320s)
+2026-10-05 20:49:54,164 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:54,164 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:54,480 - INFO - [Kare 7/2250] 'frame_000006.PNG' işlendi (0.315s)
+2026-10-05 20:49:54,480 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:54,480 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:54,793 - INFO - [Kare 8/2250] 'frame_000007.PNG' işlendi (0.313s)
+2026-10-05 20:49:54,793 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:54,793 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:55,107 - INFO - [Kare 9/2250] 'frame_000008.PNG' işlendi (0.314s)
+2026-10-05 20:49:55,107 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:55,107 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:55,424 - INFO - [Kare 10/2250] 'frame_000009.PNG' işlendi (0.317s)
+2026-10-05 20:49:55,424 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:55,424 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:55,740 - INFO - [Kare 11/2250] 'frame_000010.PNG' işlendi (0.316s)
+2026-10-05 20:49:55,740 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:55,740 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:56,160 - INFO - [Kare 12/2250] 'frame_000011.PNG' işlendi (0.419s)
+2026-10-05 20:49:56,160 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:56,160 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:56,509 - INFO - [Kare 13/2250] 'frame_000012.PNG' işlendi (0.349s)
+2026-10-05 20:49:56,509 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:56,509 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:56,846 - INFO - [Kare 14/2250] 'frame_000013.PNG' işlendi (0.337s)
+2026-10-05 20:49:56,846 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:56,846 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:57,186 - INFO - [Kare 15/2250] 'frame_000014.PNG' işlendi (0.340s)
+2026-10-05 20:49:57,186 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:57,186 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:57,542 - INFO - [Kare 16/2250] 'frame_000015.PNG' işlendi (0.355s)
+2026-10-05 20:49:57,542 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:57,542 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:57,935 - INFO - [Kare 17/2250] 'frame_000016.PNG' işlendi (0.393s)
+2026-10-05 20:49:57,935 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:57,935 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:58,205 - INFO - [Kare 18/2250] 'frame_000017.PNG' işlendi (0.270s)
+2026-10-05 20:49:58,205 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:58,205 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:58,477 - INFO - [Kare 19/2250] 'frame_000018.PNG' işlendi (0.272s)
+2026-10-05 20:49:58,477 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:58,477 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:58,797 - INFO - [Kare 20/2250] 'frame_000019.PNG' işlendi (0.320s)
+2026-10-05 20:49:58,797 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:58,797 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:59,147 - INFO - [Kare 21/2250] 'frame_000020.PNG' işlendi (0.349s)
+2026-10-05 20:49:59,147 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:59,147 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:59,475 - INFO - [Kare 22/2250] 'frame_000021.PNG' işlendi (0.328s)
+2026-10-05 20:49:59,475 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:59,475 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:49:59,824 - INFO - [Kare 23/2250] 'frame_000022.PNG' işlendi (0.348s)
+2026-10-05 20:49:59,824 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:49:59,824 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:00,111 - INFO - [Kare 24/2250] 'frame_000023.PNG' işlendi (0.287s)
+2026-10-05 20:50:00,111 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:00,111 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:00,414 - INFO - [Kare 25/2250] 'frame_000024.PNG' işlendi (0.303s)
+2026-10-05 20:50:00,414 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:00,414 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:00,691 - INFO - [Kare 26/2250] 'frame_000025.PNG' işlendi (0.277s)
+2026-10-05 20:50:00,691 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:00,691 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:00,955 - INFO - [Kare 27/2250] 'frame_000026.PNG' işlendi (0.263s)
+2026-10-05 20:50:00,955 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:00,955 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:01,222 - INFO - [Kare 28/2250] 'frame_000027.PNG' işlendi (0.267s)
+2026-10-05 20:50:01,222 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:01,223 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:01,489 - INFO - [Kare 29/2250] 'frame_000028.PNG' işlendi (0.266s)
+2026-10-05 20:50:01,489 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:01,489 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:01,754 - INFO - [Kare 30/2250] 'frame_000029.PNG' işlendi (0.265s)
+2026-10-05 20:50:01,754 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:01,754 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:02,020 - INFO - [Kare 31/2250] 'frame_000030.PNG' işlendi (0.266s)
+2026-10-05 20:50:02,020 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:02,020 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:02,327 - INFO - [Kare 32/2250] 'frame_000031.PNG' işlendi (0.307s)
+2026-10-05 20:50:02,327 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:02,327 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:02,630 - INFO - [Kare 33/2250] 'frame_000032.PNG' işlendi (0.302s)
+2026-10-05 20:50:02,630 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:02,630 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:02,896 - INFO - [Kare 34/2250] 'frame_000033.PNG' işlendi (0.266s)
+2026-10-05 20:50:02,896 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:02,896 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:03,172 - INFO - [Kare 35/2250] 'frame_000034.PNG' işlendi (0.276s)
+2026-10-05 20:50:03,172 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:03,173 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:03,455 - INFO - [Kare 36/2250] 'frame_000035.PNG' işlendi (0.282s)
+2026-10-05 20:50:03,455 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:03,455 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:03,747 - INFO - [Kare 37/2250] 'frame_000036.PNG' işlendi (0.292s)
+2026-10-05 20:50:03,747 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:03,747 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:04,057 - INFO - [Kare 38/2250] 'frame_000037.PNG' işlendi (0.309s)
+2026-10-05 20:50:04,057 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:04,057 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:04,371 - INFO - [Kare 39/2250] 'frame_000038.PNG' işlendi (0.314s)
+2026-10-05 20:50:04,371 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:04,371 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:04,691 - INFO - [Kare 40/2250] 'frame_000039.PNG' işlendi (0.320s)
+2026-10-05 20:50:04,691 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:04,691 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:05,041 - INFO - [Kare 41/2250] 'frame_000040.PNG' işlendi (0.350s)
+2026-10-05 20:50:05,041 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:05,041 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:05,362 - INFO - [Kare 42/2250] 'frame_000041.PNG' işlendi (0.320s)
+2026-10-05 20:50:05,362 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:05,362 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:05,674 - INFO - [Kare 43/2250] 'frame_000042.PNG' işlendi (0.312s)
+2026-10-05 20:50:05,674 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:05,674 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:06,042 - INFO - [Kare 44/2250] 'frame_000043.PNG' işlendi (0.368s)
+2026-10-05 20:50:06,042 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:06,042 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:06,350 - INFO - [Kare 45/2250] 'frame_000044.PNG' işlendi (0.307s)
+2026-10-05 20:50:06,350 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:06,350 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:06,661 - INFO - [Kare 46/2250] 'frame_000045.PNG' işlendi (0.311s)
+2026-10-05 20:50:06,661 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:06,661 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:06,969 - INFO - [Kare 47/2250] 'frame_000046.PNG' işlendi (0.308s)
+2026-10-05 20:50:06,970 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:06,970 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:07,232 - INFO - [Kare 48/2250] 'frame_000047.PNG' işlendi (0.262s)
+2026-10-05 20:50:07,232 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:07,232 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:07,521 - INFO - [Kare 49/2250] 'frame_000048.PNG' işlendi (0.289s)
+2026-10-05 20:50:07,521 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:07,521 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:07,797 - INFO - [Kare 50/2250] 'frame_000049.PNG' işlendi (0.276s)
+2026-10-05 20:50:07,798 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:07,798 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:08,131 - INFO - [Kare 51/2250] 'frame_000050.PNG' işlendi (0.333s)
+2026-10-05 20:50:08,131 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:08,131 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:08,405 - INFO - [Kare 52/2250] 'frame_000051.PNG' işlendi (0.274s)
+2026-10-05 20:50:08,405 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:08,405 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:08,744 - INFO - [Kare 53/2250] 'frame_000052.PNG' işlendi (0.339s)
+2026-10-05 20:50:08,744 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:08,744 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:09,006 - INFO - [Kare 54/2250] 'frame_000053.PNG' işlendi (0.261s)
+2026-10-05 20:50:09,006 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:09,006 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:09,288 - INFO - [Kare 55/2250] 'frame_000054.PNG' işlendi (0.283s)
+2026-10-05 20:50:09,289 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:09,289 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:09,645 - INFO - [Kare 56/2250] 'frame_000055.PNG' işlendi (0.356s)
+2026-10-05 20:50:09,645 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:09,645 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:09,927 - INFO - [Kare 57/2250] 'frame_000056.PNG' işlendi (0.282s)
+2026-10-05 20:50:09,927 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:09,927 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:10,218 - INFO - [Kare 58/2250] 'frame_000057.PNG' işlendi (0.291s)
+2026-10-05 20:50:10,218 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:10,218 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:10,564 - INFO - [Kare 59/2250] 'frame_000058.PNG' işlendi (0.346s)
+2026-10-05 20:50:10,564 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:10,564 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:10,821 - INFO - [Kare 60/2250] 'frame_000059.PNG' işlendi (0.257s)
+2026-10-05 20:50:10,821 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:10,821 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:11,094 - INFO - [Kare 61/2250] 'frame_000060.PNG' işlendi (0.272s)
+2026-10-05 20:50:11,094 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:11,094 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:11,358 - INFO - [Kare 62/2250] 'frame_000061.PNG' işlendi (0.265s)
+2026-10-05 20:50:11,359 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:11,359 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:11,617 - INFO - [Kare 63/2250] 'frame_000062.PNG' işlendi (0.258s)
+2026-10-05 20:50:11,617 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:11,617 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:11,881 - INFO - [Kare 64/2250] 'frame_000063.PNG' işlendi (0.264s)
+2026-10-05 20:50:11,881 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:11,881 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:12,140 - INFO - [Kare 65/2250] 'frame_000064.PNG' işlendi (0.259s)
+2026-10-05 20:50:12,140 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:12,140 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:12,396 - INFO - [Kare 66/2250] 'frame_000065.PNG' işlendi (0.255s)
+2026-10-05 20:50:12,396 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:12,396 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:12,654 - INFO - [Kare 67/2250] 'frame_000066.PNG' işlendi (0.258s)
+2026-10-05 20:50:12,654 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:12,655 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:12,910 - INFO - [Kare 68/2250] 'frame_000067.PNG' işlendi (0.255s)
+2026-10-05 20:50:12,910 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:12,910 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:13,223 - INFO - [Kare 69/2250] 'frame_000068.PNG' işlendi (0.312s)
+2026-10-05 20:50:13,223 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:13,223 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:13,480 - INFO - [Kare 70/2250] 'frame_000069.PNG' işlendi (0.257s)
+2026-10-05 20:50:13,480 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:13,480 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:13,738 - INFO - [Kare 71/2250] 'frame_000070.PNG' işlendi (0.258s)
+2026-10-05 20:50:13,738 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:13,738 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:13,997 - INFO - [Kare 72/2250] 'frame_000071.PNG' işlendi (0.258s)
+2026-10-05 20:50:13,997 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:13,997 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:14,258 - INFO - [Kare 73/2250] 'frame_000072.PNG' işlendi (0.261s)
+2026-10-05 20:50:14,258 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:14,258 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:14,512 - INFO - [Kare 74/2250] 'frame_000073.PNG' işlendi (0.255s)
+2026-10-05 20:50:14,512 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:14,512 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:14,767 - INFO - [Kare 75/2250] 'frame_000074.PNG' işlendi (0.254s)
+2026-10-05 20:50:14,767 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:14,767 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:15,025 - INFO - [Kare 76/2250] 'frame_000075.PNG' işlendi (0.258s)
+2026-10-05 20:50:15,025 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:15,025 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:15,281 - INFO - [Kare 77/2250] 'frame_000076.PNG' işlendi (0.255s)
+2026-10-05 20:50:15,281 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:15,281 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:15,542 - INFO - [Kare 78/2250] 'frame_000077.PNG' işlendi (0.261s)
+2026-10-05 20:50:15,542 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:15,542 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:15,804 - INFO - [Kare 79/2250] 'frame_000078.PNG' işlendi (0.262s)
+2026-10-05 20:50:15,804 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:15,804 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:16,058 - INFO - [Kare 80/2250] 'frame_000079.PNG' işlendi (0.254s)
+2026-10-05 20:50:16,058 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:16,058 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:16,315 - INFO - [Kare 81/2250] 'frame_000080.PNG' işlendi (0.257s)
+2026-10-05 20:50:16,315 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:16,315 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:16,583 - INFO - [Kare 82/2250] 'frame_000081.PNG' işlendi (0.268s)
+2026-10-05 20:50:16,584 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:16,584 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:16,869 - INFO - [Kare 83/2250] 'frame_000082.PNG' işlendi (0.286s)
+2026-10-05 20:50:16,870 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:16,870 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:17,137 - INFO - [Kare 84/2250] 'frame_000083.PNG' işlendi (0.267s)
+2026-10-05 20:50:17,137 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:17,137 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:17,396 - INFO - [Kare 85/2250] 'frame_000084.PNG' işlendi (0.259s)
+2026-10-05 20:50:17,396 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:17,396 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:17,652 - INFO - [Kare 86/2250] 'frame_000085.PNG' işlendi (0.255s)
+2026-10-05 20:50:17,652 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:17,652 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:17,908 - INFO - [Kare 87/2250] 'frame_000086.PNG' işlendi (0.256s)
+2026-10-05 20:50:17,908 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:17,908 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:18,165 - INFO - [Kare 88/2250] 'frame_000087.PNG' işlendi (0.256s)
+2026-10-05 20:50:18,165 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:18,165 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:18,513 - INFO - [Kare 89/2250] 'frame_000088.PNG' işlendi (0.348s)
+2026-10-05 20:50:18,513 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:18,513 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:18,773 - INFO - [Kare 90/2250] 'frame_000089.PNG' işlendi (0.260s)
+2026-10-05 20:50:18,773 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:18,773 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:19,068 - INFO - [Kare 91/2250] 'frame_000090.PNG' işlendi (0.295s)
+2026-10-05 20:50:19,069 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:19,069 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:19,353 - INFO - [Kare 92/2250] 'frame_000091.PNG' işlendi (0.284s)
+2026-10-05 20:50:19,353 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:19,353 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:19,640 - INFO - [Kare 93/2250] 'frame_000092.PNG' işlendi (0.287s)
+2026-10-05 20:50:19,640 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:19,641 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:19,914 - INFO - [Kare 94/2250] 'frame_000093.PNG' işlendi (0.274s)
+2026-10-05 20:50:19,914 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:19,915 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:20,175 - INFO - [Kare 95/2250] 'frame_000094.PNG' işlendi (0.260s)
+2026-10-05 20:50:20,175 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:20,175 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:20,435 - INFO - [Kare 96/2250] 'frame_000095.PNG' işlendi (0.260s)
+2026-10-05 20:50:20,435 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:20,435 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:20,693 - INFO - [Kare 97/2250] 'frame_000096.PNG' işlendi (0.258s)
+2026-10-05 20:50:20,693 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:20,694 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:20,960 - INFO - [Kare 98/2250] 'frame_000097.PNG' işlendi (0.266s)
+2026-10-05 20:50:20,960 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:20,960 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:21,308 - INFO - [Kare 99/2250] 'frame_000098.PNG' işlendi (0.348s)
+2026-10-05 20:50:21,308 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:21,308 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:21,572 - INFO - [Kare 100/2250] 'frame_000099.PNG' işlendi (0.264s)
+2026-10-05 20:50:21,572 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:21,572 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:21,840 - INFO - [Kare 101/2250] 'frame_000100.PNG' işlendi (0.268s)
+2026-10-05 20:50:21,841 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:21,841 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:22,110 - INFO - [Kare 102/2250] 'frame_000101.PNG' işlendi (0.269s)
+2026-10-05 20:50:22,110 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:22,110 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:22,383 - INFO - [Kare 103/2250] 'frame_000102.PNG' işlendi (0.272s)
+2026-10-05 20:50:22,383 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:22,383 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:22,643 - INFO - [Kare 104/2250] 'frame_000103.PNG' işlendi (0.260s)
+2026-10-05 20:50:22,643 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:22,644 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:22,905 - INFO - [Kare 105/2250] 'frame_000104.PNG' işlendi (0.261s)
+2026-10-05 20:50:22,905 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:22,905 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:23,195 - INFO - [Kare 106/2250] 'frame_000105.PNG' işlendi (0.290s)
+2026-10-05 20:50:23,196 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:23,196 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:23,455 - INFO - [Kare 107/2250] 'frame_000106.PNG' işlendi (0.259s)
+2026-10-05 20:50:23,455 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:23,455 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:23,717 - INFO - [Kare 108/2250] 'frame_000107.PNG' işlendi (0.262s)
+2026-10-05 20:50:23,717 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:23,717 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:23,998 - INFO - [Kare 109/2250] 'frame_000108.PNG' işlendi (0.281s)
+2026-10-05 20:50:23,998 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:23,998 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:24,324 - INFO - [Kare 110/2250] 'frame_000109.PNG' işlendi (0.326s)
+2026-10-05 20:50:24,324 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:24,324 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:24,591 - INFO - [Kare 111/2250] 'frame_000110.PNG' işlendi (0.266s)
+2026-10-05 20:50:24,591 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:24,591 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:24,867 - INFO - [Kare 112/2250] 'frame_000111.PNG' işlendi (0.276s)
+2026-10-05 20:50:24,867 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:24,867 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:25,125 - INFO - [Kare 113/2250] 'frame_000112.PNG' işlendi (0.258s)
+2026-10-05 20:50:25,125 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:25,125 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:25,384 - INFO - [Kare 114/2250] 'frame_000113.PNG' işlendi (0.260s)
+2026-10-05 20:50:25,385 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:25,385 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:25,645 - INFO - [Kare 115/2250] 'frame_000114.PNG' işlendi (0.260s)
+2026-10-05 20:50:25,645 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:25,645 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:25,900 - INFO - [Kare 116/2250] 'frame_000115.PNG' işlendi (0.255s)
+2026-10-05 20:50:25,900 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:25,900 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:26,157 - INFO - [Kare 117/2250] 'frame_000116.PNG' işlendi (0.257s)
+2026-10-05 20:50:26,157 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:26,157 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:26,418 - INFO - [Kare 118/2250] 'frame_000117.PNG' işlendi (0.260s)
+2026-10-05 20:50:26,418 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:26,418 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:26,716 - INFO - [Kare 119/2250] 'frame_000118.PNG' işlendi (0.298s)
+2026-10-05 20:50:26,716 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:26,716 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:27,057 - INFO - [Kare 120/2250] 'frame_000119.PNG' işlendi (0.340s)
+2026-10-05 20:50:27,057 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:27,057 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:27,341 - INFO - [Kare 121/2250] 'frame_000120.PNG' işlendi (0.284s)
+2026-10-05 20:50:27,341 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:27,341 - INFO -       • [Tasit] BBox: [1628, 8, 1949, 108] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:27,341 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:27,613 - INFO - [Kare 122/2250] 'frame_000121.PNG' işlendi (0.272s)
+2026-10-05 20:50:27,614 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:27,614 - INFO -       • [Tasit] BBox: [1605, 17, 1951, 153] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:27,614 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:27,877 - INFO - [Kare 123/2250] 'frame_000122.PNG' işlendi (0.264s)
+2026-10-05 20:50:27,878 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:27,878 - INFO -       • [Tasit] BBox: [1602, 39, 1946, 193] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:27,878 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:28,138 - INFO - [Kare 124/2250] 'frame_000123.PNG' işlendi (0.260s)
+2026-10-05 20:50:28,138 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:28,138 - INFO -       • [Tasit] BBox: [1595, 72, 1942, 235] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:28,138 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:28,398 - INFO - [Kare 125/2250] 'frame_000124.PNG' işlendi (0.260s)
+2026-10-05 20:50:28,398 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:28,398 - INFO -       • [Tasit] BBox: [1596, 111, 1942, 277] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:28,398 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:28,666 - INFO - [Kare 126/2250] 'frame_000125.PNG' işlendi (0.268s)
+2026-10-05 20:50:28,666 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:28,666 - INFO -       • [Tasit] BBox: [1594, 154, 1940, 319] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:28,666 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:28,929 - INFO - [Kare 127/2250] 'frame_000126.PNG' işlendi (0.263s)
+2026-10-05 20:50:28,930 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:28,930 - INFO -       • [Tasit] BBox: [1591, 198, 1941, 361] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:28,930 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:29,198 - INFO - [Kare 128/2250] 'frame_000127.PNG' işlendi (0.268s)
+2026-10-05 20:50:29,198 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:29,198 - INFO -       • [Tasit] BBox: [1593, 243, 1939, 405] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:29,198 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:29,462 - INFO - [Kare 129/2250] 'frame_000128.PNG' işlendi (0.264s)
+2026-10-05 20:50:29,462 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:29,462 - INFO -       • [Tasit] BBox: [1589, 287, 1936, 449] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:29,462 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:29,751 - INFO - [Kare 130/2250] 'frame_000129.PNG' işlendi (0.288s)
+2026-10-05 20:50:29,751 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:29,751 - INFO -       • [Tasit] BBox: [1588, 331, 1935, 493] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:29,751 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:30,014 - INFO - [Kare 131/2250] 'frame_000130.PNG' işlendi (0.263s)
+2026-10-05 20:50:30,014 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:30,014 - INFO -       • [Tasit] BBox: [1588, 375, 1936, 536] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:30,014 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:30,277 - INFO - [Kare 132/2250] 'frame_000131.PNG' işlendi (0.263s)
+2026-10-05 20:50:30,277 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:30,277 - INFO -       • [Tasit] BBox: [1586, 418, 1936, 575] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:30,277 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:30,592 - INFO - [Kare 133/2250] 'frame_000132.PNG' işlendi (0.314s)
+2026-10-05 20:50:30,592 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:30,592 - INFO -       • [Tasit] BBox: [1583, 456, 1936, 615] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:30,592 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:30,869 - INFO - [Kare 134/2250] 'frame_000133.PNG' işlendi (0.276s)
+2026-10-05 20:50:30,869 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:30,869 - INFO -       • [Tasit] BBox: [1577, 494, 1933, 655] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:30,869 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:31,165 - INFO - [Kare 135/2250] 'frame_000134.PNG' işlendi (0.296s)
+2026-10-05 20:50:31,165 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:31,165 - INFO -       • [Tasit] BBox: [1576, 527, 1934, 690] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:31,165 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:31,438 - INFO - [Kare 136/2250] 'frame_000135.PNG' işlendi (0.272s)
+2026-10-05 20:50:31,438 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:31,438 - INFO -       • [Tasit] BBox: [1571, 560, 1934, 722] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:31,438 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:31,705 - INFO - [Kare 137/2250] 'frame_000136.PNG' işlendi (0.267s)
+2026-10-05 20:50:31,705 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:31,705 - INFO -       • [Tasit] BBox: [1568, 590, 1932, 756] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:31,705 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:31,989 - INFO - [Kare 138/2250] 'frame_000137.PNG' işlendi (0.283s)
+2026-10-05 20:50:31,989 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:31,989 - INFO -       • [Tasit] BBox: [1564, 617, 1933, 785] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:31,989 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:32,281 - INFO - [Kare 139/2250] 'frame_000138.PNG' işlendi (0.292s)
+2026-10-05 20:50:32,281 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:32,281 - INFO -       • [Tasit] BBox: [1559, 644, 1933, 813] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:32,281 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:32,546 - INFO - [Kare 140/2250] 'frame_000139.PNG' işlendi (0.264s)
+2026-10-05 20:50:32,546 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:32,546 - INFO -       • [Tasit] BBox: [1551, 667, 1933, 836] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:32,546 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:32,814 - INFO - [Kare 141/2250] 'frame_000140.PNG' işlendi (0.268s)
+2026-10-05 20:50:32,814 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:32,814 - INFO -       • [Tasit] BBox: [1546, 690, 1933, 860] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:32,814 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:33,090 - INFO - [Kare 142/2250] 'frame_000141.PNG' işlendi (0.275s)
+2026-10-05 20:50:33,090 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:33,090 - INFO -       • [Tasit] BBox: [1538, 710, 1935, 885] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:33,090 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:33,387 - INFO - [Kare 143/2250] 'frame_000142.PNG' işlendi (0.297s)
+2026-10-05 20:50:33,387 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:33,387 - INFO -       • [Tasit] BBox: [1533, 732, 1934, 910] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:33,387 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:33,665 - INFO - [Kare 144/2250] 'frame_000143.PNG' işlendi (0.279s)
+2026-10-05 20:50:33,666 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:33,666 - INFO -       • [Tasit] BBox: [1531, 754, 1936, 931] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:33,666 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:33,952 - INFO - [Kare 145/2250] 'frame_000144.PNG' işlendi (0.286s)
+2026-10-05 20:50:33,952 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:33,952 - INFO -       • [Tasit] BBox: [1528, 773, 1938, 950] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:33,952 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:34,358 - INFO - [Kare 146/2250] 'frame_000145.PNG' işlendi (0.406s)
+2026-10-05 20:50:34,358 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:34,358 - INFO -       • [Tasit] BBox: [1524, 792, 1940, 973] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:34,359 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:34,705 - INFO - [Kare 147/2250] 'frame_000146.PNG' işlendi (0.346s)
+2026-10-05 20:50:34,705 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:34,705 - INFO -       • [Tasit] BBox: [1517, 811, 1939, 992] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:34,705 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:35,014 - INFO - [Kare 148/2250] 'frame_000147.PNG' işlendi (0.309s)
+2026-10-05 20:50:35,014 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:35,014 - INFO -       • [Tasit] BBox: [1513, 829, 1937, 1012] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:35,014 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:35,297 - INFO - [Kare 149/2250] 'frame_000148.PNG' işlendi (0.283s)
+2026-10-05 20:50:35,297 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:35,297 - INFO -       • [Tasit] BBox: [1504, 849, 1937, 1032] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:35,297 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:35,607 - INFO - [Kare 150/2250] 'frame_000149.PNG' işlendi (0.310s)
+2026-10-05 20:50:35,608 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:35,608 - INFO -       • [Tasit] BBox: [1495, 864, 1933, 1051] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:35,608 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:35,914 - INFO - [Kare 151/2250] 'frame_000150.PNG' işlendi (0.307s)
+2026-10-05 20:50:35,914 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:35,915 - INFO -       • [Tasit] BBox: [1487, 881, 1931, 1071] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:35,915 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:36,149 - INFO - [Kare 152/2250] 'frame_000151.PNG' işlendi (0.234s)
+2026-10-05 20:50:36,149 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:36,149 - INFO -       • [Tasit] BBox: [1479, 899, 1929, 1089] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:36,149 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:36,384 - INFO - [Kare 153/2250] 'frame_000152.PNG' işlendi (0.234s)
+2026-10-05 20:50:36,384 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:36,384 - INFO -       • [Tasit] BBox: [1468, 917, 1926, 1110] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:36,384 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:36,608 - INFO - [Kare 154/2250] 'frame_000153.PNG' işlendi (0.224s)
+2026-10-05 20:50:36,608 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:36,608 - INFO -       • [Tasit] BBox: [1462, 935, 1927, 1131] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:36,608 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:36,816 - INFO - [Kare 155/2250] 'frame_000154.PNG' işlendi (0.209s)
+2026-10-05 20:50:36,817 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:36,817 - INFO -       • [Tasit] BBox: [1453, 957, 1924, 1153] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:36,817 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:37,018 - INFO - [Kare 156/2250] 'frame_000155.PNG' işlendi (0.201s)
+2026-10-05 20:50:37,018 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:37,018 - INFO -       • [Tasit] BBox: [1449, 981, 1925, 1179] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:37,018 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:37,218 - INFO - [Kare 157/2250] 'frame_000156.PNG' işlendi (0.199s)
+2026-10-05 20:50:37,218 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:37,218 - INFO -       • [Tasit] BBox: [1448, 1010, 1926, 1210] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:37,218 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:37,416 - INFO - [Kare 158/2250] 'frame_000157.PNG' işlendi (0.198s)
+2026-10-05 20:50:37,416 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:37,416 - INFO -       • [Tasit] BBox: [1446, 1045, 1922, 1245] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:37,416 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:37,687 - INFO - [Kare 159/2250] 'frame_000158.PNG' işlendi (0.271s)
+2026-10-05 20:50:37,687 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:37,687 - INFO -       • [Tasit] BBox: [1443, 1080, 1924, 1281] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:37,687 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:37,949 - INFO - [Kare 160/2250] 'frame_000159.PNG' işlendi (0.262s)
+2026-10-05 20:50:37,950 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:37,950 - INFO -       • [Tasit] BBox: [1440, 1118, 1923, 1322] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:37,950 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:38,247 - INFO - [Kare 161/2250] 'frame_000160.PNG' işlendi (0.297s)
+2026-10-05 20:50:38,247 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:38,247 - INFO -       • [Tasit] BBox: [1435, 1160, 1925, 1363] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:38,247 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:38,550 - INFO - [Kare 162/2250] 'frame_000161.PNG' işlendi (0.303s)
+2026-10-05 20:50:38,550 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:38,550 - INFO -       • [Tasit] BBox: [1433, 1201, 1923, 1406] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:38,551 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:38,823 - INFO - [Kare 163/2250] 'frame_000162.PNG' işlendi (0.273s)
+2026-10-05 20:50:38,823 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:38,823 - INFO -       • [Tasit] BBox: [1430, 1244, 1921, 1451] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:38,823 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:39,097 - INFO - [Kare 164/2250] 'frame_000163.PNG' işlendi (0.274s)
+2026-10-05 20:50:39,098 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:39,098 - INFO -       • [Tasit] BBox: [1424, 1288, 1922, 1499] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:39,098 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:39,387 - INFO - [Kare 165/2250] 'frame_000164.PNG' işlendi (0.289s)
+2026-10-05 20:50:39,387 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:39,387 - INFO -       • [Tasit] BBox: [1421, 1336, 1921, 1547] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:39,387 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:39,657 - INFO - [Kare 166/2250] 'frame_000165.PNG' işlendi (0.270s)
+2026-10-05 20:50:39,657 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:39,657 - INFO -       • [Tasit] BBox: [1417, 1383, 1922, 1599] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:39,657 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:39,926 - INFO - [Kare 167/2250] 'frame_000166.PNG' işlendi (0.268s)
+2026-10-05 20:50:39,926 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:39,926 - INFO -       • [Tasit] BBox: [1412, 1435, 1923, 1652] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:39,926 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:40,189 - INFO - [Kare 168/2250] 'frame_000167.PNG' işlendi (0.263s)
+2026-10-05 20:50:40,189 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:40,189 - INFO -       • [Tasit] BBox: [1406, 1487, 1924, 1706] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:40,189 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:40,451 - INFO - [Kare 169/2250] 'frame_000168.PNG' işlendi (0.261s)
+2026-10-05 20:50:40,451 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:40,451 - INFO -       • [Tasit] BBox: [1401, 1542, 1924, 1761] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:40,451 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:40,716 - INFO - [Kare 170/2250] 'frame_000169.PNG' işlendi (0.265s)
+2026-10-05 20:50:40,716 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:40,716 - INFO -       • [Tasit] BBox: [1397, 1599, 1920, 1822] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:40,716 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:40,979 - INFO - [Kare 171/2250] 'frame_000170.PNG' işlendi (0.263s)
+2026-10-05 20:50:40,979 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:40,979 - INFO -       • [Tasit] BBox: [1391, 1659, 1918, 1886] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:40,979 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:41,241 - INFO - [Kare 172/2250] 'frame_000171.PNG' işlendi (0.261s)
+2026-10-05 20:50:41,241 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:41,241 - INFO -       • [Tasit] BBox: [1384, 1721, 1918, 1952] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:41,241 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:41,500 - INFO - [Kare 173/2250] 'frame_000172.PNG' işlendi (0.259s)
+2026-10-05 20:50:41,500 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:41,500 - INFO -       • [Tasit] BBox: [1379, 1786, 1917, 2021] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:41,500 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:41,761 - INFO - [Kare 174/2250] 'frame_000173.PNG' işlendi (0.261s)
+2026-10-05 20:50:41,761 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:41,762 - INFO -       • [Tasit] BBox: [1374, 1852, 1915, 2093] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:41,762 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:42,026 - INFO - [Kare 175/2250] 'frame_000174.PNG' işlendi (0.264s)
+2026-10-05 20:50:42,026 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:42,026 - INFO -       • [Tasit] BBox: [1368, 1923, 1911, 2156] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:42,026 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:42,298 - INFO - [Kare 176/2250] 'frame_000175.PNG' işlendi (0.272s)
+2026-10-05 20:50:42,298 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:42,298 - INFO -       • [Tasit] BBox: [1365, 1994, 1903, 2160] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:42,298 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:42,609 - INFO - [Kare 177/2250] 'frame_000176.PNG' işlendi (0.311s)
+2026-10-05 20:50:42,609 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:42,610 - INFO -       • [Tasit] BBox: [1360, 2066, 1783, 2160] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:42,610 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:42,952 - INFO - [Kare 178/2250] 'frame_000177.PNG' işlendi (0.342s)
+2026-10-05 20:50:42,952 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:42,952 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:43,252 - INFO - [Kare 179/2250] 'frame_000178.PNG' işlendi (0.300s)
+2026-10-05 20:50:43,252 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:43,252 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:43,519 - INFO - [Kare 180/2250] 'frame_000179.PNG' işlendi (0.267s)
+2026-10-05 20:50:43,519 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:43,519 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:43,791 - INFO - [Kare 181/2250] 'frame_000180.PNG' işlendi (0.272s)
+2026-10-05 20:50:43,791 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:43,791 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:44,074 - INFO - [Kare 182/2250] 'frame_000181.PNG' işlendi (0.283s)
+2026-10-05 20:50:44,074 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:44,074 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:44,347 - INFO - [Kare 183/2250] 'frame_000182.PNG' işlendi (0.273s)
+2026-10-05 20:50:44,347 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:44,347 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:44,631 - INFO - [Kare 184/2250] 'frame_000183.PNG' işlendi (0.283s)
+2026-10-05 20:50:44,631 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:44,631 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:44,926 - INFO - [Kare 185/2250] 'frame_000184.PNG' işlendi (0.295s)
+2026-10-05 20:50:44,926 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:44,926 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:45,237 - INFO - [Kare 186/2250] 'frame_000185.PNG' işlendi (0.311s)
+2026-10-05 20:50:45,237 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:45,237 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:45,527 - INFO - [Kare 187/2250] 'frame_000186.PNG' işlendi (0.290s)
+2026-10-05 20:50:45,527 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:45,527 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:45,811 - INFO - [Kare 188/2250] 'frame_000187.PNG' işlendi (0.283s)
+2026-10-05 20:50:45,811 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:45,811 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:46,084 - INFO - [Kare 189/2250] 'frame_000188.PNG' işlendi (0.273s)
+2026-10-05 20:50:46,084 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:46,084 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:46,354 - INFO - [Kare 190/2250] 'frame_000189.PNG' işlendi (0.270s)
+2026-10-05 20:50:46,354 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:46,354 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:46,642 - INFO - [Kare 191/2250] 'frame_000190.PNG' işlendi (0.288s)
+2026-10-05 20:50:46,642 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:46,642 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:46,933 - INFO - [Kare 192/2250] 'frame_000191.PNG' işlendi (0.291s)
+2026-10-05 20:50:46,933 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:46,933 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:47,226 - INFO - [Kare 193/2250] 'frame_000192.PNG' işlendi (0.293s)
+2026-10-05 20:50:47,226 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:47,226 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:47,601 - INFO - [Kare 194/2250] 'frame_000193.PNG' işlendi (0.376s)
+2026-10-05 20:50:47,602 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:47,602 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:47,912 - INFO - [Kare 195/2250] 'frame_000194.PNG' işlendi (0.310s)
+2026-10-05 20:50:47,912 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:47,912 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:48,219 - INFO - [Kare 196/2250] 'frame_000195.PNG' işlendi (0.307s)
+2026-10-05 20:50:48,219 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:48,219 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:48,521 - INFO - [Kare 197/2250] 'frame_000196.PNG' işlendi (0.301s)
+2026-10-05 20:50:48,521 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:48,521 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:48,806 - INFO - [Kare 198/2250] 'frame_000197.PNG' işlendi (0.285s)
+2026-10-05 20:50:48,806 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:48,806 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:49,109 - INFO - [Kare 199/2250] 'frame_000198.PNG' işlendi (0.302s)
+2026-10-05 20:50:49,109 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:49,109 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:49,448 - INFO - [Kare 200/2250] 'frame_000199.PNG' işlendi (0.339s)
+2026-10-05 20:50:49,448 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:49,448 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:49,730 - INFO - [Kare 201/2250] 'frame_000200.PNG' işlendi (0.281s)
+2026-10-05 20:50:49,730 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:49,730 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:50,028 - INFO - [Kare 202/2250] 'frame_000201.PNG' işlendi (0.298s)
+2026-10-05 20:50:50,028 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:50,028 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:50,343 - INFO - [Kare 203/2250] 'frame_000202.PNG' işlendi (0.315s)
+2026-10-05 20:50:50,343 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:50,343 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:50,622 - INFO - [Kare 204/2250] 'frame_000203.PNG' işlendi (0.278s)
+2026-10-05 20:50:50,622 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:50,622 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:50,901 - INFO - [Kare 205/2250] 'frame_000204.PNG' işlendi (0.279s)
+2026-10-05 20:50:50,901 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:50,901 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:51,196 - INFO - [Kare 206/2250] 'frame_000205.PNG' işlendi (0.294s)
+2026-10-05 20:50:51,196 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:51,196 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:51,475 - INFO - [Kare 207/2250] 'frame_000206.PNG' işlendi (0.279s)
+2026-10-05 20:50:51,475 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:51,475 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:51,747 - INFO - [Kare 208/2250] 'frame_000207.PNG' işlendi (0.272s)
+2026-10-05 20:50:51,747 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:51,747 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:52,034 - INFO - [Kare 209/2250] 'frame_000208.PNG' işlendi (0.287s)
+2026-10-05 20:50:52,034 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:52,034 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:52,299 - INFO - [Kare 210/2250] 'frame_000209.PNG' işlendi (0.265s)
+2026-10-05 20:50:52,299 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:52,299 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:52,571 - INFO - [Kare 211/2250] 'frame_000210.PNG' işlendi (0.272s)
+2026-10-05 20:50:52,571 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:52,572 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:52,841 - INFO - [Kare 212/2250] 'frame_000211.PNG' işlendi (0.269s)
+2026-10-05 20:50:52,841 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:52,841 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:53,163 - INFO - [Kare 213/2250] 'frame_000212.PNG' işlendi (0.322s)
+2026-10-05 20:50:53,163 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:53,163 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:53,432 - INFO - [Kare 214/2250] 'frame_000213.PNG' işlendi (0.269s)
+2026-10-05 20:50:53,432 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:53,432 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:53,696 - INFO - [Kare 215/2250] 'frame_000214.PNG' işlendi (0.264s)
+2026-10-05 20:50:53,696 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:53,696 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:54,074 - INFO - [Kare 216/2250] 'frame_000215.PNG' işlendi (0.377s)
+2026-10-05 20:50:54,074 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:54,074 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:54,346 - INFO - [Kare 217/2250] 'frame_000216.PNG' işlendi (0.272s)
+2026-10-05 20:50:54,346 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:54,346 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:54,613 - INFO - [Kare 218/2250] 'frame_000217.PNG' işlendi (0.267s)
+2026-10-05 20:50:54,613 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:54,613 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:54,894 - INFO - [Kare 219/2250] 'frame_000218.PNG' işlendi (0.281s)
+2026-10-05 20:50:54,894 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:54,894 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:55,164 - INFO - [Kare 220/2250] 'frame_000219.PNG' işlendi (0.270s)
+2026-10-05 20:50:55,164 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:55,164 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:55,464 - INFO - [Kare 221/2250] 'frame_000220.PNG' işlendi (0.300s)
+2026-10-05 20:50:55,464 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:50:55,464 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:55,731 - INFO - [Kare 222/2250] 'frame_000221.PNG' işlendi (0.266s)
+2026-10-05 20:50:55,731 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:55,731 - INFO -       • [Tasit] BBox: [1392, 10, 1701, 138] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:55,731 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:55,998 - INFO - [Kare 223/2250] 'frame_000222.PNG' işlendi (0.267s)
+2026-10-05 20:50:55,998 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:55,998 - INFO -       • [Tasit] BBox: [1391, 23, 1718, 191] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:55,998 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:56,267 - INFO - [Kare 224/2250] 'frame_000223.PNG' işlendi (0.268s)
+2026-10-05 20:50:56,267 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:56,267 - INFO -       • [Tasit] BBox: [1391, 57, 1723, 246] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:56,267 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:56,533 - INFO - [Kare 225/2250] 'frame_000224.PNG' işlendi (0.266s)
+2026-10-05 20:50:56,533 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:56,533 - INFO -       • [Tasit] BBox: [1391, 105, 1727, 302] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:56,533 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:56,800 - INFO - [Kare 226/2250] 'frame_000225.PNG' işlendi (0.266s)
+2026-10-05 20:50:56,800 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:56,800 - INFO -       • [Tasit] BBox: [1392, 161, 1727, 357] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:56,800 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:57,103 - INFO - [Kare 227/2250] 'frame_000226.PNG' işlendi (0.303s)
+2026-10-05 20:50:57,103 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:57,103 - INFO -       • [Tasit] BBox: [1393, 220, 1727, 413] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:57,103 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:57,371 - INFO - [Kare 228/2250] 'frame_000227.PNG' işlendi (0.268s)
+2026-10-05 20:50:57,371 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:57,371 - INFO -       • [Tasit] BBox: [1396, 279, 1733, 473] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:57,371 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:57,640 - INFO - [Kare 229/2250] 'frame_000228.PNG' işlendi (0.269s)
+2026-10-05 20:50:57,640 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 20:50:57,640 - INFO -       • [Tasit] BBox: [1397, 339, 1738, 531] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:57,640 - INFO -       • [Tasit] BBox: [364, 901, 505, 977] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:50:57,640 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:57,907 - INFO - [Kare 230/2250] 'frame_000229.PNG' işlendi (0.266s)
+2026-10-05 20:50:57,907 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:57,907 - INFO -       • [Tasit] BBox: [1402, 400, 1744, 590] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:57,907 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:58,181 - INFO - [Kare 231/2250] 'frame_000230.PNG' işlendi (0.274s)
+2026-10-05 20:50:58,181 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:58,181 - INFO -       • [Tasit] BBox: [1406, 459, 1751, 648] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:58,181 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:58,449 - INFO - [Kare 232/2250] 'frame_000231.PNG' işlendi (0.267s)
+2026-10-05 20:50:58,449 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:58,449 - INFO -       • [Tasit] BBox: [1409, 517, 1756, 704] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:58,449 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:58,721 - INFO - [Kare 233/2250] 'frame_000232.PNG' işlendi (0.272s)
+2026-10-05 20:50:58,722 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:58,722 - INFO -       • [Tasit] BBox: [1414, 574, 1760, 761] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:58,722 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:58,996 - INFO - [Kare 234/2250] 'frame_000233.PNG' işlendi (0.274s)
+2026-10-05 20:50:58,996 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:58,996 - INFO -       • [Tasit] BBox: [1418, 630, 1765, 815] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:58,996 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:59,276 - INFO - [Kare 235/2250] 'frame_000234.PNG' işlendi (0.280s)
+2026-10-05 20:50:59,276 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:59,276 - INFO -       • [Tasit] BBox: [1419, 685, 1771, 869] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:59,276 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:59,558 - INFO - [Kare 236/2250] 'frame_000235.PNG' işlendi (0.282s)
+2026-10-05 20:50:59,558 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:59,558 - INFO -       • [Tasit] BBox: [1421, 741, 1775, 923] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:59,558 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:50:59,832 - INFO - [Kare 237/2250] 'frame_000236.PNG' işlendi (0.274s)
+2026-10-05 20:50:59,832 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:50:59,832 - INFO -       • [Tasit] BBox: [1423, 798, 1775, 978] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:50:59,832 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:00,104 - INFO - [Kare 238/2250] 'frame_000237.PNG' işlendi (0.273s)
+2026-10-05 20:51:00,104 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:00,105 - INFO -       • [Tasit] BBox: [1425, 853, 1782, 1031] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:00,105 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:00,386 - INFO - [Kare 239/2250] 'frame_000238.PNG' işlendi (0.281s)
+2026-10-05 20:51:00,386 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:00,386 - INFO -       • [Tasit] BBox: [1426, 909, 1785, 1086] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:00,386 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:00,660 - INFO - [Kare 240/2250] 'frame_000239.PNG' işlendi (0.274s)
+2026-10-05 20:51:00,660 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:00,660 - INFO -       • [Tasit] BBox: [1428, 964, 1788, 1142] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:00,660 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:00,937 - INFO - [Kare 241/2250] 'frame_000240.PNG' işlendi (0.277s)
+2026-10-05 20:51:00,937 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:00,937 - INFO -       • [Tasit] BBox: [1430, 1021, 1794, 1198] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:00,937 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:01,275 - INFO - [Kare 242/2250] 'frame_000241.PNG' işlendi (0.337s)
+2026-10-05 20:51:01,275 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:01,275 - INFO -       • [Tasit] BBox: [1431, 1078, 1796, 1253] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:01,275 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:01,549 - INFO - [Kare 243/2250] 'frame_000242.PNG' işlendi (0.274s)
+2026-10-05 20:51:01,549 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:01,549 - INFO -       • [Tasit] BBox: [1430, 1136, 1799, 1310] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:01,549 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:01,827 - INFO - [Kare 244/2250] 'frame_000243.PNG' işlendi (0.277s)
+2026-10-05 20:51:01,827 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:01,827 - INFO -       • [Tasit] BBox: [1431, 1195, 1802, 1367] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:01,827 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:02,110 - INFO - [Kare 245/2250] 'frame_000244.PNG' işlendi (0.283s)
+2026-10-05 20:51:02,110 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:02,110 - INFO -       • [Tasit] BBox: [1430, 1254, 1803, 1426] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:02,110 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:02,394 - INFO - [Kare 246/2250] 'frame_000245.PNG' işlendi (0.283s)
+2026-10-05 20:51:02,394 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:02,394 - INFO -       • [Tasit] BBox: [1428, 1313, 1802, 1486] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:02,394 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:02,668 - INFO - [Kare 247/2250] 'frame_000246.PNG' işlendi (0.274s)
+2026-10-05 20:51:02,669 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:02,669 - INFO -       • [Tasit] BBox: [1427, 1377, 1802, 1549] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:02,669 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:02,944 - INFO - [Kare 248/2250] 'frame_000247.PNG' işlendi (0.275s)
+2026-10-05 20:51:02,944 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:02,944 - INFO -       • [Tasit] BBox: [1424, 1439, 1804, 1611] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:02,944 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:03,219 - INFO - [Kare 249/2250] 'frame_000248.PNG' işlendi (0.275s)
+2026-10-05 20:51:03,219 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:03,219 - INFO -       • [Tasit] BBox: [1420, 1502, 1802, 1675] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:03,219 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:03,492 - INFO - [Kare 250/2250] 'frame_000249.PNG' işlendi (0.273s)
+2026-10-05 20:51:03,492 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:03,492 - INFO -       • [Tasit] BBox: [1417, 1567, 1801, 1740] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:03,492 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:03,766 - INFO - [Kare 251/2250] 'frame_000250.PNG' işlendi (0.274s)
+2026-10-05 20:51:03,766 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:03,766 - INFO -       • [Tasit] BBox: [1414, 1632, 1800, 1807] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:03,766 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:03,974 - INFO - [Kare 252/2250] 'frame_000251.PNG' işlendi (0.207s)
+2026-10-05 20:51:03,974 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:03,974 - INFO -       • [Tasit] BBox: [1410, 1697, 1799, 1874] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:03,974 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:04,184 - INFO - [Kare 253/2250] 'frame_000252.PNG' işlendi (0.210s)
+2026-10-05 20:51:04,185 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:04,185 - INFO -       • [Tasit] BBox: [1406, 1764, 1798, 1944] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:04,185 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:04,453 - INFO - [Kare 254/2250] 'frame_000253.PNG' işlendi (0.268s)
+2026-10-05 20:51:04,453 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:04,453 - INFO -       • [Tasit] BBox: [1399, 1831, 1794, 2012] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:04,453 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:04,749 - INFO - [Kare 255/2250] 'frame_000254.PNG' işlendi (0.296s)
+2026-10-05 20:51:04,749 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:04,749 - INFO -       • [Tasit] BBox: [1391, 1900, 1793, 2080] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:04,749 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:05,026 - INFO - [Kare 256/2250] 'frame_000255.PNG' işlendi (0.276s)
+2026-10-05 20:51:05,026 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:51:05,026 - INFO -       • [Tasit] BBox: [1384, 1969, 1791, 2148] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:05,026 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:05,306 - INFO - [Kare 257/2250] 'frame_000256.PNG' işlendi (0.280s)
+2026-10-05 20:51:05,306 - INFO -   └── Görev 1 (Nesne Tespiti - 2 adet):
+2026-10-05 20:51:05,306 - INFO -       • [Tasit] BBox: [1380, 2041, 1790, 2160] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:51:05,306 - INFO -       • [UAI] BBox: [1438, 2061, 1538, 2157] | İniş: Inilemez | Hareket: Tasit Degil
+2026-10-05 20:51:05,306 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:05,595 - INFO - [Kare 258/2250] 'frame_000257.PNG' işlendi (0.289s)
+2026-10-05 20:51:05,595 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:05,595 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:05,865 - INFO - [Kare 259/2250] 'frame_000258.PNG' işlendi (0.270s)
+2026-10-05 20:51:05,865 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:05,865 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:06,191 - INFO - [Kare 260/2250] 'frame_000259.PNG' işlendi (0.326s)
+2026-10-05 20:51:06,192 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:06,192 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:06,473 - INFO - [Kare 261/2250] 'frame_000260.PNG' işlendi (0.281s)
+2026-10-05 20:51:06,473 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:06,473 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:06,757 - INFO - [Kare 262/2250] 'frame_000261.PNG' işlendi (0.284s)
+2026-10-05 20:51:06,757 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:06,757 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:07,032 - INFO - [Kare 263/2250] 'frame_000262.PNG' işlendi (0.275s)
+2026-10-05 20:51:07,032 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:07,032 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:07,315 - INFO - [Kare 264/2250] 'frame_000263.PNG' işlendi (0.282s)
+2026-10-05 20:51:07,315 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:07,315 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:07,602 - INFO - [Kare 265/2250] 'frame_000264.PNG' işlendi (0.287s)
+2026-10-05 20:51:07,602 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:07,602 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:07,886 - INFO - [Kare 266/2250] 'frame_000265.PNG' işlendi (0.283s)
+2026-10-05 20:51:07,886 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:07,886 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:08,160 - INFO - [Kare 267/2250] 'frame_000266.PNG' işlendi (0.273s)
+2026-10-05 20:51:08,160 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:08,160 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:08,447 - INFO - [Kare 268/2250] 'frame_000267.PNG' işlendi (0.287s)
+2026-10-05 20:51:08,447 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:08,447 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:08,724 - INFO - [Kare 269/2250] 'frame_000268.PNG' işlendi (0.276s)
+2026-10-05 20:51:08,724 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:08,724 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:09,007 - INFO - [Kare 270/2250] 'frame_000269.PNG' işlendi (0.283s)
+2026-10-05 20:51:09,007 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:09,007 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:09,291 - INFO - [Kare 271/2250] 'frame_000270.PNG' işlendi (0.284s)
+2026-10-05 20:51:09,292 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:09,292 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:09,560 - INFO - [Kare 272/2250] 'frame_000271.PNG' işlendi (0.268s)
+2026-10-05 20:51:09,560 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:09,560 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:09,826 - INFO - [Kare 273/2250] 'frame_000272.PNG' işlendi (0.266s)
+2026-10-05 20:51:09,826 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:09,826 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:10,205 - INFO - [Kare 274/2250] 'frame_000273.PNG' işlendi (0.379s)
+2026-10-05 20:51:10,205 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:10,205 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:10,518 - INFO - [Kare 275/2250] 'frame_000274.PNG' işlendi (0.313s)
+2026-10-05 20:51:10,518 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:10,518 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:10,790 - INFO - [Kare 276/2250] 'frame_000275.PNG' işlendi (0.272s)
+2026-10-05 20:51:10,790 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:10,790 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:11,107 - INFO - [Kare 277/2250] 'frame_000276.PNG' işlendi (0.317s)
+2026-10-05 20:51:11,107 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:11,107 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:11,422 - INFO - [Kare 278/2250] 'frame_000277.PNG' işlendi (0.314s)
+2026-10-05 20:51:11,422 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:11,422 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:11,735 - INFO - [Kare 279/2250] 'frame_000278.PNG' işlendi (0.313s)
+2026-10-05 20:51:11,735 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:11,735 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:12,103 - INFO - [Kare 280/2250] 'frame_000279.PNG' işlendi (0.367s)
+2026-10-05 20:51:12,103 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:12,103 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:12,369 - INFO - [Kare 281/2250] 'frame_000280.PNG' işlendi (0.266s)
+2026-10-05 20:51:12,369 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:12,369 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:12,724 - INFO - [Kare 282/2250] 'frame_000281.PNG' işlendi (0.355s)
+2026-10-05 20:51:12,724 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:12,724 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:13,036 - INFO - [Kare 283/2250] 'frame_000282.PNG' işlendi (0.311s)
+2026-10-05 20:51:13,036 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:13,036 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:13,346 - INFO - [Kare 284/2250] 'frame_000283.PNG' işlendi (0.310s)
+2026-10-05 20:51:13,346 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:13,346 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:13,660 - INFO - [Kare 285/2250] 'frame_000284.PNG' işlendi (0.314s)
+2026-10-05 20:51:13,661 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:13,661 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:13,975 - INFO - [Kare 286/2250] 'frame_000285.PNG' işlendi (0.314s)
+2026-10-05 20:51:13,975 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:13,975 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:14,287 - INFO - [Kare 287/2250] 'frame_000286.PNG' işlendi (0.312s)
+2026-10-05 20:51:14,287 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:14,287 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:14,598 - INFO - [Kare 288/2250] 'frame_000287.PNG' işlendi (0.311s)
+2026-10-05 20:51:14,598 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:14,598 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:14,967 - INFO - [Kare 289/2250] 'frame_000288.PNG' işlendi (0.368s)
+2026-10-05 20:51:14,967 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:14,967 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:15,281 - INFO - [Kare 290/2250] 'frame_000289.PNG' işlendi (0.313s)
+2026-10-05 20:51:15,281 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:15,281 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:15,589 - INFO - [Kare 291/2250] 'frame_000290.PNG' işlendi (0.308s)
+2026-10-05 20:51:15,589 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:15,589 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:15,903 - INFO - [Kare 292/2250] 'frame_000291.PNG' işlendi (0.314s)
+2026-10-05 20:51:15,903 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:15,903 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:16,211 - INFO - [Kare 293/2250] 'frame_000292.PNG' işlendi (0.308s)
+2026-10-05 20:51:16,211 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:16,211 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:16,524 - INFO - [Kare 294/2250] 'frame_000293.PNG' işlendi (0.312s)
+2026-10-05 20:51:16,524 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:16,524 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:16,890 - INFO - [Kare 295/2250] 'frame_000294.PNG' işlendi (0.366s)
+2026-10-05 20:51:16,890 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:16,890 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:17,203 - INFO - [Kare 296/2250] 'frame_000295.PNG' işlendi (0.313s)
+2026-10-05 20:51:17,204 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:17,204 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:17,515 - INFO - [Kare 297/2250] 'frame_000296.PNG' işlendi (0.312s)
+2026-10-05 20:51:17,515 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:17,515 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:17,827 - INFO - [Kare 298/2250] 'frame_000297.PNG' işlendi (0.311s)
+2026-10-05 20:51:17,827 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:17,827 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:18,137 - INFO - [Kare 299/2250] 'frame_000298.PNG' işlendi (0.310s)
+2026-10-05 20:51:18,137 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:18,137 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:18,453 - INFO - [Kare 300/2250] 'frame_000299.PNG' işlendi (0.316s)
+2026-10-05 20:51:18,453 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:18,453 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:18,817 - INFO - [Kare 301/2250] 'frame_000300.PNG' işlendi (0.364s)
+2026-10-05 20:51:18,817 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:18,817 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:19,129 - INFO - [Kare 302/2250] 'frame_000301.PNG' işlendi (0.312s)
+2026-10-05 20:51:19,129 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:19,129 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:19,439 - INFO - [Kare 303/2250] 'frame_000302.PNG' işlendi (0.309s)
+2026-10-05 20:51:19,439 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:19,439 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:19,748 - INFO - [Kare 304/2250] 'frame_000303.PNG' işlendi (0.309s)
+2026-10-05 20:51:19,749 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:19,749 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:20,058 - INFO - [Kare 305/2250] 'frame_000304.PNG' işlendi (0.310s)
+2026-10-05 20:51:20,059 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:20,059 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:20,364 - INFO - [Kare 306/2250] 'frame_000305.PNG' işlendi (0.306s)
+2026-10-05 20:51:20,365 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:20,365 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:20,725 - INFO - [Kare 307/2250] 'frame_000306.PNG' işlendi (0.360s)
+2026-10-05 20:51:20,725 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:20,725 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:21,035 - INFO - [Kare 308/2250] 'frame_000307.PNG' işlendi (0.310s)
+2026-10-05 20:51:21,035 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:21,035 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:21,290 - INFO - [Kare 309/2250] 'frame_000308.PNG' işlendi (0.254s)
+2026-10-05 20:51:21,290 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:21,290 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:21,636 - INFO - [Kare 310/2250] 'frame_000309.PNG' işlendi (0.345s)
+2026-10-05 20:51:21,636 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:21,636 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:21,898 - INFO - [Kare 311/2250] 'frame_000310.PNG' işlendi (0.262s)
+2026-10-05 20:51:21,898 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:21,898 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:22,154 - INFO - [Kare 312/2250] 'frame_000311.PNG' işlendi (0.256s)
+2026-10-05 20:51:22,154 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:22,154 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:22,411 - INFO - [Kare 313/2250] 'frame_000312.PNG' işlendi (0.257s)
+2026-10-05 20:51:22,411 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:22,411 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:22,670 - INFO - [Kare 314/2250] 'frame_000313.PNG' işlendi (0.259s)
+2026-10-05 20:51:22,670 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:22,670 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:22,982 - INFO - [Kare 315/2250] 'frame_000314.PNG' işlendi (0.311s)
+2026-10-05 20:51:22,982 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:22,982 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:23,246 - INFO - [Kare 316/2250] 'frame_000315.PNG' işlendi (0.264s)
+2026-10-05 20:51:23,246 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:23,246 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:23,506 - INFO - [Kare 317/2250] 'frame_000316.PNG' işlendi (0.260s)
+2026-10-05 20:51:23,506 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:23,506 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:23,763 - INFO - [Kare 318/2250] 'frame_000317.PNG' işlendi (0.257s)
+2026-10-05 20:51:23,764 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:23,764 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:24,026 - INFO - [Kare 319/2250] 'frame_000318.PNG' işlendi (0.262s)
+2026-10-05 20:51:24,026 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:24,026 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:24,292 - INFO - [Kare 320/2250] 'frame_000319.PNG' işlendi (0.266s)
+2026-10-05 20:51:24,292 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:24,292 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:24,603 - INFO - [Kare 321/2250] 'frame_000320.PNG' işlendi (0.310s)
+2026-10-05 20:51:24,603 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:24,603 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:24,865 - INFO - [Kare 322/2250] 'frame_000321.PNG' işlendi (0.262s)
+2026-10-05 20:51:24,865 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:24,865 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:25,122 - INFO - [Kare 323/2250] 'frame_000322.PNG' işlendi (0.257s)
+2026-10-05 20:51:25,122 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:25,122 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:25,382 - INFO - [Kare 324/2250] 'frame_000323.PNG' işlendi (0.259s)
+2026-10-05 20:51:25,382 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:25,382 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:25,665 - INFO - [Kare 325/2250] 'frame_000324.PNG' işlendi (0.283s)
+2026-10-05 20:51:25,666 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:25,666 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:25,927 - INFO - [Kare 326/2250] 'frame_000325.PNG' işlendi (0.261s)
+2026-10-05 20:51:25,927 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:25,927 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:26,187 - INFO - [Kare 327/2250] 'frame_000326.PNG' işlendi (0.260s)
+2026-10-05 20:51:26,187 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:26,187 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:26,455 - INFO - [Kare 328/2250] 'frame_000327.PNG' işlendi (0.268s)
+2026-10-05 20:51:26,455 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:26,455 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:26,769 - INFO - [Kare 329/2250] 'frame_000328.PNG' işlendi (0.314s)
+2026-10-05 20:51:26,769 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:26,770 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:27,030 - INFO - [Kare 330/2250] 'frame_000329.PNG' işlendi (0.260s)
+2026-10-05 20:51:27,030 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:27,030 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:27,338 - INFO - [Kare 331/2250] 'frame_000330.PNG' işlendi (0.308s)
+2026-10-05 20:51:27,338 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:27,338 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:27,647 - INFO - [Kare 332/2250] 'frame_000331.PNG' işlendi (0.309s)
+2026-10-05 20:51:27,648 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:27,648 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:27,959 - INFO - [Kare 333/2250] 'frame_000332.PNG' işlendi (0.312s)
+2026-10-05 20:51:27,960 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:27,960 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:28,270 - INFO - [Kare 334/2250] 'frame_000333.PNG' işlendi (0.310s)
+2026-10-05 20:51:28,270 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:28,270 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:28,582 - INFO - [Kare 335/2250] 'frame_000334.PNG' işlendi (0.312s)
+2026-10-05 20:51:28,582 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:28,582 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:28,892 - INFO - [Kare 336/2250] 'frame_000335.PNG' işlendi (0.310s)
+2026-10-05 20:51:28,892 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:28,892 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:29,236 - INFO - [Kare 337/2250] 'frame_000336.PNG' işlendi (0.344s)
+2026-10-05 20:51:29,236 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:29,236 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:29,547 - INFO - [Kare 338/2250] 'frame_000337.PNG' işlendi (0.310s)
+2026-10-05 20:51:29,547 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:29,547 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:29,805 - INFO - [Kare 339/2250] 'frame_000338.PNG' işlendi (0.258s)
+2026-10-05 20:51:29,805 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:29,806 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:30,061 - INFO - [Kare 340/2250] 'frame_000339.PNG' işlendi (0.255s)
+2026-10-05 20:51:30,061 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:30,061 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:30,369 - INFO - [Kare 341/2250] 'frame_000340.PNG' işlendi (0.308s)
+2026-10-05 20:51:30,370 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:30,370 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:30,627 - INFO - [Kare 342/2250] 'frame_000341.PNG' işlendi (0.257s)
+2026-10-05 20:51:30,627 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:30,627 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:30,886 - INFO - [Kare 343/2250] 'frame_000342.PNG' işlendi (0.259s)
+2026-10-05 20:51:30,887 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:30,887 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:31,255 - INFO - [Kare 344/2250] 'frame_000343.PNG' işlendi (0.368s)
+2026-10-05 20:51:31,255 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:31,255 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:31,515 - INFO - [Kare 345/2250] 'frame_000344.PNG' işlendi (0.260s)
+2026-10-05 20:51:31,515 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:31,515 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:31,829 - INFO - [Kare 346/2250] 'frame_000345.PNG' işlendi (0.314s)
+2026-10-05 20:51:31,829 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:31,829 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:32,138 - INFO - [Kare 347/2250] 'frame_000346.PNG' işlendi (0.309s)
+2026-10-05 20:51:32,138 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:32,138 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:32,505 - INFO - [Kare 348/2250] 'frame_000347.PNG' işlendi (0.366s)
+2026-10-05 20:51:32,505 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:32,505 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:32,815 - INFO - [Kare 349/2250] 'frame_000348.PNG' işlendi (0.310s)
+2026-10-05 20:51:32,815 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:32,815 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:33,132 - INFO - [Kare 350/2250] 'frame_000349.PNG' işlendi (0.317s)
+2026-10-05 20:51:33,133 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:33,133 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:33,498 - INFO - [Kare 351/2250] 'frame_000350.PNG' işlendi (0.365s)
+2026-10-05 20:51:33,498 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:33,498 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:33,811 - INFO - [Kare 352/2250] 'frame_000351.PNG' işlendi (0.313s)
+2026-10-05 20:51:33,811 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:33,811 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:34,127 - INFO - [Kare 353/2250] 'frame_000352.PNG' işlendi (0.315s)
+2026-10-05 20:51:34,127 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:34,127 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:34,390 - INFO - [Kare 354/2250] 'frame_000353.PNG' işlendi (0.263s)
+2026-10-05 20:51:34,390 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:34,390 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:34,703 - INFO - [Kare 355/2250] 'frame_000354.PNG' işlendi (0.313s)
+2026-10-05 20:51:34,703 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:34,703 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:35,017 - INFO - [Kare 356/2250] 'frame_000355.PNG' işlendi (0.313s)
+2026-10-05 20:51:35,017 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:35,017 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:35,388 - INFO - [Kare 357/2250] 'frame_000356.PNG' işlendi (0.371s)
+2026-10-05 20:51:35,388 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:35,388 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:35,673 - INFO - [Kare 358/2250] 'frame_000357.PNG' işlendi (0.285s)
+2026-10-05 20:51:35,673 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:35,673 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:35,967 - INFO - [Kare 359/2250] 'frame_000358.PNG' işlendi (0.294s)
+2026-10-05 20:51:35,967 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:35,967 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:36,292 - INFO - [Kare 360/2250] 'frame_000359.PNG' işlendi (0.325s)
+2026-10-05 20:51:36,293 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:36,293 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:36,598 - INFO - [Kare 361/2250] 'frame_000360.PNG' işlendi (0.306s)
+2026-10-05 20:51:36,599 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:36,599 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:36,890 - INFO - [Kare 362/2250] 'frame_000361.PNG' işlendi (0.291s)
+2026-10-05 20:51:36,890 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:36,890 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:37,269 - INFO - [Kare 363/2250] 'frame_000362.PNG' işlendi (0.379s)
+2026-10-05 20:51:37,269 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:37,270 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:37,652 - INFO - [Kare 364/2250] 'frame_000363.PNG' işlendi (0.383s)
+2026-10-05 20:51:37,653 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:37,653 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:38,038 - INFO - [Kare 365/2250] 'frame_000364.PNG' işlendi (0.385s)
+2026-10-05 20:51:38,038 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:38,038 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:38,359 - INFO - [Kare 366/2250] 'frame_000365.PNG' işlendi (0.321s)
+2026-10-05 20:51:38,359 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:38,359 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:38,653 - INFO - [Kare 367/2250] 'frame_000366.PNG' işlendi (0.294s)
+2026-10-05 20:51:38,653 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:38,653 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:38,973 - INFO - [Kare 368/2250] 'frame_000367.PNG' işlendi (0.320s)
+2026-10-05 20:51:38,973 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:38,973 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:39,237 - INFO - [Kare 369/2250] 'frame_000368.PNG' işlendi (0.264s)
+2026-10-05 20:51:39,237 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:39,237 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:39,501 - INFO - [Kare 370/2250] 'frame_000369.PNG' işlendi (0.264s)
+2026-10-05 20:51:39,502 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:39,502 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:39,768 - INFO - [Kare 371/2250] 'frame_000370.PNG' işlendi (0.266s)
+2026-10-05 20:51:39,768 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:39,768 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:40,100 - INFO - [Kare 372/2250] 'frame_000371.PNG' işlendi (0.332s)
+2026-10-05 20:51:40,100 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:40,100 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:40,360 - INFO - [Kare 373/2250] 'frame_000372.PNG' işlendi (0.259s)
+2026-10-05 20:51:40,360 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:40,360 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:40,622 - INFO - [Kare 374/2250] 'frame_000373.PNG' işlendi (0.262s)
+2026-10-05 20:51:40,622 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:40,622 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:40,908 - INFO - [Kare 375/2250] 'frame_000374.PNG' işlendi (0.286s)
+2026-10-05 20:51:40,908 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:40,908 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:41,224 - INFO - [Kare 376/2250] 'frame_000375.PNG' işlendi (0.316s)
+2026-10-05 20:51:41,224 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:41,224 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:41,497 - INFO - [Kare 377/2250] 'frame_000376.PNG' işlendi (0.272s)
+2026-10-05 20:51:41,497 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:41,497 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:41,760 - INFO - [Kare 378/2250] 'frame_000377.PNG' işlendi (0.262s)
+2026-10-05 20:51:41,760 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:41,760 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:42,029 - INFO - [Kare 379/2250] 'frame_000378.PNG' işlendi (0.269s)
+2026-10-05 20:51:42,029 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:42,029 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:42,301 - INFO - [Kare 380/2250] 'frame_000379.PNG' işlendi (0.272s)
+2026-10-05 20:51:42,301 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:42,301 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:42,566 - INFO - [Kare 381/2250] 'frame_000380.PNG' işlendi (0.265s)
+2026-10-05 20:51:42,566 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:42,566 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:42,941 - INFO - [Kare 382/2250] 'frame_000381.PNG' işlendi (0.375s)
+2026-10-05 20:51:42,941 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:42,942 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:43,217 - INFO - [Kare 383/2250] 'frame_000382.PNG' işlendi (0.276s)
+2026-10-05 20:51:43,217 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:43,217 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:43,503 - INFO - [Kare 384/2250] 'frame_000383.PNG' işlendi (0.285s)
+2026-10-05 20:51:43,503 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:43,503 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:43,838 - INFO - [Kare 385/2250] 'frame_000384.PNG' işlendi (0.335s)
+2026-10-05 20:51:43,838 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:43,838 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:44,146 - INFO - [Kare 386/2250] 'frame_000385.PNG' işlendi (0.308s)
+2026-10-05 20:51:44,146 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:44,146 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:44,413 - INFO - [Kare 387/2250] 'frame_000386.PNG' işlendi (0.267s)
+2026-10-05 20:51:44,413 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:44,413 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:44,727 - INFO - [Kare 388/2250] 'frame_000387.PNG' işlendi (0.314s)
+2026-10-05 20:51:44,728 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:44,728 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:45,001 - INFO - [Kare 389/2250] 'frame_000388.PNG' işlendi (0.274s)
+2026-10-05 20:51:45,002 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:45,002 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:45,270 - INFO - [Kare 390/2250] 'frame_000389.PNG' işlendi (0.268s)
+2026-10-05 20:51:45,270 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:45,270 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:45,537 - INFO - [Kare 391/2250] 'frame_000390.PNG' işlendi (0.267s)
+2026-10-05 20:51:45,537 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:45,537 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:45,846 - INFO - [Kare 392/2250] 'frame_000391.PNG' işlendi (0.309s)
+2026-10-05 20:51:45,846 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:45,846 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:46,111 - INFO - [Kare 393/2250] 'frame_000392.PNG' işlendi (0.265s)
+2026-10-05 20:51:46,111 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:46,112 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:46,371 - INFO - [Kare 394/2250] 'frame_000393.PNG' işlendi (0.259s)
+2026-10-05 20:51:46,371 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:46,371 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:46,633 - INFO - [Kare 395/2250] 'frame_000394.PNG' işlendi (0.262s)
+2026-10-05 20:51:46,633 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:46,633 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:46,895 - INFO - [Kare 396/2250] 'frame_000395.PNG' işlendi (0.261s)
+2026-10-05 20:51:46,895 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:46,895 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:47,156 - INFO - [Kare 397/2250] 'frame_000396.PNG' işlendi (0.261s)
+2026-10-05 20:51:47,156 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:47,156 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:47,475 - INFO - [Kare 398/2250] 'frame_000397.PNG' işlendi (0.319s)
+2026-10-05 20:51:47,475 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:47,475 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:47,738 - INFO - [Kare 399/2250] 'frame_000398.PNG' işlendi (0.262s)
+2026-10-05 20:51:47,738 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:47,738 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:48,001 - INFO - [Kare 400/2250] 'frame_000399.PNG' işlendi (0.263s)
+2026-10-05 20:51:48,001 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:48,001 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:48,262 - INFO - [Kare 401/2250] 'frame_000400.PNG' işlendi (0.260s)
+2026-10-05 20:51:48,262 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:48,262 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:48,528 - INFO - [Kare 402/2250] 'frame_000401.PNG' işlendi (0.266s)
+2026-10-05 20:51:48,528 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:48,528 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:48,788 - INFO - [Kare 403/2250] 'frame_000402.PNG' işlendi (0.260s)
+2026-10-05 20:51:48,788 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:48,788 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:49,059 - INFO - [Kare 404/2250] 'frame_000403.PNG' işlendi (0.271s)
+2026-10-05 20:51:49,059 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:49,059 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:49,322 - INFO - [Kare 405/2250] 'frame_000404.PNG' işlendi (0.263s)
+2026-10-05 20:51:49,322 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:49,322 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:49,644 - INFO - [Kare 406/2250] 'frame_000405.PNG' işlendi (0.321s)
+2026-10-05 20:51:49,644 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:49,644 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:49,911 - INFO - [Kare 407/2250] 'frame_000406.PNG' işlendi (0.267s)
+2026-10-05 20:51:49,911 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:49,912 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:50,174 - INFO - [Kare 408/2250] 'frame_000407.PNG' işlendi (0.262s)
+2026-10-05 20:51:50,174 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:50,174 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:50,437 - INFO - [Kare 409/2250] 'frame_000408.PNG' işlendi (0.262s)
+2026-10-05 20:51:50,437 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:50,437 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:50,697 - INFO - [Kare 410/2250] 'frame_000409.PNG' işlendi (0.260s)
+2026-10-05 20:51:50,697 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:50,697 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:50,954 - INFO - [Kare 411/2250] 'frame_000410.PNG' işlendi (0.257s)
+2026-10-05 20:51:50,954 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:50,954 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:51,218 - INFO - [Kare 412/2250] 'frame_000411.PNG' işlendi (0.263s)
+2026-10-05 20:51:51,218 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:51,218 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:51,529 - INFO - [Kare 413/2250] 'frame_000412.PNG' işlendi (0.311s)
+2026-10-05 20:51:51,529 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:51,529 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:51,785 - INFO - [Kare 414/2250] 'frame_000413.PNG' işlendi (0.255s)
+2026-10-05 20:51:51,785 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:51,785 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:52,045 - INFO - [Kare 415/2250] 'frame_000414.PNG' işlendi (0.260s)
+2026-10-05 20:51:52,045 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:52,045 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:52,303 - INFO - [Kare 416/2250] 'frame_000415.PNG' işlendi (0.258s)
+2026-10-05 20:51:52,304 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:52,304 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:52,559 - INFO - [Kare 417/2250] 'frame_000416.PNG' işlendi (0.256s)
+2026-10-05 20:51:52,560 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:52,560 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:52,868 - INFO - [Kare 418/2250] 'frame_000417.PNG' işlendi (0.309s)
+2026-10-05 20:51:52,868 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:52,868 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:53,163 - INFO - [Kare 419/2250] 'frame_000418.PNG' işlendi (0.294s)
+2026-10-05 20:51:53,163 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:53,163 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:53,472 - INFO - [Kare 420/2250] 'frame_000419.PNG' işlendi (0.309s)
+2026-10-05 20:51:53,472 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:53,472 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:53,732 - INFO - [Kare 421/2250] 'frame_000420.PNG' işlendi (0.260s)
+2026-10-05 20:51:53,732 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:53,732 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:53,991 - INFO - [Kare 422/2250] 'frame_000421.PNG' işlendi (0.259s)
+2026-10-05 20:51:53,991 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:53,991 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:54,251 - INFO - [Kare 423/2250] 'frame_000422.PNG' işlendi (0.259s)
+2026-10-05 20:51:54,251 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:54,251 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:54,559 - INFO - [Kare 424/2250] 'frame_000423.PNG' işlendi (0.307s)
+2026-10-05 20:51:54,559 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:54,559 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:54,867 - INFO - [Kare 425/2250] 'frame_000424.PNG' işlendi (0.308s)
+2026-10-05 20:51:54,867 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:54,867 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:55,180 - INFO - [Kare 426/2250] 'frame_000425.PNG' işlendi (0.313s)
+2026-10-05 20:51:55,180 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:55,180 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:55,487 - INFO - [Kare 427/2250] 'frame_000426.PNG' işlendi (0.306s)
+2026-10-05 20:51:55,487 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:55,487 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:55,842 - INFO - [Kare 428/2250] 'frame_000427.PNG' işlendi (0.354s)
+2026-10-05 20:51:55,842 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:55,842 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:56,151 - INFO - [Kare 429/2250] 'frame_000428.PNG' işlendi (0.309s)
+2026-10-05 20:51:56,151 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:56,151 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:56,511 - INFO - [Kare 430/2250] 'frame_000429.PNG' işlendi (0.360s)
+2026-10-05 20:51:56,511 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:56,511 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:56,822 - INFO - [Kare 431/2250] 'frame_000430.PNG' işlendi (0.311s)
+2026-10-05 20:51:56,822 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:56,822 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:57,075 - INFO - [Kare 432/2250] 'frame_000431.PNG' işlendi (0.253s)
+2026-10-05 20:51:57,075 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:57,075 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:57,328 - INFO - [Kare 433/2250] 'frame_000432.PNG' işlendi (0.253s)
+2026-10-05 20:51:57,328 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:57,328 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:57,637 - INFO - [Kare 434/2250] 'frame_000433.PNG' işlendi (0.308s)
+2026-10-05 20:51:57,637 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:57,637 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:57,896 - INFO - [Kare 435/2250] 'frame_000434.PNG' işlendi (0.259s)
+2026-10-05 20:51:57,896 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:57,896 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:58,206 - INFO - [Kare 436/2250] 'frame_000435.PNG' işlendi (0.310s)
+2026-10-05 20:51:58,206 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:58,206 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:58,464 - INFO - [Kare 437/2250] 'frame_000436.PNG' işlendi (0.258s)
+2026-10-05 20:51:58,464 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:58,464 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:58,720 - INFO - [Kare 438/2250] 'frame_000437.PNG' işlendi (0.256s)
+2026-10-05 20:51:58,721 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:58,721 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:59,083 - INFO - [Kare 439/2250] 'frame_000438.PNG' işlendi (0.362s)
+2026-10-05 20:51:59,083 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:59,083 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:59,408 - INFO - [Kare 440/2250] 'frame_000439.PNG' işlendi (0.325s)
+2026-10-05 20:51:59,408 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:59,408 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:51:59,726 - INFO - [Kare 441/2250] 'frame_000440.PNG' işlendi (0.318s)
+2026-10-05 20:51:59,726 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:51:59,726 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:00,122 - INFO - [Kare 442/2250] 'frame_000441.PNG' işlendi (0.396s)
+2026-10-05 20:52:00,122 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:00,122 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:00,447 - INFO - [Kare 443/2250] 'frame_000442.PNG' işlendi (0.325s)
+2026-10-05 20:52:00,448 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:00,448 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:00,841 - INFO - [Kare 444/2250] 'frame_000443.PNG' işlendi (0.393s)
+2026-10-05 20:52:00,841 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:00,841 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:01,164 - INFO - [Kare 445/2250] 'frame_000444.PNG' işlendi (0.323s)
+2026-10-05 20:52:01,164 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:01,164 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:01,586 - INFO - [Kare 446/2250] 'frame_000445.PNG' işlendi (0.422s)
+2026-10-05 20:52:01,586 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:01,586 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:01,972 - INFO - [Kare 447/2250] 'frame_000446.PNG' işlendi (0.386s)
+2026-10-05 20:52:01,972 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:01,972 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:02,265 - INFO - [Kare 448/2250] 'frame_000447.PNG' işlendi (0.292s)
+2026-10-05 20:52:02,265 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:02,265 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:02,651 - INFO - [Kare 449/2250] 'frame_000448.PNG' işlendi (0.387s)
+2026-10-05 20:52:02,652 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:02,652 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:02,973 - INFO - [Kare 450/2250] 'frame_000449.PNG' işlendi (0.322s)
+2026-10-05 20:52:02,973 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:02,973 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:03,371 - INFO - [Kare 451/2250] 'frame_000450.PNG' işlendi (0.398s)
+2026-10-05 20:52:03,371 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:03,371 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:03,689 - INFO - [Kare 452/2250] 'frame_000451.PNG' işlendi (0.317s)
+2026-10-05 20:52:03,689 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:03,689 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:04,159 - INFO - [Kare 453/2250] 'frame_000452.PNG' işlendi (0.470s)
+2026-10-05 20:52:04,159 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:04,159 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:04,577 - INFO - [Kare 454/2250] 'frame_000453.PNG' işlendi (0.418s)
+2026-10-05 20:52:04,577 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:04,577 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:04,993 - INFO - [Kare 455/2250] 'frame_000454.PNG' işlendi (0.415s)
+2026-10-05 20:52:04,993 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:04,993 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:05,398 - INFO - [Kare 456/2250] 'frame_000455.PNG' işlendi (0.405s)
+2026-10-05 20:52:05,398 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:05,398 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:05,949 - INFO - [Kare 457/2250] 'frame_000456.PNG' işlendi (0.550s)
+2026-10-05 20:52:05,949 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:05,949 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:06,406 - INFO - [Kare 458/2250] 'frame_000457.PNG' işlendi (0.457s)
+2026-10-05 20:52:06,406 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:06,406 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:06,815 - INFO - [Kare 459/2250] 'frame_000458.PNG' işlendi (0.409s)
+2026-10-05 20:52:06,815 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:06,815 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:07,150 - INFO - [Kare 460/2250] 'frame_000459.PNG' işlendi (0.335s)
+2026-10-05 20:52:07,150 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:07,150 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:07,572 - INFO - [Kare 461/2250] 'frame_000460.PNG' işlendi (0.421s)
+2026-10-05 20:52:07,572 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:07,572 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:07,914 - INFO - [Kare 462/2250] 'frame_000461.PNG' işlendi (0.342s)
+2026-10-05 20:52:07,914 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:07,914 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:08,402 - INFO - [Kare 463/2250] 'frame_000462.PNG' işlendi (0.488s)
+2026-10-05 20:52:08,402 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:08,402 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:08,814 - INFO - [Kare 464/2250] 'frame_000463.PNG' işlendi (0.411s)
+2026-10-05 20:52:08,814 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:08,814 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:09,168 - INFO - [Kare 465/2250] 'frame_000464.PNG' işlendi (0.354s)
+2026-10-05 20:52:09,168 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:09,168 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:09,502 - INFO - [Kare 466/2250] 'frame_000465.PNG' işlendi (0.333s)
+2026-10-05 20:52:09,502 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:09,502 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:09,906 - INFO - [Kare 467/2250] 'frame_000466.PNG' işlendi (0.404s)
+2026-10-05 20:52:09,906 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:09,906 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:10,306 - INFO - [Kare 468/2250] 'frame_000467.PNG' işlendi (0.400s)
+2026-10-05 20:52:10,306 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:10,306 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:10,638 - INFO - [Kare 469/2250] 'frame_000468.PNG' işlendi (0.332s)
+2026-10-05 20:52:10,638 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:10,638 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:11,031 - INFO - [Kare 470/2250] 'frame_000469.PNG' işlendi (0.393s)
+2026-10-05 20:52:11,031 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:11,031 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:11,356 - INFO - [Kare 471/2250] 'frame_000470.PNG' işlendi (0.324s)
+2026-10-05 20:52:11,356 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:11,356 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:11,746 - INFO - [Kare 472/2250] 'frame_000471.PNG' işlendi (0.389s)
+2026-10-05 20:52:11,746 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:11,746 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:12,144 - INFO - [Kare 473/2250] 'frame_000472.PNG' işlendi (0.398s)
+2026-10-05 20:52:12,144 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:12,144 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:12,534 - INFO - [Kare 474/2250] 'frame_000473.PNG' işlendi (0.389s)
+2026-10-05 20:52:12,534 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:12,534 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:12,925 - INFO - [Kare 475/2250] 'frame_000474.PNG' işlendi (0.391s)
+2026-10-05 20:52:12,925 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:12,925 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:13,320 - INFO - [Kare 476/2250] 'frame_000475.PNG' işlendi (0.394s)
+2026-10-05 20:52:13,320 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:13,320 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:13,640 - INFO - [Kare 477/2250] 'frame_000476.PNG' işlendi (0.320s)
+2026-10-05 20:52:13,640 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:13,640 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:13,902 - INFO - [Kare 478/2250] 'frame_000477.PNG' işlendi (0.262s)
+2026-10-05 20:52:13,902 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:13,902 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:14,224 - INFO - [Kare 479/2250] 'frame_000478.PNG' işlendi (0.322s)
+2026-10-05 20:52:14,224 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:14,224 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:14,544 - INFO - [Kare 480/2250] 'frame_000479.PNG' işlendi (0.319s)
+2026-10-05 20:52:14,544 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:14,544 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:14,926 - INFO - [Kare 481/2250] 'frame_000480.PNG' işlendi (0.382s)
+2026-10-05 20:52:14,926 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:14,926 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:15,206 - INFO - [Kare 482/2250] 'frame_000481.PNG' işlendi (0.280s)
+2026-10-05 20:52:15,206 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:15,206 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:15,525 - INFO - [Kare 483/2250] 'frame_000482.PNG' işlendi (0.319s)
+2026-10-05 20:52:15,525 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:15,525 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:15,788 - INFO - [Kare 484/2250] 'frame_000483.PNG' işlendi (0.263s)
+2026-10-05 20:52:15,788 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:15,788 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:16,173 - INFO - [Kare 485/2250] 'frame_000484.PNG' işlendi (0.385s)
+2026-10-05 20:52:16,173 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:16,173 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:16,461 - INFO - [Kare 486/2250] 'frame_000485.PNG' işlendi (0.288s)
+2026-10-05 20:52:16,461 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:16,461 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:16,806 - INFO - [Kare 487/2250] 'frame_000486.PNG' işlendi (0.345s)
+2026-10-05 20:52:16,806 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:16,806 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:17,080 - INFO - [Kare 488/2250] 'frame_000487.PNG' işlendi (0.274s)
+2026-10-05 20:52:17,080 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:17,080 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:17,397 - INFO - [Kare 489/2250] 'frame_000488.PNG' işlendi (0.317s)
+2026-10-05 20:52:17,397 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:17,397 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:17,729 - INFO - [Kare 490/2250] 'frame_000489.PNG' işlendi (0.332s)
+2026-10-05 20:52:17,729 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:17,729 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:18,054 - INFO - [Kare 491/2250] 'frame_000490.PNG' işlendi (0.324s)
+2026-10-05 20:52:18,054 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:18,054 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:18,371 - INFO - [Kare 492/2250] 'frame_000491.PNG' işlendi (0.317s)
+2026-10-05 20:52:18,371 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:18,371 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:18,627 - INFO - [Kare 493/2250] 'frame_000492.PNG' işlendi (0.256s)
+2026-10-05 20:52:18,627 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:18,628 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:18,884 - INFO - [Kare 494/2250] 'frame_000493.PNG' işlendi (0.256s)
+2026-10-05 20:52:18,884 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:18,884 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:19,197 - INFO - [Kare 495/2250] 'frame_000494.PNG' işlendi (0.313s)
+2026-10-05 20:52:19,197 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:19,197 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:19,460 - INFO - [Kare 496/2250] 'frame_000495.PNG' işlendi (0.262s)
+2026-10-05 20:52:19,460 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:19,460 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:19,745 - INFO - [Kare 497/2250] 'frame_000496.PNG' işlendi (0.284s)
+2026-10-05 20:52:19,745 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:19,745 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:20,084 - INFO - [Kare 498/2250] 'frame_000497.PNG' işlendi (0.339s)
+2026-10-05 20:52:20,084 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:20,084 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:20,363 - INFO - [Kare 499/2250] 'frame_000498.PNG' işlendi (0.278s)
+2026-10-05 20:52:20,363 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:20,363 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:20,694 - INFO - [Kare 500/2250] 'frame_000499.PNG' işlendi (0.331s)
+2026-10-05 20:52:20,694 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:20,694 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:21,012 - INFO - [Kare 501/2250] 'frame_000500.PNG' işlendi (0.318s)
+2026-10-05 20:52:21,012 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:21,012 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:21,344 - INFO - [Kare 502/2250] 'frame_000501.PNG' işlendi (0.331s)
+2026-10-05 20:52:21,344 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:21,344 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:21,613 - INFO - [Kare 503/2250] 'frame_000502.PNG' işlendi (0.269s)
+2026-10-05 20:52:21,613 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:21,613 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:21,925 - INFO - [Kare 504/2250] 'frame_000503.PNG' işlendi (0.312s)
+2026-10-05 20:52:21,925 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:21,925 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:22,181 - INFO - [Kare 505/2250] 'frame_000504.PNG' işlendi (0.256s)
+2026-10-05 20:52:22,181 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:22,181 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:22,551 - INFO - [Kare 506/2250] 'frame_000505.PNG' işlendi (0.370s)
+2026-10-05 20:52:22,551 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:22,551 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:22,812 - INFO - [Kare 507/2250] 'frame_000506.PNG' işlendi (0.261s)
+2026-10-05 20:52:22,812 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:22,812 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:23,124 - INFO - [Kare 508/2250] 'frame_000507.PNG' işlendi (0.312s)
+2026-10-05 20:52:23,124 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:23,124 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:23,440 - INFO - [Kare 509/2250] 'frame_000508.PNG' işlendi (0.315s)
+2026-10-05 20:52:23,440 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:23,440 - INFO -       • [Tasit] BBox: [2576, 19, 2836, 164] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:23,440 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:23,699 - INFO - [Kare 510/2250] 'frame_000509.PNG' işlendi (0.259s)
+2026-10-05 20:52:23,700 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:23,700 - INFO -       • [Tasit] BBox: [2581, 81, 2845, 238] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:52:23,700 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:23,956 - INFO - [Kare 511/2250] 'frame_000510.PNG' işlendi (0.256s)
+2026-10-05 20:52:23,956 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:23,956 - INFO -       • [Tasit] BBox: [2584, 149, 2853, 312] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:52:23,956 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:24,263 - INFO - [Kare 512/2250] 'frame_000511.PNG' işlendi (0.307s)
+2026-10-05 20:52:24,263 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:24,263 - INFO -       • [Tasit] BBox: [2590, 223, 2861, 390] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:24,263 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:24,554 - INFO - [Kare 513/2250] 'frame_000512.PNG' işlendi (0.291s)
+2026-10-05 20:52:24,554 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:24,554 - INFO -       • [Tasit] BBox: [2596, 300, 2870, 469] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:24,554 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:24,830 - INFO - [Kare 514/2250] 'frame_000513.PNG' işlendi (0.276s)
+2026-10-05 20:52:24,830 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:24,830 - INFO -       • [Tasit] BBox: [2606, 381, 2883, 551] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:24,830 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:25,104 - INFO - [Kare 515/2250] 'frame_000514.PNG' işlendi (0.274s)
+2026-10-05 20:52:25,104 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:25,104 - INFO -       • [Tasit] BBox: [2618, 466, 2896, 637] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:25,104 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:25,364 - INFO - [Kare 516/2250] 'frame_000515.PNG' işlendi (0.260s)
+2026-10-05 20:52:25,364 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:25,364 - INFO -       • [Tasit] BBox: [2631, 552, 2912, 724] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:25,364 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:25,660 - INFO - [Kare 517/2250] 'frame_000516.PNG' işlendi (0.295s)
+2026-10-05 20:52:25,660 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:25,660 - INFO -       • [Tasit] BBox: [2640, 641, 2927, 813] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:25,660 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:25,935 - INFO - [Kare 518/2250] 'frame_000517.PNG' işlendi (0.275s)
+2026-10-05 20:52:25,935 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:25,935 - INFO -       • [Tasit] BBox: [2651, 733, 2941, 903] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:25,935 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:26,212 - INFO - [Kare 519/2250] 'frame_000518.PNG' işlendi (0.277s)
+2026-10-05 20:52:26,212 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:26,212 - INFO -       • [Tasit] BBox: [2662, 824, 2956, 995] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:26,212 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:26,494 - INFO - [Kare 520/2250] 'frame_000519.PNG' işlendi (0.281s)
+2026-10-05 20:52:26,494 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:26,494 - INFO -       • [Tasit] BBox: [2667, 914, 2964, 1084] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:26,494 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:26,817 - INFO - [Kare 521/2250] 'frame_000520.PNG' işlendi (0.323s)
+2026-10-05 20:52:26,817 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:26,817 - INFO -       • [Tasit] BBox: [2672, 1006, 2974, 1177] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:26,817 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:27,111 - INFO - [Kare 522/2250] 'frame_000521.PNG' işlendi (0.294s)
+2026-10-05 20:52:27,111 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:27,111 - INFO -       • [Tasit] BBox: [2678, 1100, 2984, 1272] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:27,111 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:27,418 - INFO - [Kare 523/2250] 'frame_000522.PNG' işlendi (0.307s)
+2026-10-05 20:52:27,418 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:27,419 - INFO -       • [Tasit] BBox: [2687, 1197, 2995, 1371] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:27,419 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:27,711 - INFO - [Kare 524/2250] 'frame_000523.PNG' işlendi (0.292s)
+2026-10-05 20:52:27,711 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:27,711 - INFO -       • [Tasit] BBox: [2696, 1299, 3006, 1473] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:27,711 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:28,046 - INFO - [Kare 525/2250] 'frame_000524.PNG' işlendi (0.334s)
+2026-10-05 20:52:28,046 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:28,046 - INFO -       • [Tasit] BBox: [2703, 1402, 3018, 1575] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:28,046 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:28,320 - INFO - [Kare 526/2250] 'frame_000525.PNG' işlendi (0.274s)
+2026-10-05 20:52:28,320 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:28,320 - INFO -       • [Tasit] BBox: [2712, 1509, 3029, 1683] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:28,320 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:28,593 - INFO - [Kare 527/2250] 'frame_000526.PNG' işlendi (0.272s)
+2026-10-05 20:52:28,593 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:28,593 - INFO -       • [Tasit] BBox: [2719, 1617, 3039, 1792] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:28,593 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:28,856 - INFO - [Kare 528/2250] 'frame_000527.PNG' işlendi (0.263s)
+2026-10-05 20:52:28,856 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:28,856 - INFO -       • [Tasit] BBox: [2723, 1727, 3049, 1904] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:28,856 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:29,125 - INFO - [Kare 529/2250] 'frame_000528.PNG' işlendi (0.269s)
+2026-10-05 20:52:29,126 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:29,126 - INFO -       • [Tasit] BBox: [2728, 1836, 3060, 2014] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:29,126 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:29,395 - INFO - [Kare 530/2250] 'frame_000529.PNG' işlendi (0.269s)
+2026-10-05 20:52:29,395 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:29,395 - INFO -       • [Tasit] BBox: [2733, 1946, 3068, 2126] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:29,395 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:29,661 - INFO - [Kare 531/2250] 'frame_000530.PNG' işlendi (0.266s)
+2026-10-05 20:52:29,662 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:29,662 - INFO -       • [Tasit] BBox: [2741, 2058, 3075, 2160] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:29,662 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:29,979 - INFO - [Kare 532/2250] 'frame_000531.PNG' işlendi (0.317s)
+2026-10-05 20:52:29,979 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:29,979 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:30,238 - INFO - [Kare 533/2250] 'frame_000532.PNG' işlendi (0.259s)
+2026-10-05 20:52:30,238 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:30,239 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:30,498 - INFO - [Kare 534/2250] 'frame_000533.PNG' işlendi (0.260s)
+2026-10-05 20:52:30,499 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:30,499 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:30,812 - INFO - [Kare 535/2250] 'frame_000534.PNG' işlendi (0.313s)
+2026-10-05 20:52:30,812 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:30,812 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:31,073 - INFO - [Kare 536/2250] 'frame_000535.PNG' işlendi (0.261s)
+2026-10-05 20:52:31,073 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:31,073 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:31,341 - INFO - [Kare 537/2250] 'frame_000536.PNG' işlendi (0.268s)
+2026-10-05 20:52:31,341 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:31,341 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:31,716 - INFO - [Kare 538/2250] 'frame_000537.PNG' işlendi (0.375s)
+2026-10-05 20:52:31,717 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:31,717 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:31,984 - INFO - [Kare 539/2250] 'frame_000538.PNG' işlendi (0.267s)
+2026-10-05 20:52:31,984 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:31,984 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:32,242 - INFO - [Kare 540/2250] 'frame_000539.PNG' işlendi (0.257s)
+2026-10-05 20:52:32,242 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:32,242 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:32,503 - INFO - [Kare 541/2250] 'frame_000540.PNG' işlendi (0.261s)
+2026-10-05 20:52:32,503 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:32,503 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:32,769 - INFO - [Kare 542/2250] 'frame_000541.PNG' işlendi (0.266s)
+2026-10-05 20:52:32,769 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:32,769 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:33,093 - INFO - [Kare 543/2250] 'frame_000542.PNG' işlendi (0.324s)
+2026-10-05 20:52:33,093 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:33,093 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:33,461 - INFO - [Kare 544/2250] 'frame_000543.PNG' işlendi (0.368s)
+2026-10-05 20:52:33,461 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:33,461 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:33,777 - INFO - [Kare 545/2250] 'frame_000544.PNG' işlendi (0.316s)
+2026-10-05 20:52:33,777 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:33,777 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:34,093 - INFO - [Kare 546/2250] 'frame_000545.PNG' işlendi (0.316s)
+2026-10-05 20:52:34,093 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:34,093 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:34,361 - INFO - [Kare 547/2250] 'frame_000546.PNG' işlendi (0.267s)
+2026-10-05 20:52:34,361 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:34,361 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:34,626 - INFO - [Kare 548/2250] 'frame_000547.PNG' işlendi (0.265s)
+2026-10-05 20:52:34,627 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:34,627 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:35,080 - INFO - [Kare 549/2250] 'frame_000548.PNG' işlendi (0.453s)
+2026-10-05 20:52:35,080 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:35,080 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:35,431 - INFO - [Kare 550/2250] 'frame_000549.PNG' işlendi (0.351s)
+2026-10-05 20:52:35,431 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:35,431 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:35,782 - INFO - [Kare 551/2250] 'frame_000550.PNG' işlendi (0.350s)
+2026-10-05 20:52:35,782 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:35,782 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:36,298 - INFO - [Kare 552/2250] 'frame_000551.PNG' işlendi (0.516s)
+2026-10-05 20:52:36,298 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:36,298 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:36,759 - INFO - [Kare 553/2250] 'frame_000552.PNG' işlendi (0.461s)
+2026-10-05 20:52:36,759 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:36,760 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:37,190 - INFO - [Kare 554/2250] 'frame_000553.PNG' işlendi (0.431s)
+2026-10-05 20:52:37,191 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:37,191 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:37,620 - INFO - [Kare 555/2250] 'frame_000554.PNG' işlendi (0.429s)
+2026-10-05 20:52:37,620 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:37,620 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:38,014 - INFO - [Kare 556/2250] 'frame_000555.PNG' işlendi (0.393s)
+2026-10-05 20:52:38,014 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:38,014 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:38,334 - INFO - [Kare 557/2250] 'frame_000556.PNG' işlendi (0.320s)
+2026-10-05 20:52:38,334 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:38,334 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:38,912 - INFO - [Kare 558/2250] 'frame_000557.PNG' işlendi (0.578s)
+2026-10-05 20:52:38,912 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:38,912 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:39,277 - INFO - [Kare 559/2250] 'frame_000558.PNG' işlendi (0.365s)
+2026-10-05 20:52:39,277 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:39,277 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:39,694 - INFO - [Kare 560/2250] 'frame_000559.PNG' işlendi (0.417s)
+2026-10-05 20:52:39,694 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:39,694 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:40,032 - INFO - [Kare 561/2250] 'frame_000560.PNG' işlendi (0.338s)
+2026-10-05 20:52:40,032 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:40,032 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:40,435 - INFO - [Kare 562/2250] 'frame_000561.PNG' işlendi (0.403s)
+2026-10-05 20:52:40,436 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:40,436 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:40,842 - INFO - [Kare 563/2250] 'frame_000562.PNG' işlendi (0.406s)
+2026-10-05 20:52:40,842 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:40,842 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:41,187 - INFO - [Kare 564/2250] 'frame_000563.PNG' işlendi (0.345s)
+2026-10-05 20:52:41,188 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:41,188 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:41,522 - INFO - [Kare 565/2250] 'frame_000564.PNG' işlendi (0.334s)
+2026-10-05 20:52:41,522 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:41,522 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:41,988 - INFO - [Kare 566/2250] 'frame_000565.PNG' işlendi (0.466s)
+2026-10-05 20:52:41,988 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:41,988 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:42,318 - INFO - [Kare 567/2250] 'frame_000566.PNG' işlendi (0.329s)
+2026-10-05 20:52:42,318 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:42,318 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:42,647 - INFO - [Kare 568/2250] 'frame_000567.PNG' işlendi (0.329s)
+2026-10-05 20:52:42,647 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:42,647 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:43,055 - INFO - [Kare 569/2250] 'frame_000568.PNG' işlendi (0.408s)
+2026-10-05 20:52:43,055 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:43,055 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:43,392 - INFO - [Kare 570/2250] 'frame_000569.PNG' işlendi (0.337s)
+2026-10-05 20:52:43,392 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:43,392 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:43,718 - INFO - [Kare 571/2250] 'frame_000570.PNG' işlendi (0.325s)
+2026-10-05 20:52:43,718 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:43,718 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:44,091 - INFO - [Kare 572/2250] 'frame_000571.PNG' işlendi (0.374s)
+2026-10-05 20:52:44,091 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:44,091 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:44,493 - INFO - [Kare 573/2250] 'frame_000572.PNG' işlendi (0.401s)
+2026-10-05 20:52:44,493 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:44,493 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:44,882 - INFO - [Kare 574/2250] 'frame_000573.PNG' işlendi (0.389s)
+2026-10-05 20:52:44,883 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:44,883 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:45,284 - INFO - [Kare 575/2250] 'frame_000574.PNG' işlendi (0.401s)
+2026-10-05 20:52:45,284 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:45,284 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:45,610 - INFO - [Kare 576/2250] 'frame_000575.PNG' işlendi (0.326s)
+2026-10-05 20:52:45,610 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:45,610 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:45,928 - INFO - [Kare 577/2250] 'frame_000576.PNG' işlendi (0.318s)
+2026-10-05 20:52:45,928 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:45,928 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:46,314 - INFO - [Kare 578/2250] 'frame_000577.PNG' işlendi (0.385s)
+2026-10-05 20:52:46,314 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:46,314 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:46,701 - INFO - [Kare 579/2250] 'frame_000578.PNG' işlendi (0.387s)
+2026-10-05 20:52:46,701 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:46,701 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:47,093 - INFO - [Kare 580/2250] 'frame_000579.PNG' işlendi (0.392s)
+2026-10-05 20:52:47,093 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:47,093 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:47,487 - INFO - [Kare 581/2250] 'frame_000580.PNG' işlendi (0.394s)
+2026-10-05 20:52:47,487 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:47,487 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:47,813 - INFO - [Kare 582/2250] 'frame_000581.PNG' işlendi (0.325s)
+2026-10-05 20:52:47,813 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:47,813 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:48,134 - INFO - [Kare 583/2250] 'frame_000582.PNG' işlendi (0.321s)
+2026-10-05 20:52:48,134 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:48,134 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:48,450 - INFO - [Kare 584/2250] 'frame_000583.PNG' işlendi (0.316s)
+2026-10-05 20:52:48,451 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:48,451 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:48,717 - INFO - [Kare 585/2250] 'frame_000584.PNG' işlendi (0.266s)
+2026-10-05 20:52:48,717 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:48,717 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:49,048 - INFO - [Kare 586/2250] 'frame_000585.PNG' işlendi (0.331s)
+2026-10-05 20:52:49,048 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:49,048 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:49,367 - INFO - [Kare 587/2250] 'frame_000586.PNG' işlendi (0.319s)
+2026-10-05 20:52:49,367 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:49,367 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:49,586 - INFO - [Kare 588/2250] 'frame_000587.PNG' işlendi (0.219s)
+2026-10-05 20:52:49,586 - INFO -   └── Görev 1: Nesne tespit edilmedi.
+2026-10-05 20:52:49,586 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:49,810 - INFO - [Kare 589/2250] 'frame_000588.PNG' işlendi (0.224s)
+2026-10-05 20:52:49,810 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:49,810 - INFO -       • [Insan] BBox: [609, 56, 650, 115] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:49,811 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:50,091 - INFO - [Kare 590/2250] 'frame_000589.PNG' işlendi (0.280s)
+2026-10-05 20:52:50,091 - INFO -   └── Görev 1 (Nesne Tespiti - 1 adet):
+2026-10-05 20:52:50,091 - INFO -       • [Insan] BBox: [598, 125, 637, 184] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,091 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:50,318 - INFO - [Kare 591/2250] 'frame_000590.PNG' işlendi (0.227s)
+2026-10-05 20:52:50,318 - INFO -   └── Görev 1 (Nesne Tespiti - 3 adet):
+2026-10-05 20:52:50,318 - INFO -       • [Insan] BBox: [584, 193, 625, 251] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,318 - INFO -       • [Insan] BBox: [902, 76, 946, 140] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,318 - INFO -       • [Insan] BBox: [977, 106, 1020, 176] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,318 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:50,542 - INFO - [Kare 592/2250] 'frame_000591.PNG' işlendi (0.224s)
+2026-10-05 20:52:50,543 - INFO -   └── Görev 1 (Nesne Tespiti - 3 adet):
+2026-10-05 20:52:50,543 - INFO -       • [Insan] BBox: [572, 264, 613, 321] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,543 - INFO -       • [Insan] BBox: [893, 147, 939, 215] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,543 - INFO -       • [Insan] BBox: [964, 176, 1010, 240] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,543 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:50,763 - INFO - [Kare 593/2250] 'frame_000592.PNG' işlendi (0.220s)
+2026-10-05 20:52:50,763 - INFO -   └── Görev 1 (Nesne Tespiti - 3 adet):
+2026-10-05 20:52:50,763 - INFO -       • [Insan] BBox: [559, 337, 601, 395] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,763 - INFO -       • [Insan] BBox: [879, 222, 928, 289] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,763 - INFO -       • [Insan] BBox: [953, 252, 1004, 329] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,763 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:50,989 - INFO - [Kare 594/2250] 'frame_000593.PNG' işlendi (0.225s)
+2026-10-05 20:52:50,989 - INFO -   └── Görev 1 (Nesne Tespiti - 3 adet):
+2026-10-05 20:52:50,989 - INFO -       • [Insan] BBox: [544, 410, 585, 469] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,989 - INFO -       • [Insan] BBox: [872, 295, 921, 364] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,989 - INFO -       • [Insan] BBox: [944, 325, 994, 406] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:50,989 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:51,290 - INFO - [Kare 595/2250] 'frame_000594.PNG' işlendi (0.301s)
+2026-10-05 20:52:51,291 - INFO -   └── Görev 1 (Nesne Tespiti - 4 adet):
+2026-10-05 20:52:51,291 - INFO -       • [Insan] BBox: [529, 487, 569, 545] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,291 - INFO -       • [Insan] BBox: [859, 370, 909, 439] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,291 - INFO -       • [Insan] BBox: [933, 398, 982, 477] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,291 - INFO -       • [Insan] BBox: [1702, 100, 1748, 156] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,291 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:51,535 - INFO - [Kare 596/2250] 'frame_000595.PNG' işlendi (0.244s)
+2026-10-05 20:52:51,535 - INFO -   └── Görev 1 (Nesne Tespiti - 5 adet):
+2026-10-05 20:52:51,535 - INFO -       • [Insan] BBox: [514, 568, 554, 622] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,535 - INFO -       • [Insan] BBox: [846, 447, 897, 516] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,535 - INFO -       • [Insan] BBox: [924, 477, 972, 552] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,535 - INFO -       • [Insan] BBox: [1698, 175, 1746, 232] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,535 - INFO -       • [Insan] BBox: [1692, 80, 1731, 135] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,535 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:51,773 - INFO - [Kare 597/2250] 'frame_000596.PNG' işlendi (0.237s)
+2026-10-05 20:52:51,773 - INFO -   └── Görev 1 (Nesne Tespiti - 6 adet):
+2026-10-05 20:52:51,773 - INFO -       • [Insan] BBox: [501, 647, 540, 704] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,773 - INFO -       • [Insan] BBox: [832, 527, 883, 596] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,773 - INFO -       • [Insan] BBox: [914, 555, 960, 626] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,773 - INFO -       • [Insan] BBox: [1692, 253, 1742, 309] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,773 - INFO -       • [Insan] BBox: [1685, 157, 1724, 213] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,773 - INFO -       • [Insan] BBox: [1773, 137, 1805, 195] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:51,773 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:52,015 - INFO - [Kare 598/2250] 'frame_000597.PNG' işlendi (0.242s)
+2026-10-05 20:52:52,015 - INFO -   └── Görev 1 (Nesne Tespiti - 8 adet):
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [487, 727, 526, 781] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [822, 607, 872, 676] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [904, 637, 951, 712] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [1687, 330, 1735, 386] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [1672, 234, 1712, 293] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [1766, 213, 1800, 275] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [1722, 224, 1755, 284] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,015 - INFO -       • [Insan] BBox: [1760, 214, 1793, 278] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,016 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:52,258 - INFO - [Kare 599/2250] 'frame_000598.PNG' işlendi (0.242s)
+2026-10-05 20:52:52,258 - INFO -   └── Görev 1 (Nesne Tespiti - 9 adet):
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [471, 808, 511, 861] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [810, 687, 860, 757] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [892, 712, 938, 786] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [1678, 407, 1731, 467] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [1764, 288, 1799, 349] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [1713, 302, 1752, 362] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -       • [Tasit] BBox: [1040, 88, 1124, 137] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [1682, 309, 1720, 366] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -       • [Insan] BBox: [2372, 62, 2408, 116] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,258 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:52,504 - INFO - [Kare 600/2250] 'frame_000599.PNG' işlendi (0.246s)
+2026-10-05 20:52:52,504 - INFO -   └── Görev 1 (Nesne Tespiti - 11 adet):
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [459, 888, 502, 941] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [800, 766, 851, 832] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [882, 793, 928, 863] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [1673, 482, 1730, 543] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [1759, 365, 1799, 426] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [1714, 378, 1751, 438] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Tasit] BBox: [1030, 162, 1117, 210] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [1680, 392, 1720, 451] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [2374, 133, 2415, 190] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [4, 139, 54, 209] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -       • [Insan] BBox: [1750, 370, 1786, 429] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,504 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:52,737 - INFO - [Kare 601/2250] 'frame_000600.PNG' işlendi (0.233s)
+2026-10-05 20:52:52,737 - INFO -   └── Görev 1 (Nesne Tespiti - 12 adet):
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [444, 969, 484, 1022] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [785, 847, 836, 908] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [869, 874, 916, 939] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [1672, 560, 1725, 617] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [1756, 438, 1792, 500] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [1714, 452, 1751, 512] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Tasit] BBox: [1019, 234, 1109, 281] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [1680, 474, 1721, 531] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [2372, 212, 2411, 263] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [764, 75, 806, 143] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [809, 74, 847, 143] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -       • [Insan] BBox: [2399, 160, 2437, 218] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,737 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:52,969 - INFO - [Kare 602/2250] 'frame_000601.PNG' işlendi (0.231s)
+2026-10-05 20:52:52,969 - INFO -   └── Görev 1 (Nesne Tespiti - 14 adet):
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [429, 1048, 468, 1099] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [773, 926, 823, 987] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [856, 949, 905, 1016] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [1667, 637, 1719, 693] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [1751, 514, 1784, 576] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [1716, 526, 1751, 585] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Tasit] BBox: [1011, 306, 1100, 353] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [1678, 545, 1716, 601] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [2371, 288, 2408, 340] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [753, 146, 795, 212] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [796, 146, 839, 212] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [2395, 230, 2432, 284] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [1732, 69, 1762, 137] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -       • [Insan] BBox: [1533, 73, 1574, 139] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:52,969 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:53,200 - INFO - [Kare 603/2250] 'frame_000602.PNG' işlendi (0.230s)
+2026-10-05 20:52:53,200 - INFO -   └── Görev 1 (Nesne Tespiti - 16 adet):
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [414, 1127, 456, 1180] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [763, 1005, 813, 1068] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [846, 1028, 894, 1095] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [1663, 713, 1714, 766] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Tasit] BBox: [1000, 379, 1091, 426] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [2371, 361, 2406, 411] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [742, 216, 781, 278] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [779, 217, 820, 285] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [2393, 303, 2434, 360] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [1721, 137, 1753, 202] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [1520, 145, 1562, 206] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [1745, 173, 1780, 242] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [1660, 614, 1699, 667] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Tasit] BBox: [1496, 76, 1558, 131] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [1506, 128, 1551, 191] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -       • [Insan] BBox: [1743, 591, 1772, 652] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,200 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
+2026-10-05 20:52:53,432 - INFO - [Kare 604/2250] 'frame_000603.PNG' işlendi (0.232s)
+2026-10-05 20:52:53,433 - INFO -   └── Görev 1 (Nesne Tespiti - 18 adet):
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [398, 1206, 441, 1258] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [751, 1083, 801, 1146] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [836, 1107, 883, 1174] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1655, 783, 1707, 841] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Tasit] BBox: [989, 450, 1081, 496] | İniş: Inis Alani Degil | Hareket: Sabit
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [2371, 427, 2409, 477] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [729, 285, 769, 347] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [769, 284, 808, 352] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [2393, 373, 2432, 426] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1706, 209, 1739, 276] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1503, 213, 1545, 280] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1732, 246, 1772, 313] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1652, 689, 1695, 744] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Tasit] BBox: [1471, 141, 1551, 192] | İniş: Inis Alani Degil | Hareket: Hareketli
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1370, 72, 1419, 160] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [3263, 92, 3298, 151] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1689, 684, 1731, 740] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -       • [Insan] BBox: [1741, 660, 1774, 716] | İniş: Inis Alani Degil | Hareket: Tasit Degil
+2026-10-05 20:52:53,433 - INFO -   └── Görev 2 (Konum - VO): X=0.00, Y=0.00, Z=0.00 (Sağlık: 1)
